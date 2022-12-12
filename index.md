@@ -22,10 +22,7 @@ sections:
         - title: PE Registration Examinations
           description: ""
           url: https://www.peb.gov.sg/pe_registration_intro.aspx
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: PEB Symposium 2022
+      button: Resources Button Name
 ---
