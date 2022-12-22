@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: About Us
+    url: /about-us/
+  - title: Acts & Rules
+    url: /acts-rules/
+  - title: Downloads
     collection: example-folder
+  - title: Useful Links
+    url: /useful-links
