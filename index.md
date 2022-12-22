@@ -23,7 +23,6 @@ sections:
           description: ""
           url: https://www.peb.gov.sg/pe_registration_intro.aspx
   - resources:
-      title: PEB Symposium 2022
-      button: Resources Button Name
+      title: News
+      button: View All
 ---
-
