@@ -4,14 +4,10 @@ title: Professional Engineers Board (PEB)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please beware of malware stealing login credentials saved in
-  internet browsers. Stay vigilant against malicious emails that can infect
-  devices with malware. Keep software and security patches up-to-date. Never
-  disclose your passwords and 2FA details to others.Please do not click on any
-  links if you receive SMSes that appear to be from PEB. Please be assured that
-  PEB will never ask or request for anyone’s personal details via SMS
-  notifications and / or automated phone messages. For any queries / feedback,
-  please email to registrar@peb.gov.sg.
+notification: Please do not click on any links if you receive SMSes that appear
+  to be from PEB. Please be assured that PEB will never ask or request for
+  anyone’s personal details via SMS notifications and / or automated phone
+  messages. For any queries / feedback, please email to registrar@peb.gov.sg.
 sections:
   - hero:
       title: Professional Engineers Board Singapore
