@@ -6,12 +6,14 @@ layout: post
 description: PEB Day of Dedication 2022
 image: ""
 ---
+
 #### PEB Day of Dedication 2022
 
 The most important day in the PEB Calendar. This year, we returned to a physical setting. This year’s theme was “Engineers as Key Enablers for a Sustainable and Resilient Smart City”. Over 370 participants, comprising invited guests, fellow professional engineers, newly registered PEs and award recipients attended the special event.
 
 #### Opening Address
 
+#### Launch of the PEB's 50th Anniversary Commemorative Book "Engineering the Future" - dedicated to all Professional Engineers!
 
 #### Distinguished Professional Engineer Award
 
