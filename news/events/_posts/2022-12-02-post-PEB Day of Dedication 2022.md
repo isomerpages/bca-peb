@@ -31,6 +31,17 @@ From left: Institute Professor of Singapore Institute of Technology, Er. Prof Ta
 (Click [here](https://www.peb.gov.sg/Downloads/PEB50thAnniversaryBook.pdf) to view the book)
 
 #### Distinguished Professional Engineer Award
+![Mdm Wee Choon Lian (spouse), receiving the Distinguished PE Award from the Minister](/images/PEB%20Day%20of%20Dedication%202022/dod2022_6.png)
+*Mdm Wee Choon Lian (spouse), receiving the Distinguished PE Award from the Minister, given Posthumously to the late Er. Ong See Ho.*
+
+![Er. Ong, former Dy CEO of BCA and Commissioner of Building Control](/images/PEB%20Day%20of%20Dedication%202022/dod2022_7.jpg)
+*Er. Ong, former Dy CEO of BCA and Commissioner of Building Control, contributed to the Changi Airport Infrastructure development and was pivotal in the development of the 1st e-plan submission system CORENET. He was also instrumental in setting up the Engineering Accreditation Board (EAB).*
+
+![Minister presenting the Distinguished PE Award to Er. Prof Tan Thiam Soon](/images/PEB%20Day%20of%20Dedication%202022/dod2022_8.jpg)
+*Minister presenting the Distinguished PE Award to Er. Prof Tan Thiam Soon for his leading role in the development of alternative fill materials to sand for land reclamation and sterling contributions to engineering education.*
+
+![Er. Prof Tan Thiam Soon delivering his keynote speech.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_9.jpg)
+*Er. Prof Tan Thiam Soon delivering his keynote speech.*
 
 #### Newly Registered Professional Engineers
 
