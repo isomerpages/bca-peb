@@ -25,7 +25,7 @@ In-Conversation with Guest-of-Honour, moderated by President PEB, Er. Lim Peng H
 
 **Track Speakers**
 ![Group Photo of Speakers](/images/peb4.jpg)
-Group Photo of Speakers. From Left: Er. Prof Liew Ah Choy, Mr Ou Guojian, Er. Vincent Tong, Chairman of Symposium Committee, Er. Dr Richard Liew, SMS Mr Tan Kiat How, President PEB, Er. Lim Peng Hong, Er. Lee Chuan Seng, Prof Lui Pao Chuen, Er. Yvonne Soh and Er. Jee Yi Yng (Not in Picture: Ms Hazel Khoo, Mr Tan Sze Tiong, Mr James Tan and Mr Laurence Liew)
+> Group Photo of Speakers. From Left: Er. Prof Liew Ah Choy, Mr Ou Guojian, Er. Vincent Tong, Chairman of Symposium Committee, Er. Dr Richard Liew, SMS Mr Tan Kiat How, President PEB, Er. Lim Peng Hong, Er. Lee Chuan Seng, Prof Lui Pao Chuen, Er. Yvonne Soh and Er. Jee Yi Yng (Not in Picture: Ms Hazel Khoo, Mr Tan Sze Tiong, Mr James Tan and Mr Laurence Liew)
 
 11 speakers were invited by PEB to share on 4 main themes/tracks that ties in with the Symposium theme, namely Track 1: Sustainability for the Future, Track 2: Engineering that shapes Singapore, Track 3: Innovation and Digitalization, Track 4: Future Trend for Engineering.  
 In Track 1, speakers Er. Lee Chuan Seng, Er. Vincent Tong, Er. Yvonne Soh highlighted the growing importance to incorporate sustainability element into the work of engineers and PEs which posed both challenges and opportunities. In Track 2, speakers Ms Hazel Khoo, Er. Jee Yi Yng, Mr Ou Guojian covered topics on challenges and opportunities in our coastal protection strategy, significant major engineering projects that transformed Singapore and building with sustainability.
