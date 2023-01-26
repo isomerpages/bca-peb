@@ -18,8 +18,7 @@ The most important day in the PEB Calendar. This year, we returned to a physical
 *Minister Mr Desmond Lee thanked the PEB and Professional Engineers for their role in nation building. He spoke on Sustainability, Resilience and Smart, and how Engineers will help address future challenges in these areas.*
 
 ![Er. Lim Peng Hong, President of the Professional Engineers Board](/images/PEB%20Day%20of%20Dedication%202022/dod2022_4.jpg)
-*Er. Lim Peng Hong, President of the Professional Engineers Board, welcomed  
-participants and congratulated all new recipients.*
+*Er. Lim Peng Hong, President of the Professional Engineers Board, welcomed participants and congratulated all new recipients.*
 
 Click [here](https://www.peb.gov.sg/Downloads/PEBPresidentSpeech_DOD2022.pdf)
  for the President's speech.
