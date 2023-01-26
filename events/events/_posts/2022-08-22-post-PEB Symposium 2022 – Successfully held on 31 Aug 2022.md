@@ -35,13 +35,13 @@ In-Conversation with Guest-of-Honour, moderated by President PEB, Er. Lim Peng H
 In Track 1, speakers Er. Lee Chuan Seng, Er. Vincent Tong, Er. Yvonne Soh highlighted the growing importance to incorporate sustainability element into the work of engineers and PEs which posed both challenges and opportunities. 
 
 ![Track 2 Dialogue with Speakers](/images/peb6.jpg)
-*Track 2 Dialogue with Speakers, moderated by Board Member, Er. Chua Tong Seng (1st from left). Speakers from Left: Ms Hazel Khoo, Er. Jee Yi Yng and Mr Ou Guojian
-*
+*Track 2 Dialogue with Speakers, moderated by Board Member, Er. Chua Tong Seng (1st from left). Speakers from Left: Ms Hazel Khoo, Er. Jee Yi Yng and Mr Ou Guojian*
+
 In Track 2, speakers Ms Hazel Khoo, Er. Jee Yi Yng, Mr Ou Guojian covered topics on challenges and opportunities in our coastal protection strategy, significant major engineering projects that transformed Singapore and building with sustainability.
 
 ![Track 3 Dialogue with Speakers](/images/peb7.jpg)
-*Track 3 Dialogue with Speakers, moderated by Board Member, Er. Jacqueline Chan (1st from left). Speakers from Left: Mr James Tan, Mr Tan Sze Tiong and Mr Laurence Liew
-*
+*Track 3 Dialogue with Speakers, moderated by Board Member, Er. Jacqueline Chan (1st from left). Speakers from Left: Mr James Tan, Mr Tan Sze Tiong and Mr Laurence Liew*
+
 In Track 3, speakers Mr Tan Sze Tiong, Mr James Tan, Mr Laurence Liew shared on how innovation and digitalization can be leveraged to transform how engineers and PEs do their work. 
 
 ![Track 4 Speakers](/images/peb8.jpg)
