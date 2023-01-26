@@ -6,8 +6,6 @@ layout: post
 description: PEB Symposium 2022
 image: /images/peb1.jpg
 ---
-
-
 In celebration of the Professional Engineers Board (PEB)’s 50th Anniversary (1971 to 2021), Symposium was held on 31 August 2022 at Marina Bay Sands, Sands Expo and Convention Centre. About 500 Professional Engineers (PEs) and guests attended the symposium. The theme of the Symposium, “Engineering a Sustainable, Green and Innovation Singapore” highlighted the new challenges and the abundant opportunities for engineers to apply new skills to decarbonise and transform Singapore’s economy and built environment in the next 50 years to a sustainable smart city.
 
 #### Theme: Engineering a Sustainable, Green and Innovative Singapore
