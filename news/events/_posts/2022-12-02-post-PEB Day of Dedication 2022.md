@@ -28,7 +28,7 @@ Click [here](https://www.peb.gov.sg/Downloads/PEBPresidentSpeech_DOD2022.pdf)
 *Unveiling of PEB’s book, “Engineering the Future”, commemorating the 50th Anniversary of the PEB.  
 From left: Institute Professor of Singapore Institute of Technology, Er. Prof Tan Thiam Soon, CEO of Building and Construction Authority, Mr Kelvin Wong, Minister Mr Desmond Lee, President of PEB, Er. Lim Peng Hong, PEB Book Committee Board Members, Er. Chua Tong Seng and Er. Kng Meng Hwee.*
 
-(Click [here](https://www.peb.gov.sg/Downloads/PEB50thAnniversaryBook.pdf) to view the book)
+Click [here](https://www.peb.gov.sg/Downloads/PEB50thAnniversaryBook.pdf) to view the book.
 
 #### Distinguished Professional Engineer Award
 ![Mdm Wee Choon Lian (spouse), receiving the Distinguished PE Award from the Minister](/images/PEB%20Day%20of%20Dedication%202022/dod2022_6.png)
