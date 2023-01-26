@@ -24,30 +24,31 @@ President PEB, Er. Lim Peng Hong in his address, acknowledged that engineers hav
 *In-Conversation with Guest-of-Honour, moderated by President PEB, Er. Lim Peng Hong*
 
 #### Track Speakers
+
+11 speakers were invited by PEB to share on 4 main themes/tracks that ties in with the Symposium theme, namely Track 1: Sustainability for the Future, Track 2: Engineering that shapes Singapore, Track 3: Innovation and Digitalization, Track 4: Future Trend for Engineering.  
+
 ![Group Photo of Speakers](/images/PEB%20Symposium%202022/peb4.jpg)
 *Group Photo of Speakers. From Left: Er. Prof Liew Ah Choy, Mr Ou Guojian, Er. Vincent Tong, Chairman of Symposium Committee, Er. Dr Richard Liew, SMS Mr Tan Kiat How, President PEB, Er. Lim Peng Hong, Er. Lee Chuan Seng, Prof Lui Pao Chuen, Er. Yvonne Soh and Er. Jee Yi Yng (Not in Picture: Ms Hazel Khoo, Mr Tan Sze Tiong, Mr James Tan and Mr Laurence Liew)*
 
-11 speakers were invited by PEB to share on 4 main themes/tracks that ties in with the Symposium theme, namely Track 1: Sustainability for the Future, Track 2: Engineering that shapes Singapore, Track 3: Innovation and Digitalization, Track 4: Future Trend for Engineering.  
+In Track 1, speakers Er. Lee Chuan Seng, Er. Vincent Tong, Er. Yvonne Soh highlighted the growing importance to incorporate sustainability element into the work of engineers and PEs which posed both challenges and opportunities. 
 
 ![Track 1 Speakers](/images/PEB%20Symposium%202022/peb5.jpg)
 *Track 1 Speakers Er. Lee Chuan Seng (2nd from left), Er. Vincent Tong (3rd from left) and Er. Yvonne Soh (last from left) with Moderator and Board Member, Er. Teo Yann (1st from left)*
 
-In Track 1, speakers Er. Lee Chuan Seng, Er. Vincent Tong, Er. Yvonne Soh highlighted the growing importance to incorporate sustainability element into the work of engineers and PEs which posed both challenges and opportunities. 
+In Track 2, speakers Ms Hazel Khoo, Er. Jee Yi Yng, Mr Ou Guojian covered topics on challenges and opportunities in our coastal protection strategy, significant major engineering projects that transformed Singapore and building with sustainability.
 
 ![Track 2 Dialogue with Speakers](/images/PEB%20Symposium%202022/peb6.jpg)
 *Track 2 Dialogue with Speakers, moderated by Board Member, Er. Chua Tong Seng (1st from left). Speakers from Left: Ms Hazel Khoo, Er. Jee Yi Yng and Mr Ou Guojian*
 
-In Track 2, speakers Ms Hazel Khoo, Er. Jee Yi Yng, Mr Ou Guojian covered topics on challenges and opportunities in our coastal protection strategy, significant major engineering projects that transformed Singapore and building with sustainability.
+In Track 3, speakers Mr Tan Sze Tiong, Mr James Tan, Mr Laurence Liew shared on how innovation and digitalization can be leveraged to transform how engineers and PEs do their work. 
 
 ![Track 3 Dialogue with Speakers](/images/PEB%20Symposium%202022/peb7.jpg)
 *Track 3 Dialogue with Speakers, moderated by Board Member, Er. Jacqueline Chan (1st from left). Speakers from Left: Mr James Tan, Mr Tan Sze Tiong and Mr Laurence Liew*
 
-In Track 3, speakers Mr Tan Sze Tiong, Mr James Tan, Mr Laurence Liew shared on how innovation and digitalization can be leveraged to transform how engineers and PEs do their work. 
+In Track 4, speakers Prof Lui Pao Chuen and Er. Prof Liew Ah Choy highlighted the future trends of engineering in the energy sector and in safeguarding our national security.
 
 ![Track 4 Speakers](/images/PEB%20Symposium%202022/peb8.jpg)
 *Track 4 Speakers Prof Liu Pao Chuen(centre) and Er. Prof Liew Ah Choy (right) with Moderator and Board Member, Er. Dr Johnny Wong (left)*
-
-In Track 4, speakers Prof Lui Pao Chuen and Er. Prof Liew Ah Choy highlighted the future trends of engineering in the energy sector and in safeguarding our national security.
 
 There were lively exchanges during the dialogue sessions with many participants sharing their views and suggestions to enhance the professional engineering practice in Singapore. 
 
