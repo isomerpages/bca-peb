@@ -26,3 +26,5 @@ The most important day in the PEB Calendar. This year, we returned to a physical
 #### Newworking at Lunch
 
 #### A Big Thank You to All - A Successful DOD
+
+The Board Members and PEB Staff wish to thank everyone who participated in the Day of Dedication 2022!
