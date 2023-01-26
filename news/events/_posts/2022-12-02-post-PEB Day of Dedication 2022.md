@@ -43,15 +43,30 @@ From left: Institute Professor of Singapore Institute of Technology, Er. Prof Ta
 *Er. Prof Tan Thiam Soon delivering his keynote speech.*
 
 #### Newly Registered Professional Engineers
+![Congratulations to our 66 newly registered Professional Engineers for 2022.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_27.jpg)
+*Congratulations to our 66 newly registered Professional Engineers for 2022.  
+Please continue to uphold the standing and reputation of the profession!*
 
 #### Specialist Professional Engineers ^ ASEAN Chartered Professional Engineers
+![Our new SPEs on stage with Minister.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_11.jpg)
+*Our new SPEs on stage with Minister. In total, 14 PEs received their Specialist Professional Engineer certificates in the branches of Crane engineering, Geotechnical engineering, Lift and Escalator engineering and Tunnelling engineering.*
+
+![12 PEs attained their Asean Chartered Professional Engineer Certificates under MRA.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_12.jpg)
+*12 PEs attained their Asean Chartered Professional Engineer Certificates under the ASEAN Mutual Recognition Arrangement (MRA) for Engineering Services.*
 
 #### PEB Gold Medal Awards
+![PEB Gold medal winners on stage with Minister. In total, 6 students from NUS and 6 students from NTU](/images/PEB%20Day%20of%20Dedication%202022/dod2022_13.png)
+*PEB Gold medal winners on stage with Minister. In total, 6 students from NUS and 6 students from NTU received Gold Medals from the PEB for their outstanding academic achievements.*
 
 #### Professional Engineer Pledge
+![Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_14.jpg)
+*Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge to uphold the standing and reputation of the profession!*
+
+![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_15.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_16.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_17.jpg)
 
 #### Newworking at Lunch
+![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_18.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_19.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_20.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_21.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_22.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_23.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_24.jpg)
 
 #### A Big Thank You to All - A Successful DOD
-
+![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_25.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_26.jpg)
 The Board Members and PEB Staff wish to thank everyone who participated in the Day of Dedication 2022!
