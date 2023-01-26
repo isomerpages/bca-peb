@@ -6,7 +6,6 @@ layout: post
 description: PEB Symposium 2022
 image: /images/PEB Symposium 2022/peb1.jpg
 ---
-
 In celebration of the Professional Engineers Board (PEB)’s 50th Anniversary (1971 to 2021), Symposium was held on 31 August 2022 at Marina Bay Sands, Sands Expo and Convention Centre. About 500 Professional Engineers (PEs) and guests attended the symposium. The theme of the Symposium, “Engineering a Sustainable, Green and Innovation Singapore” highlighted the new challenges and the abundant opportunities for engineers to apply new skills to decarbonise and transform Singapore’s economy and built environment in the next 50 years to a sustainable smart city.
 
 #### Theme: Engineering a Sustainable, Green and Innovative Singapore
@@ -22,7 +21,7 @@ In the opening address by the Guest-of-Honour, Mr Tan Kiat How, Senior Minister 
 President PEB, Er. Lim Peng Hong in his address, acknowledged that engineers have made significant contributions in building transportation infrastructure and many other infrastructures needed to progress the nation in the last 50 years of nation building. He stressed the importance of building with the environment where current and future generations of engineers need to be prepared not just to build, but to build sustainably. He also highlighted PEs’ strength as problem solvers and innovators will be needed even more to overcome new challenges and realize a more technologically advanced and desirable city to live, work and play. Lastly, he reminded all PEs of their responsibility of ensuring that public safety was never compromised. Please read the details of President’s speech in [https://www.peb.gov.sg/Downloads/SYM2022.pdf](https://www.peb.gov.sg/Downloads/SYM2022.pdf)
 
 ![In-Conversation with Guest-of-Honour, moderated by President PEB, Er. Lim Peng Hong](/images/PEB%20Symposium%202022/peb3.jpg)
-In-Conversation with Guest-of-Honour, moderated by President PEB, Er. Lim Peng Hong
+*In-Conversation with Guest-of-Honour, moderated by President PEB, Er. Lim Peng Hong*
 
 #### Track Speakers
 ![Group Photo of Speakers](/images/PEB%20Symposium%202022/peb4.jpg)
