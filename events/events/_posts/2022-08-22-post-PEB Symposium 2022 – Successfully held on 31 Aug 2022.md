@@ -7,9 +7,11 @@ description: ""
 image: ""
 ---
 In celebration of the Professional Engineers Board (PEB)’s 50th Anniversary (1971 to 2021), Symposium was held on 31 August 2022 at Marina Bay Sands, Sands Expo and Convention Centre. About 500 Professional Engineers (PEs) and guests attended the symposium. The theme of the Symposium, “Engineering a Sustainable, Green and Innovation Singapore” highlighted the new challenges and the abundant opportunities for engineers to apply new skills to decarbonise and transform Singapore’s economy and built environment in the next 50 years to a sustainable smart city.
-![SMS Mr Tan Kiat How in his Opening Address](/images/peb1.jpg)
 
 **Theme: Engineering a Sustainable, Green and Innovative Singapore**
+
+![SMS Mr Tan Kiat How in his Opening Address](/images/peb1.jpg)
+SMS Mr Tan Kiat How in his Opening Address
 
 In the opening address by the Guest-of-Honour, Mr Tan Kiat How, Senior Minister of State for Ministry of Communications and Information &amp; Ministry of National Development, he thanked PEs for their collective efforts in overcoming tough challenges brought about by the COVID-19 pandemic which had profound impact on the built environment sector. He emphasized that there is need to press on with transformation, accelerate the transformation journey and provide support to uplift the sector and capture more opportunities for the future. SMS Tan elaborated on the Singapore Green Plan 2030 launched last year which plans to tackle climate change as a nation and unlock new opportunities, which will enhance our competitive advantage by riding this green wave. SMS Tan also acknowledged that talent attraction and retention in the engineering sector are a key area of concern and reiterated what the Government and industry are doing to draw more engineers and grow their careers. He called for engineering firms to join the Government in the endeavour on talent attraction and retention for the industry – to redesign jobs to increase productivity and improve the work-life balance of the engineers, and to reward them in their upskilling journey. Please read the details of MOS Tan’ speech in https://www.mnd.gov.sg/newsroom/speeches/view/opening-address-by-sms-tan-kiat-how-at-the-professional-engineers-board-symposium
 
