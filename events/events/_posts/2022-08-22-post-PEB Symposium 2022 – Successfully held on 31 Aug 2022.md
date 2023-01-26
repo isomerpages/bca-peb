@@ -54,11 +54,23 @@ There were lively exchanges during the dialogue sessions with many participants 
 #### Event Sponsors
 We would like to thank our event sponsors, AECOM Singapore Pte Ltd, Woh Hup (Private) Limited and Continental Steel Pte Ltd for helping to make the PEB Symposium 2022 possible and all who had attended the event. We hope that participants had a fruitful time in exchanging knowledge, engaging in valuable discussions about the future of engineering and building relationships for deeper collaboration and will be better equipped to sieze opportunities help Singapore transit to a sustainable smart city.
 
-![Event Sponsors: AECOM Singapore Pte Ltd](/images/peb9.jpg)
-*Event Sponsors: AECOM Singapore Pte Ltd*
+![Event Sponsor: AECOM Singapore Pte Ltd](/images/peb9.jpg)
+*Event Sponsor: AECOM Singapore Pte Ltd*
 
-![Event Sponsors: Woh Hup (Private) Limited](/images/peb10.jpg)
-*Event Sponsors: Woh Hup (Private) Limited*
+![Event Sponsor: Woh Hup (Private) Limited](/images/peb10.jpg)
+*Event Sponsor: Woh Hup (Private) Limited*
 
-![Event Sponsors: Continental Steel Pte Ltd](/images/peb11.jpg)
-*Event Sponsors: Continental Steel Pte Ltd*
+![Event Sponsor: Continental Steel Pte Ltd](/images/peb11.jpg)
+*Event Sponsor: Continental Steel Pte Ltd*
+
+![PEB Symposium 2022 at Cassia Main Ballroom, Sands Expo and Convention Centre, Marina Bay Sands](/images/peb12.jpg)
+*PEB Symposium 2022 at Cassia Main Ballroom, Sands Expo and Convention Centre, Marina Bay Sands*
+
+![Board Members of Professional Engineers Board (2021 - 2023)](/images/peb13.jpg)
+*Board Members of Professional Engineers Board (2021 - 2023)*
+
+![Participants at PEB Symposium 2022](/images/peb14.jpg)
+*Participants at PEB Symposium 2022*
+
+![Participant engaging with Speakers during Dialogue with Speakers segment.](/images/peb15.jpg)
+*Participant engaging with Speakers during Dialogue with Speakers segment*
