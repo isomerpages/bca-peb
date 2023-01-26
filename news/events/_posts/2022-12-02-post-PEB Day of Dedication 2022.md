@@ -6,8 +6,6 @@ layout: post
 description: PEB Day of Dedication 2022
 image: /images/PEB Day of Dedication 2022/dod2022_1.png
 ---
-
-
 ![PEB Day of Dedication 2022](/images/PEB%20Day%20of%20Dedication%202022/dod2022_1.png)
 
 #### PEB Day of Dedication 2022
@@ -29,6 +27,7 @@ Click [here](https://www.peb.gov.sg/Downloads/PEBPresidentSpeech_DOD2022.pdf)
 ![Unveiling of PEB’s book, “Engineering the Future”](/images/PEB%20Day%20of%20Dedication%202022/dod2022_5.jpg)
 *Unveiling of PEB’s book, “Engineering the Future”, commemorating the 50th Anniversary of the PEB.  
 From left: Institute Professor of Singapore Institute of Technology, Er. Prof Tan Thiam Soon, CEO of Building and Construction Authority, Mr Kelvin Wong, Minister Mr Desmond Lee, President of PEB, Er. Lim Peng Hong, PEB Book Committee Board Members, Er. Chua Tong Seng and Er. Kng Meng Hwee.*
+
 (Click [here](https://www.peb.gov.sg/Downloads/PEB50thAnniversaryBook.pdf) to view the book)
 
 #### Distinguished Professional Engineer Award
@@ -46,8 +45,7 @@ From left: Institute Professor of Singapore Institute of Technology, Er. Prof Ta
 
 #### Newly Registered Professional Engineers
 ![Congratulations to our 66 newly registered Professional Engineers for 2022.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_27.jpg)
-*Congratulations to our 66 newly registered Professional Engineers for 2022.  
-Please continue to uphold the standing and reputation of the profession!*
+*Congratulations to our 66 newly registered Professional Engineers for 2022. Please continue to uphold the standing and reputation of the profession!*
 
 #### Specialist Professional Engineers ^ ASEAN Chartered Professional Engineers
 ![Our new SPEs on stage with Minister.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_11.jpg)
@@ -61,9 +59,10 @@ Please continue to uphold the standing and reputation of the profession!*
 *PEB Gold medal winners on stage with Minister. In total, 6 students from NUS and 6 students from NTU received Gold Medals from the PEB for their outstanding academic achievements.*
 
 #### Professional Engineer Pledge
-![Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_14.jpg)
-*Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge to uphold the standing and reputation of the profession!*
 
+Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge to uphold the standing and reputation of the profession!
+
+![Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_14.jpg)
 ![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_15.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_16.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_17.jpg)
 
 #### Newworking at Lunch
