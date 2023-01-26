@@ -25,7 +25,11 @@ President PEB, Er. Lim Peng Hong in his address, acknowledged that engineers hav
 
 #### Track Speakers
 
-11 speakers were invited by PEB to share on 4 main themes/tracks that ties in with the Symposium theme, namely Track 1: Sustainability for the Future, Track 2: Engineering that shapes Singapore, Track 3: Innovation and Digitalization, Track 4: Future Trend for Engineering.  
+11 speakers were invited by PEB to share on 4 main themes/tracks that ties in with the Symposium theme, namely:
+* Track 1: Sustainability for the Future
+* Track 2: Engineering that shapes Singapore
+* Track 3: Innovation and Digitalization
+* Track 4: Future Trend for Engineering
 
 ![Group Photo of Speakers](/images/PEB%20Symposium%202022/peb4.jpg)
 *Group Photo of Speakers. From Left: Er. Prof Liew Ah Choy, Mr Ou Guojian, Er. Vincent Tong, Chairman of Symposium Committee, Er. Dr Richard Liew, SMS Mr Tan Kiat How, President PEB, Er. Lim Peng Hong, Er. Lee Chuan Seng, Prof Lui Pao Chuen, Er. Yvonne Soh and Er. Jee Yi Yng (Not in Picture: Ms Hazel Khoo, Mr Tan Sze Tiong, Mr James Tan and Mr Laurence Liew)*
