@@ -39,8 +39,26 @@ In Track 1, speakers Er. Lee Chuan Seng, Er. Vincent Tong, Er. Yvonne Soh highli
 *
 In Track 2, speakers Ms Hazel Khoo, Er. Jee Yi Yng, Mr Ou Guojian covered topics on challenges and opportunities in our coastal protection strategy, significant major engineering projects that transformed Singapore and building with sustainability.
 
+![Track 3 Dialogue with Speakers](/images/peb7.jpg)
+*Track 3 Dialogue with Speakers, moderated by Board Member, Er. Jacqueline Chan (1st from left). Speakers from Left: Mr James Tan, Mr Tan Sze Tiong and Mr Laurence Liew
+*
+In Track 3, speakers Mr Tan Sze Tiong, Mr James Tan, Mr Laurence Liew shared on how innovation and digitalization can be leveraged to transform how engineers and PEs do their work. 
 
-In Track 3, speakers Mr Tan Sze Tiong, Mr James Tan, Mr Laurence Liew shared on how innovation and digitalization can be leveraged to transform how engineers and PEs do their work. In Track 4, speakers Prof Lui Pao Chuen and Er. Prof Liew Ah Choy highlighted the future trends of engineering in the energy sector and in safeguarding our national security.
+![Track 4 Speakers](/images/peb8.jpg)
+*Track 4 Speakers Prof Liu Pao Chuen(centre) and Er. Prof Liew Ah Choy (right) with Moderator and Board Member, Er. Dr Johnny Wong (left)*
 
+In Track 4, speakers Prof Lui Pao Chuen and Er. Prof Liew Ah Choy highlighted the future trends of engineering in the energy sector and in safeguarding our national security.
 
-There were lively exchanges during the dialogue sessions with many participants sharing their views and suggestions to enhance the professional engineering practice in Singapore. We would like to thank our event sponsors, AECOM Singapore Pte Ltd, Woh Hup (Private) Limited and Continental Steel Pte Ltd for helping to make the PEB Symposium 2022 possible and all who had attended the event. We hope that participants had a fruitful time in exchanging knowledge, engaging in valuable discussions about the future of engineering and building relationships for deeper collaboration and will be better equipped to sieze opportunities help Singapore transit to a sustainable smart city.
+There were lively exchanges during the dialogue sessions with many participants sharing their views and suggestions to enhance the professional engineering practice in Singapore. 
+
+#### Event Sponsors
+We would like to thank our event sponsors, AECOM Singapore Pte Ltd, Woh Hup (Private) Limited and Continental Steel Pte Ltd for helping to make the PEB Symposium 2022 possible and all who had attended the event. We hope that participants had a fruitful time in exchanging knowledge, engaging in valuable discussions about the future of engineering and building relationships for deeper collaboration and will be better equipped to sieze opportunities help Singapore transit to a sustainable smart city.
+
+![Event Sponsors: AECOM Singapore Pte Ltd](/images/peb9.jpg)
+*Event Sponsors: AECOM Singapore Pte Ltd*
+
+![Event Sponsors: Woh Hup (Private) Limited](/images/peb10.jpg)
+*Event Sponsors: Woh Hup (Private) Limited*
+
+![Event Sponsors: Continental Steel Pte Ltd](/images/peb11.jpg)
+*Event Sponsors: Continental Steel Pte Ltd*
