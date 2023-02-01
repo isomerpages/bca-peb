@@ -66,3 +66,12 @@ If you do not have Adobe Acrobat Reader, you can download a free copy from here:
 | 1995 -|  [Professional Engineers (Amendment) Rules, 1995](https://www.peb.gov.sg/Archive/perule95.pdf) <br>(in operation on 1 Apr 1995)|
 | 2004 -|  [Professional Engineers (Amendment) Rules, 2004](https://www.peb.gov.sg/Archive/perules04.pdf) <br>(in operation on 1 Jan 2004)|
 | 2005 -|  [Professional Engineers (Amendment) Rules, 2005](https://www.peb.gov.sg/Archive/perules05.pdf) <br>(in operation on 1 Dec 2005)|
+
+
+**Archive of Professional Engineers Board Rules**
+
+| Year | Archived File  |
+| -------- | -------- |
+| 1971 -|  [Professional Engineers Board Rules, 1971](https://www.peb.gov.sg/Archive/pebrule71.pdf) <br>(in operation on 30 Apr 1971)|
+| 2005 -|  [Professional Engineers Board (Amendment) Rules, 2005](https://www.peb.gov.sg/Archive/pebrule05.pdf) <br>(in operation on 1 Oct 2005)|
+| 2005 -|  [Professional Engineers (Amendment No 2) Rules, 2005](https://www.peb.gov.sg/Archive/pebrule05a.pdf) <br>(in operation on 1 Dec 2005)|
