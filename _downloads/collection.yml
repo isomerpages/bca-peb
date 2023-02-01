@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Annual Reports & Financial Statements.md
-      - Information on Examinations/Practice of Professional Engineering
-        Examination 2023.md
       - Information on Examinations/.keep
       - Information on Examinations/Fundamentals of Engineering Examination
         2022.md
