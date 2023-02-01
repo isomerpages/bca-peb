@@ -7,12 +7,12 @@ description: ""
 
 You can view archives of:  
 
-*   [**Professional Engineers Act**](https://www.peb.gov.sg/archive.aspx#PEAct)
-*   [**Professional Engineers (Code of Professional Conduct and Ethics) Rules**](https://www.peb.gov.sg/archive.aspx#Code)
-*   [**Professional Engineers (Approved Qualifications) Notification**](https://www.peb.gov.sg/archive.aspx#Notification)
-*   [**Professional Engineers Rules**](https://www.peb.gov.sg/archive.aspx#PERules)
-*   [**Professional Engineers Board Rules**](https://www.peb.gov.sg/archive.aspx#PEBoardRules)
-*   [**Other Notifications/Orders**](https://www.peb.gov.sg/archive.aspx#OtherOrders)
+*   Professional Engineers Act
+*   Professional Engineers (Code of Professional Conduct and Ethics) Rules
+*   Professional Engineers (Approved Qualifications) Notification
+*   Professional Engineers Rules
+*   Professional Engineers Board Rules
+*   Other Notifications/Orders
 
 The files are in PDF format and you need Adobe Acrobat Reader to view or print them. <br>
 If you do not have Adobe Acrobat Reader, you can download a free copy from here: [Adobe Acrobat Reader](http://get.adobe.com/reader/).
