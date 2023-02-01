@@ -5,4 +5,4 @@ description: ""
 ---
 #### Location Map
 
-Quick guide to [PEB office at JEM](https://www.peb.gov.sg/Downloads/GuidetoJEM.pdf)
+Quick guide to [PEB Office at JEM](/files/GuidetoJEM.pdf).
