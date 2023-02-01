@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Location Map.md
       - Contact Us.md
       - Mission.md
       - Objectives.md
