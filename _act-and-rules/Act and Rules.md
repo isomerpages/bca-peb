@@ -8,7 +8,7 @@ description: ""
 The legislations administered by Professional Engineers Board are as follows:
 
 **[Professional Engineers Act](https://sso.agc.gov.sg/Act/PEA1991)**
-    
+
 [An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of professional engineers and to regulate corporations, partnerships and limited liability partnerships which supply professional engineering services in Singapore.](https://sso.agc.gov.sg/Act/PEA1991)
 
 **[Professional Engineers Board Rules](https://sso.agc.gov.sg/SL/PEA1991-R2?DocDate=20051201)**
