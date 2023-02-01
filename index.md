@@ -15,7 +15,7 @@ notification: Please do not click on any links if you receive SMSes that appear
 sections:
   - hero:
       title: Professional Engineers Board Singapore
-      background: /images/banner.png
+      background: /images/banner2.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
