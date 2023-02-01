@@ -2,8 +2,8 @@ logo: /images/PEB-logo-cropped.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Acts & Rules
-    url: /acts-rules/
+  - title: Act & Rules
+    collection: act-and-rules
   - title: Downloads
     collection: example-folder
   - title: Useful Links
