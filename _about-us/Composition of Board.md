@@ -15,4 +15,4 @@ e. a registered architect from the Board of Architects.
 
   
 
-Click [Board Members](https://www.peb.gov.sg/board_member.aspx)to see complete name list.
+Click [Board Members](https://www.peb.gov.sg/board_member.aspx) to see complete name list.
