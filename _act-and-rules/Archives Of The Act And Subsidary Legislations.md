@@ -19,7 +19,6 @@ If you do not have Adobe Acrobat Reader, you can download a free copy from here:
 
 **Archive of Professional Engineers Act**
 
-
 | Year | Archived File  |
 | -------- | -------- |
 | 1970 -|  [The Professional Engineers Act, 1970](/files/Archives/peact70.pdf) <br>(in operation on 2 Jan 1971)|
@@ -32,3 +31,27 @@ If you do not have Adobe Acrobat Reader, you can download a free copy from here:
 | 2004 -|  [Related Amendments to PE Act from Building Control (Amendment) Act 2003](/files/Archives/peact04.pdf) <br>(in operation on 1 Jan 2004)|
 | 2005 -|  [The Professional Engineers (Amendment)Act, 2005](/files/Archives/peact05.pdf) <br>(in operation on 1 Oct 2005)|
 | 2005 -|  [The Professional Engineers (Amendment) Act, 2005](/files/Archives/peact05a.pdf) <br>(in operation on 1 Dec 2005)|
+
+
+**Archive of Professional Engineers (Code of Professional Conduct and Ethics) Rules**
+
+| Year | Archived File  |
+| -------- | -------- |
+| 2004 -|  [Engineers Code of Professional Conduct and Ethics) Rules 2003](https://www.peb.gov.sg/Archive/pecode04.pdf) <br>(in operation on 1 Jan 2004)|
+
+
+**Archive of Professional Engineers (Approved Qualifications) Notification**
+
+| Year | Archived File  |
+| -------- | -------- |
+| 1978 -| [Professional Engineers (Approved Qualifications) Notification, 1978](https://www.peb.gov.sg/Archive/penotif78.pdf) <br>(in operation on 1 Apr 1978)|
+| 1980 -| [Professional Engineers (Approved Qualifications) Notification, 1980](https://www.peb.gov.sg/Archive/penotif80.pdf) <br>(in operation on 17 Oct 1980)|
+| 1987 -| [Professional Engineers (Approved Qualifications) (Amendment) Notification, 1987](https://www.peb.gov.sg/Archive/penotif87.pdf) <br>(in operation on 1 Jan 1987)|
+| 1988 -| [Professional Engineers (Approved Qualifications) (Amendment) Notification, 1998](https://www.peb.gov.sg/Archive/penotif88.pdf) <br>(in operation on 1 Jun 1988)|
+| 1991 -| [Professional Engineers (Approved Qualifications) Notification, 1991](https://www.peb.gov.sg/Archive/penotif91.pdf) <br>(in operation on 25 Oct 1991)|
+| 1991 -| [Professional Engineers (Approved Qualifications) Notification, 1991](https://www.peb.gov.sg/Archive/penotif91c.pdf) <br>(Corrigendum)|
+| 1992 -| [Professional Engineers (Approved Qualifications) (Amendment) Notification, 1992](https://www.peb.gov.sg/Archive/penotif92.pdf) <br>(in operation on 8 May 1992)|
+| 2000 -| [Professional Engineers (Approved Qualifications) Notification, 2000](https://www.peb.gov.sg/Archive/pen00.pdf) <br>(in operation on 1 Jul 2000)|
+| 2000 -| [Professional Engineers (Approved Qualifications) (Amendment) Notification, 2000](https://www.peb.gov.sg/Archive/pen00a.pdf) <br>(in operation on 20 Nov 2000)|
+| 2005 -| [Professional Engineers (Approved Qualifications) Notification, 2005](https://www.peb.gov.sg/Archive/pen05.pdf) <br>(in operation on 1 Dec 2005)|
+| 2009 -| [Professional Engineers (Approved Qualifications) Notification, 2009](https://www.peb.gov.sg/Archive/pen09.pdf) <br>(in operation on 30 Dec 2009)|
