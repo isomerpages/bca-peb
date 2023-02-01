@@ -13,4 +13,4 @@ The Board shall consist of the following members:
 * 6 registered professional engineers who are appointed by the Minister; and
 * a registered architect from the Board of Architects.
 
-Click [Board Members](https://www.peb.gov.sg/board_member.aspx) to see complete name list.
+Click [Board Members](https://staging.d1le8zwfdek8v1.amplifyapp.com/boardmembers/) to see complete name list.
