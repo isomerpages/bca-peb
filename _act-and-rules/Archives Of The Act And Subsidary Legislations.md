@@ -20,7 +20,7 @@ If you do not have Adobe Acrobat Reader, you can download a free copy from here:
 **Archive of Professional Engineers Act**
 
 
-|   |   |
+| Year | Archived File  |
 | -------- | -------- |
 | 1970 -|  [The Professional Engineers Act, 1970](/files/Archives/peact70.pdf) <br>(in operation on 2 Jan 1971)|
 | 1977 -|  [The Professional Engineers (Amendment) Act, 1977](/files/Archives/peact77.pdf) <br>(in operation on 1 Apr 1978)|
