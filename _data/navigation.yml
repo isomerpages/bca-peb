@@ -1,7 +1,7 @@
 logo: /images/PEB-logo-cropped.jpg
 links:
   - title: About Us
-    url: /about-us/
+    collection: about-us
   - title: Acts & Rules
     url: /acts-rules/
   - title: Downloads
