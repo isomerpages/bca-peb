@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Annual Reports & Financial Statements.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Information on Examinations/.keep
+      - Information on Examinations/subfolder-page.md
