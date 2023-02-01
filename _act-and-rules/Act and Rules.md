@@ -19,7 +19,7 @@ The legislations administered by Professional Engineers Board are as follows:
     
 [A set of rules relating to registration of professional engineers and specialist professional engineers, practising certificates and licences, and disciplinary procedure.](https://sso.agc.gov.sg/SL/PEA1991-R1?DocDate=20180820)
 
-** [Professional Engineers (Qualification for Registration as Professional Engineers) (Exemption) Order 2016 (new)](https://sso.agc.gov.sg/SL/PEA1991-S588-2016?DocDate=20161116)**
+**[Professional Engineers (Qualification for Registration as Professional Engineers) (Exemption) Order 2016 (new)](https://sso.agc.gov.sg/SL/PEA1991-S588-2016?DocDate=20161116)**
     
 [An order relating to the exemption provisions for application for registration as professional engineer.](https://sso.agc.gov.sg/SL/PEA1991-S588-2016?DocDate=20161116)
 
