@@ -14,7 +14,7 @@ You can view archives of:
 *   [**Professional Engineers Board Rules**](https://www.peb.gov.sg/archive.aspx#PEBoardRules)
 *   [**Other Notifications/Orders**](https://www.peb.gov.sg/archive.aspx#OtherOrders)
 
-The files are in pdf format and you need Adobe Acrobat Reader to view or print them. <br>
+The files are in PDF format and you need Adobe Acrobat Reader to view or print them. <br>
 If you do not have Adobe Acrobat Reader, you can download a free copy from here: [Adobe Acrobat Reader](http://get.adobe.com/reader/).
 
 **Archive of Professional Engineers Act**
