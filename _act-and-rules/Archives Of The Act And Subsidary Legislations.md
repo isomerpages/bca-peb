@@ -75,3 +75,11 @@ If you do not have Adobe Acrobat Reader, you can download a free copy from here:
 | 1971 -|  [Professional Engineers Board Rules, 1971](https://www.peb.gov.sg/Archive/pebrule71.pdf) <br>(in operation on 30 Apr 1971)|
 | 2005 -|  [Professional Engineers Board (Amendment) Rules, 2005](https://www.peb.gov.sg/Archive/pebrule05.pdf) <br>(in operation on 1 Oct 2005)|
 | 2005 -|  [Professional Engineers (Amendment No 2) Rules, 2005](https://www.peb.gov.sg/Archive/pebrule05a.pdf) <br>(in operation on 1 Dec 2005)|
+
+
+**Archive of other Notifications and Orders**
+
+| Year | Archived File  |
+| -------- | -------- |
+| 2005 -|  [Professional Engineers (Prescribed Amount of Paid-Up Capital) Notification 2005](https://www.peb.gov.sg/Archive/paid-up.pdf)|
+| 2006 -|  [Professional Engineers (Qualification for Registration as Professional Engineers) (Exemption) Order 2006](https://www.peb.gov.sg/Archive/exempt-ord.pdf) <br>(in operation on 1 Dec 2005)|
