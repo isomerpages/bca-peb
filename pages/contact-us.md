@@ -23,6 +23,6 @@ contacts:
   - content:
       - phone: +65 6666 6666
       - email: registrar@peb.gov.sg
-      - other: ""
+      - other: "[Quick Guide to PEB Office at JEM](/files/GuidetoJEM.pdf)"
     title: General Enquiries & Feedback
 ---
