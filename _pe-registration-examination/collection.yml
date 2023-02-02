@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - PE Registration Examination.md
-      - FEE/.keep
-      - FEE/Apply for FEE.md
-      - FEE/Summary of Exam Results.md
+      - Fundamentals Engineering Exam/.keep
+      - Fundamentals Engineering Exam/Apply for FEE.md
+      - Fundamentals Engineering Exam/Summary of Exam Results.md
