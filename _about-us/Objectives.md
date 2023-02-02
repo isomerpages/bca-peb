@@ -3,8 +3,6 @@ title: Objectives
 permalink: /objectives/
 description: ""
 ---
-#### Objectives
-
 The key objectives of PEB are:
 
 *   Maintain an internationally acceptable standard of assessment which emphasises quality academic education, examination, and practical experience that ensures only competent individuals are accepted for registration as professional engineers.
