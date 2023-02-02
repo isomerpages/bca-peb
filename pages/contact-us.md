@@ -14,9 +14,6 @@ locations:
         description: ""
       - days: Friday
         time: 8.30am - 5.00pm
-        description: ""
-      - days: Closed during Lunch
-        time: 12.30pm - 1.30pm
         description: |-
           Closed during lunch: 12.30pm - 1.30pm
           <br>Closed on Weekends and Public Holidays
