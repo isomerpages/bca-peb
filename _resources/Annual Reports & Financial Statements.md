@@ -3,10 +3,6 @@ title: Annual Reports & Financial Statements
 permalink: /annualreportfs/
 description: ""
 ---
-### Annual Reports & Financial Statements
-
-
-
 | Year | Annual Report & Financial Statement |
 | -------- | -------- |
 | 2021 | [Annual Report & Financial Statement for the Year ending 2021](/files/Resources/Annual%20Report%20&%20FS/PEBAnnualreport2021.pdf) |
