@@ -1,9 +1,9 @@
 logo: /images/PEB-logo-cropped.jpg
 links:
-  - title: About Us
+  - title: Overview
     collection: about-us
-  - title: Act & Rules
-    collection: act-and-rules
+  - title: Professional Development
+    url: /CPD/
   - title: Resources
     collection: resources
   - title: Useful Links
