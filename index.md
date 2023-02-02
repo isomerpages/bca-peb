@@ -21,13 +21,16 @@ sections:
       key_highlights:
         - title: Professional Engineers Login
           description: ""
-          url: https://www.peb.gov.sg/pe_intro.aspx
+          url: https://www.peb.gov.sg/login_pe.aspx
         - title: Register as Professional Engineers
           description: ""
-          url: https://www.peb.gov.sg/pe_reg_intro.aspx
+          url: https://www.peb.gov.sg/login_pereg.aspx
         - title: PE Registration Examinations
           description: ""
-          url: https://www.peb.gov.sg/pe_registration_intro.aspx
+          url: https://www.peb.gov.sg/login_can.aspx
+        - title: Register As Professional Engineers (Experienced)
+          description: ""
+          url: https://www.peb.gov.sg/oral_apply.aspx
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
       title: News
