@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Monday - Thursday
         time: 8.30am - 5.30pm
-        description: ""
+        description: "[Quick Guide to PEB Office at JEM](/files/GuidetoJEM.pdf)"
       - days: Friday
         time: 8.30am - 5.00pm
         description: |-
@@ -23,6 +23,6 @@ contacts:
   - content:
       - phone: +65 6666 6666
       - email: registrar@peb.gov.sg
-      - other: "[Quick Guide to PEB Office at JEM](/files/GuidetoJEM.pdf)"
+      - other: ""
     title: General Enquiries & Feedback
 ---
