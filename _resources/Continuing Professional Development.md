@@ -3,8 +3,6 @@ title: Continuing Professional Development
 permalink: /cpd/
 description: ""
 ---
-### Continuing Professional Development
-
 The PE Act requires a registered professional engineer to comply with requirements relating to continuing professional development (CPD) as part of the criteria to renew his practising certificate.
 
 The objective of continuing professional development (CPD) for professional engineers is to reinforce the need for lifelong learning.
