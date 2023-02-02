@@ -22,7 +22,7 @@ sections:
         - title: Professional Engineers Login
           description: ""
           url: https://www.peb.gov.sg/pe_intro.aspx
-        - title: Registration as Professional Engineers
+        - title: Register as Professional Engineers
           description: ""
           url: https://www.peb.gov.sg/pe_reg_intro.aspx
         - title: PE Registration Examinations
