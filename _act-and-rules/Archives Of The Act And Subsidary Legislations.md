@@ -3,8 +3,6 @@ title: Archives Of The Act And Subsidary Legislations
 permalink: /archives/
 description: ""
 ---
-#### Archives Of The Act And Subsidary Legislations
-
 You can view archives of:  
 
 *   Professional Engineers Act
