@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Monday - Thursday
         time: 8.30am - 5.30pm
-        description: "[Quick Guide to PEB Office at JEM](/files/GuidetoJEM.pdf)"
+        description: ""
       - days: Friday
         time: 8.30am - 5.00pm
         description: |-
