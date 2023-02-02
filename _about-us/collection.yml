@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Professional Engineers Act and Rules.md
       - Mission.md
       - Objectives.md
       - Functions.md
