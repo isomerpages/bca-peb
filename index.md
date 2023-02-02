@@ -28,6 +28,7 @@ sections:
         - title: PE Registration Examinations
           description: ""
           url: https://www.peb.gov.sg/pe_registration_intro.aspx
+      subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
       title: News
       button: View All
