@@ -3,4 +3,4 @@ title: Directory of PE
 permalink: /pedirectory/
 description: ""
 ---
-<iframe width="600" height="400" src="https://data.gov.sg/dataset/professional-engineers-with-practising-certificates/resource/db1921ed-7ecd-45c2-8740-8a7b9ddd85a5/view/726c8e20-ea20-4e21-86a8-98467ef869c4" frameBorder="0"> </iframe>
+<iframe width="600" height="400" src="https://data.gov.sg/dataset/management-corporation-strata-title/resource/21b15082-ea01-40f8-ad2b-679f011d6764/view/a3006397-e3a9-40b6-9dbf-4d1cc66f28e5" frameBorder="0"> </iframe>
