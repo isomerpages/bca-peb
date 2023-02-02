@@ -34,5 +34,5 @@ sections:
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
       title: News
-      button: View All
+      button: More News
 ---
