@@ -3,8 +3,6 @@ title: Functions
 permalink: /functions/
 description: ""
 ---
-#### Functions of PEB
-
 The main functions of PEB, as prescribed in the Professional Engineers Act, are:
 
 *   Keep and maintain a register of professional engineers, a register of practitioners and a register of licensed corporations.
