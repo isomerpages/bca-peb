@@ -16,8 +16,8 @@ sections:
   - hero:
       title: Professional Engineers Board Singapore
       background: /images/banner2_edited.png
-      button: Contact Us
-      url: /contact-us/
+      button: Overview
+      url: /mission/
       key_highlights:
         - title: Professional Engineers Login
           description: ""
