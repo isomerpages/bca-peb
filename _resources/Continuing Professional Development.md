@@ -9,7 +9,7 @@ The objective of continuing professional development (CPD) for professional engi
 
 It is in line with the emerging global trend towards promoting and ensuring continuous learning by engineers and other professionals so as to maintain their competency.
 
-Please refer to [About CPD (pdf)](/files/Resources/CPD/ContinuingProfessionalDevelopment.pdf) for more details.
+Please refer to [About CPD (pdf)](/files/Downloads/CPD/ContinuingProfessionalDevelopment.pdf) for more details.
 
   
   
