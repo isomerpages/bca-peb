@@ -30,3 +30,12 @@ third_nav_title: FEE
 |Electrical|100|72|72.0%|129|85|65.9%|137|92|67.2%|
 |Mechanical|90|38|42.2%|103|49|47.6%|109|58|53.2%|
 |Overall|437|269|61.6%|454|269|59.3%|496|301|60.7%|
+
+<br>
+
+|Year<br>Branch of Engineering|2015<br>No. of candidates|<br>No. of passes|<br>Passing rate|2016<br>No. of candidates|<br>No. of passes|<br>Passing rate|2017<br>No. of candidates|<br>No. of passes|<br>Passing rate|
+| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
+|Civil|250|155|62.0%|280|172|61.4%|239|145|60.7%|
+|Electrical|161|85|52.8%|194|91|46.9%|162|90|55.6%|
+|Mechanical|136|66|48.5%|133|83|62.4%|152|71|46.7%|
+|Overall|547|306|55.9%|607|346|57.0%|553|306|55.3%|
