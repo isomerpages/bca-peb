@@ -35,5 +35,4 @@ sections:
   - resources:
       title: What's New
       button: More News
-      subtitle: News
 ---
