@@ -3,9 +3,6 @@ title: Act and Rules
 permalink: /act-and-rules/
 description: ""
 ---
-
-#### PE Act And Rules
-
 The legislations administered by Professional Engineers Board are as follows:
 
 [**Professional Engineers Act**](https://sso.agc.gov.sg/Act/PEA1991)
