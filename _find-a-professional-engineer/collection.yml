@@ -2,4 +2,5 @@ collections:
   find-a-professional-engineer:
     output: true
     order:
+      - Directory of Specialist PE.md
       - Directory of PE.md
