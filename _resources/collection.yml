@@ -1,5 +1,5 @@
 collections:
-  downloads:
+  resources:
     output: true
     order:
       - Annual Reports & Financial Statements.md
