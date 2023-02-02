@@ -33,6 +33,7 @@ sections:
           url: /experiencedpe/
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
-      title: News
+      title: What's New
       button: More News
+      subtitle: News
 ---
