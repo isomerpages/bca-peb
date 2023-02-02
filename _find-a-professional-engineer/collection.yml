@@ -2,6 +2,7 @@ collections:
   find-a-professional-engineer:
     output: true
     order:
+      - List of Suspended & Recently Deregistered PE.md
       - Directory of Licensed Corporations and Partnerships.md
       - Directory of Registered Foreign Professional Engineers.md
       - Directory of ASEAN Chartered Professional Engineers.md
