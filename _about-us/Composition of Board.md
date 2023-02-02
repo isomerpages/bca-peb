@@ -3,8 +3,6 @@ title: Composition of Board
 permalink: /board/
 description: ""
 ---
-#### Composition Of Board
-
 The Board shall consist of the following members:  
   
 * the Commissioner of Building Control;
