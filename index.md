@@ -27,7 +27,7 @@ sections:
           url: https://www.peb.gov.sg/login_pereg.aspx
         - title: PE Registration Examinations
           description: ""
-          url: https://www.peb.gov.sg/login_can.aspx
+          url: /fee/
         - title: Register As Professional Engineers (Experienced)
           description: ""
           url: /experiencedpe/
