@@ -3,8 +3,6 @@ title: Guidelines on Registration and Licensing
 permalink: /guidelines/
 description: ""
 ---
-### Guidelines on Registration and Licensing
-
 *   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Geotechnical Engineering](https://www.peb.gov.sg/Downloads/spe_geo_reg.pdf)
