@@ -3,15 +3,12 @@ title: Contact Us
 permalink: /contactus/
 description: ""
 ---
-#### Contact Us
-
 **Address:**  
 Professional Engineers Board, Singapore  
 52 Jurong Gateway Road  
 #07-03  
 Singapore 608550
 
-  
 
 **Contact info:**  
 E-mail: [registrar@peb.gov.sg](mailto:registrar@peb.gov.sg)
