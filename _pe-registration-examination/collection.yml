@@ -1,4 +1,5 @@
 collections:
   pe-registration-examination:
     output: true
-    order: []
+    order:
+      - PE Registration Examination.md
