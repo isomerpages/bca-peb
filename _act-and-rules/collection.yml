@@ -1,5 +1,4 @@
 collections:
   act-and-rules:
     output: true
-    order:
-      - Archives Of The Act And Subsidary Legislations.md
+    order: []
