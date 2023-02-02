@@ -12,7 +12,7 @@ A person may apply to sit for the oral examination -
 3.  where applicable, a period of 12 months has elapsed from the date of the person’s last unsuccessful application to sit for the oral examination.  
 
 An experienced applicant means a person who —  
-1. before 1 December 2005, obtained a qualification specified in Part I or III, Division II, III or IV of Part IV or Division II of Part V of the Schedule to the [Professional Engineers (Approved Qualifications) Notification 2009](https://www.peb.gov.sg/actrules.aspx); and  
+1. before 1 December 2005, obtained a qualification specified in Part I or III, Division II, III or IV of Part IV or Division II of Part V of the Schedule to the [Professional Engineers (Approved Qualifications) Notification 2009](/act-and-rules/); and  
 2. has not less than 25 years of such practical experience in professional engineering work as may be acceptable to the Board, of which at least 10 years must be obtained in Singapore.  
   
 The application for registration shall be submitted together with the application to sit for the oral examination as the professional interview for registration may be conducted after the oral examination in a single session.  
