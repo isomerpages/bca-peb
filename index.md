@@ -30,7 +30,7 @@ sections:
           url: https://www.peb.gov.sg/login_can.aspx
         - title: Register As Professional Engineers (Experienced)
           description: ""
-          url: https://www.peb.gov.sg/oral_apply.aspx
+          url: /experiencedpe/
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
       title: News
