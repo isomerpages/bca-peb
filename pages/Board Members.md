@@ -5,11 +5,22 @@ description: ""
 ---
 #### The Board comprises
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="color: rgb(68, 68, 68); font-family: Arial, Helvetica, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody><tr><td colspan="3" class="black-pink" style="background-color: rgb(246, 202, 202); color: rgb(0, 0, 0); font-weight: bold; padding: 7px 11px; margin-bottom: 10px;">
-President of the Board</td></tr><tr><td class="black-grey" colspan="3" style="background-color: rgb(237, 237, 237); color: rgb(0, 0, 0); padding: 7px 11px;"><span class="name" style="margin: 0px; border: 0px; outline: 0px; font-size: small; vertical-align: baseline; font-weight: bold;">
-Er. Lim Peng Hong</span><address style="margin: 0px; border: 0px; outline: 0px; font-size: 13.3333px; vertical-align: baseline; font-style: normal;"><p style="margin: 0px; border: 0px; outline: 0px; font-size: 10pt; vertical-align: baseline; padding: 10px 0px 5px; line-height: 20px; text-align: justify;">
-Managing Director<br>
-PH Consulting Pte. Ltd.<br></p></address></td></tr></tbody></table>
+
+
+| Preident of the Board |
+| -------- |
+|**Er. Lim Peng Hong**<br>Managing Director<br>PH Consulting Pte. Ltd.|
+
+
+
+| Members of the Board |  |  |
+| -------- | -------- | -------- |
+|**Er. Chan Ewe Jin**<br>Managing Director<br>ECAS Consultants Pte. Ltd.| **Er. Chan Jacqueline**<br>Managing Director<br>DSCO Group Pte. Ltd.| **Er. Chua Tong Seng**<br>Managing Director<br>Kiso-Jiban Singapore Pte. Ltd.|
+|**Er. Jee Yi Yng**<br>Country Representative<br>AECOM Singapore Pte. Ltd. |**Er. Kng Meng Hwee**<br>Deputy Chief Executive <br>(Industry Regulation Division)<br>Energy Market Authority|**Er. Prof Lee Jim Yang**<br> Professor<br>National University of Singapore|
+|**Er. Prof Liew Jat Yuen Richard**<br>Professor<br>National University of Singapore|**Er. Ng Yek Meng**<br>Managing Director<br>Progressive Builders Pte. Ltd.|**Er. Sivakumaran Murugesu**<br>Managing Director<br>SMS Consulting Engineers Pte. Ltd.|
+|**Er. Yeo Yann**<br>Managing Director<br>Squire Mech Private Limited|**Er. Thanabal s/o Kaliannan**<br>Group Director (Building Resilience)/ Commissioner of Building Control<br>Building & Construction Authority|**Er. Dr Wong Liang Heng Johnny**<br>Deputy Chief Executive Officer (Building)<br>Housing & Development Board|
+|**Er. Yogeeswaran s/o Sivasithamparam**<br>Managing Director<br>CASY Engineering Consultancy Pte. Ltd.|**Ar. Khairudin Saharom**<br>Director/ Principal<br>Kite Studio Architecture Pte.|  |
+
 
   
 
