@@ -2,19 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Professional Engineers Board
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 52 Jurong Gateway Road
+      - "#07-03"
+      - Singapore 608550
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Monday - Thursday
+        time: 8.30am - 5.30pm
         description: ""
+      - days: Friday
+        time: 8.30am - 5.00pm
+        description: ""
+      - days: Closed during Lunch
+        time: 12.30pm - 1.30pm
+        description: |-
+          Closed during lunch: 12.30pm - 1.30pm
+          <br>Closed on Weekends and Public Holidays
     maps_link: ""
     title: Main Office
 contacts:
