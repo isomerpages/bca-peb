@@ -17,14 +17,14 @@ An experienced applicant means a person who —
   
 The application for registration shall be submitted together with the application to sit for the oral examination as the professional interview for registration may be conducted after the oral examination in a single session.  
   
-The fee to sit for the oral examination is $450 and the fee for registration is $300. For more information on PE registration, please refer to [Guidelines on Registration](https://www.peb.gov.sg/Downloads/RegistrationasPE.pdf).
+The fee to sit for the oral examination is $450 and the fee for registration is $300. For more information on PE registration, please refer to [Guidelines on Registration](/files/Downloads/Guidelines/RegistrationasPE.pdf).
 
 To apply, download and submit the following documents with your payment at PEB. Payment can be made via bank transfer to PEB bank account: DBS 001-900615-5 or PayNow to UEN no.: T08GB0043H. For input on description of payment, applicant must indicate full name and fees made for PE registration application through oral exam.  
   
-[Application Form for Oral exam / PE registration](https://www.peb.gov.sg/Downloads/oral_application.xls)  
-[Summary of Education](https://www.peb.gov.sg/Downloads/oral_summaryeducation.xls)  
-[Annex A - Summary of post-graduate professional experience](https://www.peb.gov.sg/Downloads/oral_summaryprof.xls)  
+[Application Form for Oral exam / PE registration](https://go.gov.sg/ksbr0t)  
+[Summary of Education](https://go.gov.sg/4erfoi)  
+[Annex A - Summary of post-graduate professional experience](https://go.gov.sg/r9h1au)  
 [Verification of academic record](https://www.peb.gov.sg/Downloads/oral_verifyacademic.xls)  
 [Confirmation of modular/academic credit units](https://www.peb.gov.sg/Downloads/oral_creditunit.xlsx)  
-[Certificate of good conduct](https://www.peb.gov.sg/Downloads/oral_coc.xls)  
+[Certificate of good conduct](https://go.gov.sg/tct84m)  
 [Checklist for submission](https://www.peb.gov.sg/Downloads/oral_checklist.pdf)
