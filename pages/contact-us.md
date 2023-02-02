@@ -23,6 +23,6 @@ contacts:
   - content:
       - phone: +65 6666 6666
       - email: registrar@peb.gov.sg
-      - other: "#07-03"
+      - other: ""
     title: General Enquiries & Feedback
 ---
