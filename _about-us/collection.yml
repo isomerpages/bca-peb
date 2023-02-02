@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Archives Of The Act And Subsidary Legislations.md
-      - Professional Engineers Act and Rules.md
       - Mission.md
       - Objectives.md
       - Functions.md
       - Composition of Board.md
       - Location Map.md
+      - Professional Engineers Act and Rules.md
+      - Archives Of The Act And Subsidary Legislations.md
