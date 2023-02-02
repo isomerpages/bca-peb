@@ -1,4 +1,5 @@
 collections:
   find-a-professional-engineer:
     output: true
-    order: []
+    order:
+      - Directory of PE.md
