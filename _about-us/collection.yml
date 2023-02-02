@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Act and Rules/.keep
-      - Act and Rules/Professional Engineers Act and Rules.md
-      - Act and Rules/Archives Of The Act And Subsidary Legislations.md
       - Mission & Objectives.md
       - Functions.md
       - The Board.md
+      - Act and Rules/.keep
+      - Act and Rules/Professional Engineers Act and Rules.md
+      - Act and Rules/Archives Of The Act And Subsidary Legislations.md
