@@ -2,4 +2,5 @@ collections:
   pe-registration-examination:
     output: true
     order:
+      - FEE/.keep
       - PE Registration Examination.md
