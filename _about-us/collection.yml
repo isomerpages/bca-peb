@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mission & Objectives.md
-      - Objectives.md
       - Functions.md
       - The Board.md
       - Professional Engineers Act and Rules.md
