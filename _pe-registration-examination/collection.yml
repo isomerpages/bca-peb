@@ -1,0 +1,4 @@
+collections:
+  pe-registration-examination:
+    output: true
+    order: []
