@@ -2,5 +2,6 @@ collections:
   cpd:
     output: true
     order:
+      - Calendar of CPD Events.md
       - Directory of Course Organiser.md
       - Continuing Professional Development.md
