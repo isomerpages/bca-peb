@@ -1,5 +1,4 @@
 collections:
   pe-registration:
     output: true
-    order:
-      - Registration by Person Previously Registered or Experienced Applicant.md
+    order: []
