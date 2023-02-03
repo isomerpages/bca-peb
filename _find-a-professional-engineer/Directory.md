@@ -3,5 +3,14 @@ title: Directory
 permalink: /directory/
 description: ""
 ---
+Under the Professional Engineers Act, a person who engages in any of the prescribed branches of professional engineering work in Singapore, namely, chemical, civil, electrical, mechanical, or geotechnical engineering, shall be a registered professional engineer who has in force a practising certificate, or someone working under the direction or supervision of a registered professional engineer who has in force a practising certificate.
 
-<iframe width="600" height="400" src="https://data.gov.sg/dataset/professional-engineers-with-practising-certificates/resource/db1921ed-7ecd-45c2-8740-8a7b9ddd85a5/view/726c8e20-ea20-4e21-86a8-98467ef869c4" frameBorder="0"> </iframe>
+Similarly, a person who supplies or offers to supply professional engineering services in any of the prescribed branches of professional engineering work in Singapore shall be a registered professional engineer who has in force a practising certificate practicing as a sole proprietor or as a partner in a licensed partnership, licensed limited liability partnership or partnership consisting wholly of registered professional engineers; or an allied professional who is a partner in a licensed partnership or limited liability partnership; or a licensed corporation or limited liability partnership.
+
+PEB does not make any recommendation to the public with regards to which professional engineer to engage. The public can find the list of professional engineers in the directory below and make a selection. All information is correct as at date of issuance of practising certificate and may be updated from time to time.
+
+* [Directory of Professional Engineers with Practising Certificates](https://www.peb.gov.sg/pe_general_pe.aspx)
+* [Directory of Specialist Professional Engineers with Practising Certificates](https://www.peb.gov.sg/pe_general_spe.aspx)
+* [Directory of ASEAN Chartered Professional Engineers](https://www.peb.gov.sg/pe_general_acpe.aspx)
+* [Directory of Registered Foreign Professional Engineers](https://www.peb.gov.sg/pe_general_rfpe.aspx)
+* [Directory of Licensed Corporations and Partnerships](https://www.peb.gov.sg/pe_general_lclist.aspx)
