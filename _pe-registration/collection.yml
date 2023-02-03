@@ -1,4 +1,6 @@
 collections:
   pe-registration:
     output: true
-    order: []
+    order:
+      - Application for PE Registration by Person Previously Registered or
+        Experienced Applicant.md
