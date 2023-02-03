@@ -3,7 +3,7 @@ links:
   - title: Overview
     collection: about-us
   - title: Professional Development
-    url: /cpd/
+    collection: cpd
   - title: Resources
     collection: resources
   - title: Find a Professional Engineer
