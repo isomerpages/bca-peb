@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Directory.md
-      - Directory of Specialist PE.md
       - Directory of ASEAN Chartered Professional Engineers.md
       - Directory of Registered Foreign Professional Engineers.md
       - Directory of Licensed Corporations and Partnerships.md
