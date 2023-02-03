@@ -4,11 +4,10 @@ permalink: /LC-common-queries/
 description: ""
 third_nav_title: Licensed Corporations
 ---
-**What are the duties of a supervising director for a licensed corporation?**
+**What are the duties of a supervising director for a licensed corporation?**<br>
 *A supervising director is a registered professional engineer and director of the corporation who exercises control and management of the business of the licensed corporation relating to the supply of professional engineering services in Singapore. He shall be subject to the same standards of professional conduct and competence in respect of the business as if the professional engineering services were personally supplied by him.*
 
-**Do I need to register a partnership (consisting wholly of Professional Engineers)with the Board?**
-
+**Do I need to register a partnership (consisting wholly of Professional Engineers)with the Board?**<br>
 *No. A partnership consisting wholly of registered professional engineers need not be licensed by the Board.*
 
 **For licensed limited corporations, is there a limit to the indemnity in the professional liability insurance policy which a licensed corporation has to take up?**<br>
