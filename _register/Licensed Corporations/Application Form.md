@@ -4,11 +4,12 @@ permalink: /LC-application-form/
 description: ""
 third_nav_title: Licensed Corporations
 ---
-Apply licence to provide professional engineering services
+Refer to [Guidelines on Licensed Corporations and Partnerships](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf) to understand the requirements, and the [Application Guide](/files/Downloads/Guidelines/LC_Guideline.pdf) to do licence application online.
 
-The Professional Engineers Act provides for professional engineers to team up with allied professionals to form multi-discipline corporations and partnerships that are licensed by PEB to supply professional engineering services in Singapore.
+Submit application together with the following:
+Download [Checklist for Licence Submission](/files/Downloads/Guidelines/LC_Checklist.pdf) (print on letterhead).
 
-Click on the below links for new application of:
+Apply licence to provide professional engineering services:
 
 *   [Limited Corporations](https://www.peb.gov.sg/apply_lc_corp.aspx?type=1)
   
