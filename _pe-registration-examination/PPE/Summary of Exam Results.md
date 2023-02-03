@@ -42,10 +42,10 @@ third_nav_title: PPE
 
 <br>
 
-|Year<br>Branch of Engineering|2018<br>No. of candidates|<br>No. of passes|<br>Passing rate|2019<br>No. of candidates|<br>No. of passes|<br>Passing rate|2021<br>No. of candidates|<br>No. of passes|<br>Passing rate|
+|Year<br>Branch of Engineering|2019<br>No. of candidates|<br>No. of passes|<br>Passing rate|2021<br>No. of candidates|<br>No. of passes|<br>Passing rate|2022<br>No. of candidates|<br>No. of passes|<br>Passing rate|
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Chemical|-|-|-|10|10|100.0%|6|3|50.0%|
-|Civil|230|131|57.0%|322|122|37.9%|332|130|39.2%|
-|Electrical|147|85|57.8%|147|58|39.5%|178|67|37.6%|
-|Mechanical|160|73|45.6%|157|91|58.0%|146|76|52.1%|
-|Overall|537|289|53.8%|636|281|44.2%|662|276|41.7%|
+|Chemical|-|-|-|4|2|50.0%|5|4|80.0%|
+|Civil|248|54|21.8%|249|58|23.3%|282|54|19.1%|
+|Electrical|176|47|26.7%|160|55|34.4%|148|51|34.5%|
+|Mechanical|113|32|28.3%|102|58|56.9%|86|28|32.6%|
+|Overall|537|113|24.8%|515|173|33.6%|521|137|26.3%|
