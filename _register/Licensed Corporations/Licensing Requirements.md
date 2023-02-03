@@ -4,14 +4,12 @@ permalink: /LC-requirements/
 description: ""
 third_nav_title: Licensed Corporations
 ---
-Refer to [Guidelines on Licensed Corporations and Partnerships](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf) to understand the requirements, and the [Application Guide](/files/Downloads/Guidelines/LC_Guideline.pdf) to do licence application online.
+The Professional Engineers Act provides for professional engineers to team up with allied professionals to form multi-discipline corporations and partnerships that are licensed by PEB to supply professional engineering services in Singapore. Licence may be granted to four forms of organisations:
 
-For licence application for provision of licence to provide professional engineering services, click on [New Application](https://www.peb.gov.sg/lc_application_new.aspx) to submit application online.
-
-For licence renewal, click on [Existing Licensee](https://www.peb.gov.sg/login_lc.aspx) and login to submit application online.
-
-Submit application together with the following:
-Download [Checklist for Licence Submission](/files/Downloads/Guidelines/LC_Checklist.pdf) (print on letterhead).
+* Limited Corporations 
+* Unlimited Corporations
+* Multi-discipline Partnerships
+* Limited Liability Partnerships
 
 The licence fee is $500 and the licence will be valid for a period of one calendar year.
 
