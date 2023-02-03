@@ -19,12 +19,12 @@ sections:
       button: Overview
       url: /mission/
       key_highlights:
-        - title: Professional Engineer Login
-          description: ""
-          url: https://www.peb.gov.sg/login_pe.aspx
         - title: Course Organiser Login
           description: ""
           url: https://www.peb.gov.sg/login_co.aspx
+        - title: Professional Engineer Login
+          description: ""
+          url: https://www.peb.gov.sg/login_pe.aspx
         - title: Licensee Login
           description: ""
           url: https://www.peb.gov.sg/login_lc.aspx
