@@ -6,11 +6,11 @@ third_nav_title: PPE
 ---
 The Practice of Professional Engineering Examination tests the applicant’s ability to apply his knowledge and experience in professional engineering practice, and his knowledge of the rules and regulations regulating the practice of professional engineering in chemical, civil, electrical or mechanical engineering.
 
-A person may apply to sit for the [Practice of Professional Engineering Examination (PPE)](https://www.peb.gov.sg/apply_ppe.aspx) after he has:
+A person may apply to sit for the [Practice of Professional Engineering Examination (PPE)](/apply4ppe/) after he has:
 
 1. obtained not less than 2 years 6 months with effect from date to be advised (in aggregate) of practical experience in engineering work relevant to the branch of engineering that he seeks to be registered in; and
 
-2. sat for and passed the [Fundamentals of Engineering Examination (FEE)](https://www.peb.gov.sg/apply_fee.aspx).
+2. sat for and passed the [Fundamentals of Engineering Examination (FEE)](/apply4fee/).
 
 PEB does not conduct courses for the purpose of preparing for examinations. For preparatory courses conducted by:  
   
