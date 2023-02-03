@@ -8,9 +8,9 @@ The Practice of Professional Engineering Examination tests the applicant’s abi
 
 A person may apply to sit for the [Practice of Professional Engineering Examination (PPE)](https://www.peb.gov.sg/apply_ppe.aspx) after he has:
 
-(a) obtained not less than 2 years 6 months with effect from date to be advised (in aggregate) of practical experience in engineering work relevant to the branch of engineering that he seeks to be registered in; and
+1. obtained not less than 2 years 6 months with effect from date to be advised (in aggregate) of practical experience in engineering work relevant to the branch of engineering that he seeks to be registered in; and
 
-(b) sat for and passed the [Fundamentals of Engineering Examination (FEE)](https://www.peb.gov.sg/apply_fee.aspx).
+2. sat for and passed the [Fundamentals of Engineering Examination (FEE)](https://www.peb.gov.sg/apply_fee.aspx).
 
 PEB does not conduct courses for the purpose of preparing for examinations. For preparatory courses conducted by:  
   
