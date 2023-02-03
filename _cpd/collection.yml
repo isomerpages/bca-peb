@@ -1,4 +1,5 @@
 collections:
   cpd:
     output: true
-    order: []
+    order:
+      - Continuing Professional Development.md
