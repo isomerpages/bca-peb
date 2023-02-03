@@ -19,18 +19,12 @@ sections:
       button: Overview
       url: /mission/
       key_highlights:
-        - title: PE Registration Examinations
-          description: ""
-          url: /pe-registration-examination/
-        - title: Professional Engineers Registration
-          description: ""
-          url: /pe-registration/
         - title: Professional Engineers Login
           description: ""
           url: https://www.peb.gov.sg/login_pe.aspx
         - title: Course Organiser Login
           description: ""
-          url: ""
+          url: https://www.peb.gov.sg/login_co.aspx
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
       title: What's New
