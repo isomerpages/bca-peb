@@ -19,6 +19,9 @@ sections:
       button: Overview
       url: /mission/
       key_highlights:
+        - title: PE Registration Examination Login
+          description: ""
+          url: https://www.peb.gov.sg/login_can.aspx
         - title: Professional Engineers Login
           description: ""
           url: https://www.peb.gov.sg/login_pe.aspx
