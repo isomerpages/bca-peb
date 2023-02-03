@@ -2,6 +2,7 @@ collections:
   register:
     output: true
     order:
+      - PE Registration Examinations/Apply for PPE.md
       - PE Registration Examinations/Apply for FEE.md
       - PE Registration Examinations/PE Registration Examination.md
       - PE Registration Examinations/Summary of Exam Results.md
