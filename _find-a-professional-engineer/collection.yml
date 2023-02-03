@@ -2,7 +2,7 @@ collections:
   find-a-professional-engineer:
     output: true
     order:
-      - Directory of PE.md
+      - Directory.md
       - Directory of Specialist PE.md
       - Directory of ASEAN Chartered Professional Engineers.md
       - Directory of Registered Foreign Professional Engineers.md
