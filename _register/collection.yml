@@ -2,6 +2,7 @@ collections:
   register:
     output: true
     order:
+      - Registration by Person Previously Registered or Experienced Applicant.md
       - Registration as Professional Engineer.md
       - PE Registration Examinations/.keep
       - PE Registration Examinations/PE Registration Examination.md
