@@ -2,7 +2,6 @@ collections:
   register:
     output: true
     order:
-      - Course Organiser.md
       - PE Registration Examinations/.keep
       - PE Registration Examinations/Requirements.md
       - PE Registration Examinations/Fundamentals of Engineering Examination
@@ -15,3 +14,4 @@ collections:
       - PE Registration Examinations/Summary of PPE Exam Results.md
       - Professional Engineer.md
       - Previously Registered or Experienced Applicant.md
+      - Course Organiser.md
