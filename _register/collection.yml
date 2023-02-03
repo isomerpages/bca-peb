@@ -2,8 +2,6 @@ collections:
   register:
     output: true
     order:
-      - Registration by Person Previously Registered or Experienced Applicant.md
-      - Registration as Professional Engineer.md
       - PE Registration Examinations/.keep
       - PE Registration Examinations/PE Registration Examination.md
       - PE Registration Examinations/Fundamentals of Engineering Examination
@@ -14,3 +12,5 @@ collections:
         Examination (PPE).md
       - PE Registration Examinations/Apply for PPE.md
       - PE Registration Examinations/Summary of PPE Exam Results.md
+      - Registration as Professional Engineer.md
+      - Registration by Person Previously Registered or Experienced Applicant.md
