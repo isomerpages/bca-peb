@@ -1,6 +1,0 @@
-collections:
-  pe-registration-examination:
-    output: true
-    order:
-      - FEE/.keep
-      - PPE/.keep
