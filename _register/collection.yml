@@ -2,13 +2,13 @@ collections:
   register:
     output: true
     order:
+      - PE Registration Examinations/.keep
+      - PE Registration Examinations/PE Registration Examination.md
       - PE Registration Examinations/Fundamentals of Engineering Examination
         (FEE).md
+      - PE Registration Examinations/Apply for FEE.md
+      - PE Registration Examinations/Summary of FEE Exam Results.md
       - PE Registration Examinations/Practice Of Professional Engineering
         Examination (PPE).md
       - PE Registration Examinations/Apply for PPE.md
-      - PE Registration Examinations/Apply for FEE.md
-      - PE Registration Examinations/PE Registration Examination.md
-      - PE Registration Examinations/Summary of FEE Exam Results.md
       - PE Registration Examinations/Summary of PPE Exam Results.md
-      - PE Registration Examinations/.keep
