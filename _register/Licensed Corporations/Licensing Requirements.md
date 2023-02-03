@@ -4,7 +4,7 @@ permalink: /LC-requirements/
 description: ""
 third_nav_title: Licensed Corporations
 ---
-Licensing Requirements ([download pdf version](https://www.peb.gov.sg/Downloads/LicensedCorporationsOrPartnerships.pdf))
+Licensing Requirements ([download pdf version](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf))
 
 The licence fee is $500 and the licence will be valid for a period of one calendar year.
 
