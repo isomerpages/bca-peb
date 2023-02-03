@@ -2,6 +2,7 @@ collections:
   register:
     output: true
     order:
+      - Apply for PPE.md
       - Practice Of Professional Engineering Examination (PPE).md
       - Summary of Exam Results.md
       - Apply for FEE.md
