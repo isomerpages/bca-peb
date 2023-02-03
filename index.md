@@ -22,7 +22,7 @@ sections:
         - title: PE Registration Examination Login
           description: ""
           url: https://www.peb.gov.sg/login_can.aspx
-        - title: Professional Engineers Login
+        - title: Professional Engineer Login
           description: ""
           url: https://www.peb.gov.sg/login_pe.aspx
         - title: Course Organiser Login
