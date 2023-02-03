@@ -13,4 +13,4 @@ Course organiser may register with PEB and make online applications for qualific
     
 *   PEB reserves the final right to register an application as course organizer in accordance with its own purpose. PEB also reserves the final right to withdraw a registration if a course organizer fails to comply with the conditions prescribed and in accordance with its own purpose.
 
-[**Click here to register as Course Organiser**](https://www.peb.gov.sg/co_application_public.aspx)
+[Click here to register as Course Organiser](https://www.peb.gov.sg/co_application_public.aspx)
