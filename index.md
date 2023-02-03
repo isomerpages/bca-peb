@@ -22,13 +22,13 @@ sections:
         - title: PE Registration Examination Login
           description: ""
           url: https://www.peb.gov.sg/login_can.aspx
-        - title: PE Registration Login
+        - title: PE Registration <br>Login
           description: ""
           url: https://www.peb.gov.sg/login_pereg.aspx
         - title: Professional Engineer Login
           description: ""
           url: https://www.peb.gov.sg/login_pe.aspx
-        - title: Course Organiser Login
+        - title: Course Organiser <br>Login
           description: ""
           url: https://www.peb.gov.sg/login_co.aspx
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
