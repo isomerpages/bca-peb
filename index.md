@@ -24,7 +24,7 @@ sections:
           url: /pe-registration-examination/
         - title: Professional Engineers Registration
           description: ""
-          url: https://www.peb.gov.sg/login_pereg.aspx
+          url: /pe-registration/
         - title: Professional Engineers Login
           description: ""
           url: https://www.peb.gov.sg/login_pe.aspx
