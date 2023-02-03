@@ -4,7 +4,14 @@ permalink: /LC-requirements/
 description: ""
 third_nav_title: Licensed Corporations
 ---
-Licensing Requirements ([download pdf version](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf))
+Refer to [Guidelines on Licensed Corporations and Partnerships](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf) to understand the requirements, and the [Application Guide](/files/Downloads/Guidelines/LC_Guideline.pdf) to do licence application online.
+
+For licence application for provision of licence to provide professional engineering services, click on [New Application](https://www.peb.gov.sg/lc_application_new.aspx) to submit application online.
+
+For licence renewal, click on [Existing Licensee](https://www.peb.gov.sg/login_lc.aspx) and login to submit application online.
+
+Submit application together with the following:
+Download [Checklist for Licence Submission](/files/Downloads/Guidelines/LC_Checklist.pdf) (print on letterhead).
 
 The licence fee is $500 and the licence will be valid for a period of one calendar year.
 
