@@ -4,8 +4,6 @@ permalink: /apply4ppe/
 description: ""
 third_nav_title: PE Registration Examinations
 ---
-
-
 Application to sit for the Professional Engineering Examination (PPE) 2023 has opened and will close on 7 Mar 2023. 
 
 The examination is tentatively scheduled in May 2023.  
@@ -22,4 +20,4 @@ The following forms are required to be downloaded for submission as part of the 
 
 * [Checklist to submit PPE application](/files/Downloads/Info%20on%20Exams/Checklist%20for%20PPE%20application.pdf) <br>
 
-[**Click here to apply for PPE**](https://www.peb.gov.sg/login_can.aspx).
+[Click here to apply for PPE](https://www.peb.gov.sg/login_can.aspx).
