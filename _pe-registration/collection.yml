@@ -2,5 +2,6 @@ collections:
   pe-registration:
     output: true
     order:
+      - Registration as Professional Engineer.md
       - Application for PE Registration by Person Previously Registered or
         Experienced Applicant.md
