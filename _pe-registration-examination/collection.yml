@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - FEE/.keep
-      - FEE/Fundamentals of Engineering Examination (FEE).md
       - FEE/Apply for FEE.md
       - FEE/Summary of Exam Results.md
       - PPE/.keep
