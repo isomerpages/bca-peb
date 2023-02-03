@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PE Registration Examinations/.keep
-      - Summary of PPE Exam Results.md
       - Apply for PPE.md
       - Practice Of Professional Engineering Examination (PPE).md
       - Summary of Exam Results.md
