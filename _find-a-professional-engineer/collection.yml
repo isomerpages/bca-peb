@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Directory.md
-      - Directory of Licensed Corporations and Partnerships.md
       - List of Suspended & Recently Deregistered PE.md
