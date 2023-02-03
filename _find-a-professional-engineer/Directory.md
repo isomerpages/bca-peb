@@ -14,3 +14,5 @@ PEB does not make any recommendation to the public with regards to which profess
 * [Directory of ASEAN Chartered Professional Engineers](https://www.peb.gov.sg/pe_general_acpe.aspx)
 * [Directory of Registered Foreign Professional Engineers](https://www.peb.gov.sg/pe_general_rfpe.aspx)
 * [Directory of Licensed Corporations and Partnerships](https://www.peb.gov.sg/pe_general_lclist.aspx)
+* [Recent PE Registrants](https://www.peb.gov.sg/recent_pe_registrant.aspx)
+* [Recent Specialist PE Registrants](https://www.peb.gov.sg/recent_spe_registrant.aspx)
