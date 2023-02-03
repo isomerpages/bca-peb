@@ -1,5 +1,5 @@
 collections:
-  cpd:
+  professional-development:
     output: true
     order:
       - Continuing Professional Development.md
