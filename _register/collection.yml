@@ -2,5 +2,6 @@ collections:
   register:
     output: true
     order:
+      - Apply for FEE.md
       - Fundamentals of Engineering Examination (FEE).md
       - PE Registration Examination.md
