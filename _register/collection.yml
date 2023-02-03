@@ -2,6 +2,8 @@ collections:
   register:
     output: true
     order:
+      - PE Registration Examinations/Practice Of Professional Engineering
+        Examination (PPE).md
       - PE Registration Examinations/Apply for PPE.md
       - PE Registration Examinations/Apply for FEE.md
       - PE Registration Examinations/PE Registration Examination.md
