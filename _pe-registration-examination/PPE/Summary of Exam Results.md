@@ -24,12 +24,12 @@ third_nav_title: PPE
 
 <br>
 
-|Year<br>Branch of Engineering|2012<br>No. of candidates|<br>No. of passes|<br>Passing rate|2013<br>No. of candidates|<br>No. of passes|<br>Passing rate|2014<br>No. of candidates|<br>No. of passes|<br>Passing rate|
+|Year<br>Branch of Engineering|2013<br>No. of candidates|<br>No. of passes|<br>Passing rate|2014<br>No. of candidates|<br>No. of passes|<br>Passing rate|2015<br>No. of candidates|<br>No. of passes|<br>Passing rate|
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Civil|247|159|64.4%|222|135|60.8%|250|151|60.4%|
-|Electrical|100|72|72.0%|129|85|65.9%|137|92|67.2%|
-|Mechanical|90|38|42.2%|103|49|47.6%|109|58|53.2%|
-|Overall|437|269|61.6%|454|269|59.3%|496|301|60.7%|
+|Civil|183|57|31.1%|245|80|32.7%|232|66|28.4%|
+|Electrical|60|35|58.3%|78|31|39.7%|88|32|36.4%|
+|Mechanical|47|20|42.6%|63|13|20.6%|82|27|32.9%|
+|Overall|290|112|38.6%|386|124|32.1%|402|125|31.1%|
 
 <br>
 
