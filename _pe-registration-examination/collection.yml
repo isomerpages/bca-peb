@@ -2,7 +2,6 @@ collections:
   pe-registration-examination:
     output: true
     order:
-      - PE Registration Examination.md
       - FEE/.keep
       - FEE/Fundamentals of Engineering Examination (FEE).md
       - FEE/Apply for FEE.md
