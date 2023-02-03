@@ -4,6 +4,5 @@ collections:
     order:
       - FEE/.keep
       - PPE/.keep
-      - PPE/Practice Of Professional Engineering Examination (PPE).md
       - PPE/Apply for PPE.md
       - PPE/Summary of Exam Results.md
