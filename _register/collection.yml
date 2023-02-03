@@ -2,7 +2,6 @@ collections:
   register:
     output: true
     order:
-      - Licensed Corporations/.keep
       - PE Registration Examinations/.keep
       - PE Registration Examinations/Requirements.md
       - PE Registration Examinations/Fundamentals of Engineering Examination
@@ -16,3 +15,4 @@ collections:
       - Professional Engineer.md
       - Previously Registered or Experienced Applicant.md
       - Course Organiser.md
+      - Licensed Corporations/.keep
