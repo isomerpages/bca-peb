@@ -16,5 +16,6 @@ The following forms are required to be downloaded for submission as part of the 
 
 * [Verification of academic record](https://www.peb.gov.sg/Downloads/Verification%20of%20academic%20record%20-%20PPE.xls) (if there is new update to your qualification)  
 
-* [Checklist to submit PPE application](https://www.peb.gov.sg/Downloads/Checklist%20for%20PPE%20application.pdf)  
+* [Checklist to submit PPE application](https://www.peb.gov.sg/Downloads/Checklist%20for%20PPE%20application.pdf) <br><br> 
+
 To apply for PPE, click the OK button.
