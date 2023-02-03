@@ -3,7 +3,7 @@ title: Course Organiser
 permalink: /course-organiser/
 description: ""
 ---
-Course organiser may register with PEB and make online applications for qualification of CPD activities under [categories 1(a), (b) or (c)](https://www.peb.gov.sg/Downloads/CO_Category.pdf), please note that the terms and conditions are as follows:
+Course organiser may register with PEB and make online applications for qualification of CPD activities under [categories 1(a), (b) or (c)](/files/Downloads/CPD/CO_Category.pdf), please note that the terms and conditions are as follows:
 
 *   Each course organiser may apply only for one account with PEB.
     
