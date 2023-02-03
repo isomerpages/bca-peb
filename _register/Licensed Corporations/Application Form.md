@@ -6,7 +6,7 @@ third_nav_title: Licensed Corporations
 ---
 Refer to [Guidelines on Licensed Corporations and Partnerships](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf) to understand the requirements, and the [Application Guide](/files/Downloads/Guidelines/LC_Guideline.pdf) to do licence application online.
 
-Submit application together with the following:
+Submit application together with the following:<br>
 Download [Checklist for Licence Submission](/files/Downloads/Guidelines/LC_Checklist.pdf) (print on letterhead).
 
 Apply licence to provide professional engineering services:
