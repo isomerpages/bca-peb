@@ -18,3 +18,6 @@ Apply licence to provide professional engineering services:
 *  [Limited Liability Partnerships](https://www.peb.gov.sg/apply_lc_ptr.aspx?type=1)
   
 *   [Multi-discipline Partnerships](https://www.peb.gov.sg/apply_lc_ptr.aspx?type=2)
+
+
+For licence renewal, [login to submit application online](https://www.peb.gov.sg/login_lc.aspx).
