@@ -8,7 +8,7 @@ Application to sit for the Professional Engineering Examination (PPE) 2023 has o
 
 For information on PPE 2023, please refer to [Information for Applicants – Practice of Professional Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/PPE_2023.pdf).  
 
-For information on the application process, please refer to the [Application Guide – PPE.](https://www.peb.gov.sg/Downloads/Application_Guide_for_PPE_2023.pdf)  
+For information on the application process, please refer to the [Application Guide – PPE.](/files/Downloads/Info%20on%20Exams/Application_Guide_for_PPE_2023.pdf)
  
 The following forms are required to be downloaded for submission as part of the application process.  
 
@@ -16,6 +16,6 @@ The following forms are required to be downloaded for submission as part of the 
 
 * [Verification of academic record](https://www.peb.gov.sg/Downloads/Verification%20of%20academic%20record%20-%20PPE.xls) (if there is new update to your qualification)  
 
-* [Checklist to submit PPE application](https://www.peb.gov.sg/Downloads/Checklist%20for%20PPE%20application.pdf) <br>
+* [Checklist to submit PPE application](/files/Downloads/Info%20on%20Exams/Checklist%20for%20PPE%20application.pdf) <br>
 
 To apply for PPE, click the OK button.
