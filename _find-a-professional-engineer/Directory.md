@@ -9,10 +9,10 @@ Similarly, a person who supplies or offers to supply professional engineering se
 
 PEB does not make any recommendation to the public with regards to which professional engineer to engage. The public can find the list of professional engineers in the directory below and make a selection. All information is correct as at date of issuance of practising certificate and may be updated from time to time.
 
-* [Directory of Professional Engineers with Practising Certificates](https://www.peb.gov.sg/pe_general_pe.aspx)
-* [Directory of Specialist Professional Engineers with Practising Certificates](https://www.peb.gov.sg/pe_general_spe.aspx)
-* [Directory of ASEAN Chartered Professional Engineers](https://www.peb.gov.sg/pe_general_acpe.aspx)
-* [Directory of Registered Foreign Professional Engineers](https://www.peb.gov.sg/pe_general_rfpe.aspx)
-* [Directory of Licensed Corporations and Partnerships](https://www.peb.gov.sg/pe_general_lclist.aspx)
-* [Recent PE Registrants](https://www.peb.gov.sg/recent_pe_registrant.aspx)
-* [Recent Specialist PE Registrants](https://www.peb.gov.sg/recent_spe_registrant.aspx)
+* [Directory of Professional Engineers with Practising Certificates](https://www.peb.gov.sg/pe_general_pe.aspx){:target="_blank"}
+* [Directory of Specialist Professional Engineers with Practising Certificates](https://www.peb.gov.sg/pe_general_spe.aspx){:target="_blank"}
+* [Directory of ASEAN Chartered Professional Engineers](https://www.peb.gov.sg/pe_general_acpe.aspx){:target="_blank"}
+* [Directory of Registered Foreign Professional Engineers](https://www.peb.gov.sg/pe_general_rfpe.aspx){:target="_blank"}
+* [Directory of Licensed Corporations and Partnerships](https://www.peb.gov.sg/pe_general_lclist.aspx){:target="_blank"}
+* [Recent PE Registrants](https://www.peb.gov.sg/recent_pe_registrant.aspx){:target="_blank"}
+* [Recent Specialist PE Registrants](https://www.peb.gov.sg/recent_spe_registrant.aspx){:target="_blank"}
