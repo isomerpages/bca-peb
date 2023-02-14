@@ -14,7 +14,7 @@ You can view archives of:
 *   Other Notifications/Orders
 
 The files are in PDF format and you need Adobe Acrobat Reader to view or print them. <br>
-If you do not have Adobe Acrobat Reader, you can download a free copy from here: [Adobe Acrobat Reader](http://get.adobe.com/reader/).
+If you do not have Adobe Acrobat Reader, you can download a free copy from here: [Adobe Acrobat Reader](http://get.adobe.com/reader/){:target="_blank"}.
 
 **Archive of Professional Engineers Act**
 
