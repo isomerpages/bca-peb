@@ -7,7 +7,7 @@ description: ""
 
 #### Main Regulatory Authorities in Construction Industry
 
-* [Building & Construction Authority (BCA)](https://www1.bca.gov.sg/)
+* [Building & Construction Authority (BCA)](https://www1.bca.gov.sg/){:target="_blank"}
 * [Energy Market Authority (EMA)](https://www.ema.gov.sg/)
 * [Land Transport Authority (LTA)](https://www.lta.gov.sg/)
 * [Ministry of Manpower (MOM) - Occupational Safety & Health Division](https://www.mom.gov.sg/about-us/divisions-and-statutory-boards/occupational-safety-and-health-division)
