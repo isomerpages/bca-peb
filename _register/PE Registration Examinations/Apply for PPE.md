@@ -14,7 +14,7 @@ For information on the application process, please refer to the [Application Gu
  
 The following forms are required to be downloaded for submission as part of the application process.  
 
-* [Summary of postgraduate professional experience](https://www.peb.gov.sg/Downloads/Summary%20of%20Prof%20Experience%20-%20PPE.xls)  
+* [Summary of postgraduate professional experience](https://www.peb.gov.sg/Downloads/Summary%20of%20Prof%20Experience%20-%20PPE.xls)
 
 * [Verification of academic record](https://www.peb.gov.sg/Downloads/Verification%20of%20academic%20record%20-%20PPE.xls) (if there is new update to your qualification)  
 
