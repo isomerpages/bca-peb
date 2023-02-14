@@ -36,4 +36,4 @@ The legislations administered by Professional Engineers Board are as follows:
 [A notification relating to the prescribed amount of paid-up capital.](https://sso.agc.gov.sg/SL/PEA1991-S767-2005?DocDate=20051201){:target="_blank"}
     
 _Acknowledgement:  
-Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge, and updated monthly, at the Singapore Government Statutes Online website ([https://sso.agc.gov.sg](https://sso.agc.gov.sg/)){:target="_blank"}._
+Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge, and updated monthly, at the [Singapore Government Statutes Online website](https://sso.agc.gov.sg](https://sso.agc.gov.sg/)){:target="_blank"}._
