@@ -26,10 +26,10 @@ For input on description of payment, applicant must indicate full name and fees 
 
 To apply, download and submit the following documents with your payment at PEB.
 
-* [Application Form for Oral exam / PE registration](https://go.gov.sg/oxu0z3)
-* [Summary of Education](https://go.gov.sg/4erfoi)  
-* [Annex A - Summary of post-graduate professional experience](https://go.gov.sg/ksbr0t)  
-* [Verification of academic record](https://go.gov.sg/tct84m)  
-* [Confirmation of modular/academic credit units](https://go.gov.sg/r9h1au)  
-* [Certificate of good conduct](https://go.gov.sg/evosxf)  
+* [Application Form for Oral exam / PE registration](https://go.gov.sg/oxu0z3){:target="_blank"}
+* [Summary of Education](https://go.gov.sg/4erfoi){:target="_blank"}
+* [Annex A - Summary of post-graduate professional experience](https://go.gov.sg/ksbr0t){:target="_blank"}
+* [Verification of academic record](https://go.gov.sg/tct84m){:target="_blank"}
+* [Confirmation of modular/academic credit units](https://go.gov.sg/r9h1au){:target="_blank"}
+* [Certificate of good conduct](https://go.gov.sg/evosxf){:target="_blank"}
 * [Checklist for submission](/files/Experienced%20PE/oral_checklist.pdf)
