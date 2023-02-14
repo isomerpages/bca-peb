@@ -11,13 +11,13 @@ Download [Checklist for Licence Submission](/files/Downloads/Guidelines/LC_Check
 
 Apply licence to provide professional engineering services:
 
-*   [Limited Corporations](https://www.peb.gov.sg/apply_lc_corp.aspx?type=1)
+*   [Limited Corporations](https://www.peb.gov.sg/apply_lc_corp.aspx?type=1){:target="_blank"}
   
-*   [Unlimited Corporations](https://www.peb.gov.sg/apply_lc_corp.aspx?type=2)
+*   [Unlimited Corporations](https://www.peb.gov.sg/apply_lc_corp.aspx?type=2){:target="_blank"}
   
-*  [Limited Liability Partnerships](https://www.peb.gov.sg/apply_lc_ptr.aspx?type=1)
+*  [Limited Liability Partnerships](https://www.peb.gov.sg/apply_lc_ptr.aspx?type=1){:target="_blank"}
   
-*   [Multi-discipline Partnerships](https://www.peb.gov.sg/apply_lc_ptr.aspx?type=2)
+*   [Multi-discipline Partnerships](https://www.peb.gov.sg/apply_lc_ptr.aspx?type=2){:target="_blank"}
 
 
-For licence renewal, [login to submit application online](https://www.peb.gov.sg/login_lc.aspx).
+For licence renewal, [login to submit application online](https://www.peb.gov.sg/login_lc.aspx){:target="_blank"}.
