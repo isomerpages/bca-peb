@@ -4,12 +4,18 @@ permalink: /boardmembers/
 description: ""
 third_nav_title: The Board
 ---
-
 #### The Board comprises
 
 
 
-| Preident of the Board |
+| Column 1 | Column 2 | Column 3 |Column 3 |
+| -------- | -------- | -------- |-------- |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     Text     |
+
+| President of the Board |
 | -------- |
 |**Er. Lim Peng Hong**<br>Managing Director<br>PH Consulting Pte. Ltd.|
 
