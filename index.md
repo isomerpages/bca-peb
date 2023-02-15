@@ -16,8 +16,6 @@ sections:
   - hero:
       title: Professional Engineers Board Singapore
       background: /images/banner2_edited.png
-      button: About Us
-      url: /mission/
       key_highlights:
         - title: Course Organiser Login
           description: ""
