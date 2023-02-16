@@ -2,9 +2,9 @@ collections:
   pe-registration-examinations:
     output: true
     order:
-      - Summary of PPE Exam Results.md
-      - Apply for PPE.md
-      - Practice Of Professional Engineering Examination (PPE).md
-      - Summary of FEE Exam Results.md
-      - Apply for FEE.md
       - Requirements.md
+      - Practice Of Professional Engineering Examination (PPE).md
+      - Apply for FEE.md
+      - Apply for PPE.md
+      - Summary of FEE Exam Results.md
+      - Summary of PPE Exam Results.md
