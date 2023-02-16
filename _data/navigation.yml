@@ -1,7 +1,5 @@
 logo: /images/PEB-logo-cropped.jpg
 links:
-  - title: About Us
-    collection: about-us
   - title: Professional Development
     url: /cpd/
     sublinks:
