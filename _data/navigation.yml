@@ -18,7 +18,9 @@ links:
   - title: Find a Professional Engineer
     url: /permalink
     sublinks:
-      - title: Directory of PE 
+      - title: Finding a PE
+        url: /findaPE/
+      - title: Directory of PE
         url: https://www.peb.gov.sg/pe_general_pe.aspx
       - title: Directory of Specialist PE
         url: https://www.peb.gov.sg/pe_general_spe.aspx
