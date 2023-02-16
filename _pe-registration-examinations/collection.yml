@@ -2,4 +2,5 @@ collections:
   pe-registration-examinations:
     output: true
     order:
+      - Fundamentals of Engineering Examination (FEE).md
       - Requirements.md
