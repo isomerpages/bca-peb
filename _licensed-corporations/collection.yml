@@ -1,4 +1,5 @@
 collections:
   licensed-corporations:
     output: true
-    order: []
+    order:
+      - Application Form.md
