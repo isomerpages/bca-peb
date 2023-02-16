@@ -2,5 +2,6 @@ collections:
   licensed-corporations:
     output: true
     order:
+      - Licensing Requirements.md
       - Common Queries.md
       - Application Form.md
