@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The Board/.keep
-      - The Board/Composition of Board.md
       - The Board/Board Members.md
       - Act and Rules/.keep
       - Act and Rules/Professional Engineers Act and Rules.md
