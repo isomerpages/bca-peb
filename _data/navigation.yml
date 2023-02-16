@@ -11,8 +11,6 @@ links:
         url: https://www.peb.gov.sg/pe_general_co.aspx
       - title: Calendar of PDU Events
         url: https://www.peb.gov.sg/course_calendar.aspx
-  - title: Register
-    collection: register
   - title: Resources
     collection: resources
   - title: Find a Professional Engineer
@@ -34,3 +32,16 @@ links:
         url: /suspendedpe
   - title: Contact Us
     url: /contact-us
+  - title: Register
+    url: /requirements/
+    sublinks:
+      - title: PE Registration Examinations
+        url: /requirements/
+      - title: Professional Engineers
+        url: /pe-registration/
+      - title: Previously Registered
+        url: /experiencedpe/
+      - title: Licensed Corporations
+        url: /LC-requirements/
+      - title: Course Organiser
+        url: /course-organiser/
