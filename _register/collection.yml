@@ -2,7 +2,6 @@ collections:
   register:
     output: true
     order:
-      - Previously Registered or Experienced Applicant.md
       - Licensed Corporations/.keep
       - Licensed Corporations/Licensing Requirements.md
       - Licensed Corporations/Common Queries.md
