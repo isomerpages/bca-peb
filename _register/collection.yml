@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Licensed Corporations/.keep
-      - Licensed Corporations/Licensing Requirements.md
