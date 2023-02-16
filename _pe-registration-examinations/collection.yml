@@ -2,6 +2,7 @@ collections:
   pe-registration-examinations:
     output: true
     order:
+      - Fundamentals of Engineering Examination (FEE).md
       - PPE/.keep
       - PPE/Practice Of Professional Engineering Examination (PPE).md
       - PPE/Apply for PPE.md
