@@ -2,4 +2,5 @@ collections:
   licensed-corporations:
     output: true
     order:
+      - Common Queries.md
       - Application Form.md
