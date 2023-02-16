@@ -4,6 +4,11 @@ links:
     collection: about-us
   - title: Professional Development
     url: /cpd/
+    sublinks:
+      - title: Directory of Course Organiser
+        url: https://www.peb.gov.sg/pe_general_co.aspx
+      - title: Calendar of PDU Events
+        url: https://www.peb.gov.sg/course_calendar.aspx
   - title: Register
     collection: register
   - title: Resources
