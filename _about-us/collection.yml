@@ -1,5 +1,5 @@
 collections:
-  overview:
+  about-us:
     output: true
     order:
       - Mission & Objectives.md
