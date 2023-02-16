@@ -1,5 +1,16 @@
 logo: /images/PEB-logo-cropped.jpg
 links:
+  - title: About Us
+    url: /mission/
+    sublinks:
+      - title: Mission & Objectives
+        url: /mission/
+      - title: Functions
+        url: /functions/
+      - title: The Board
+        url: /board/
+      - title: Act & Rules
+        url: /act-and-rules/
   - title: Professional Development
     url: /cpd/
     sublinks:
@@ -43,14 +54,3 @@ links:
         url: /suspendedpe
   - title: Contact Us
     url: /contact-us
-  - title: About Us
-    url: /mission/
-    sublinks:
-      - title: Mission & Objectives
-        url: /mission/
-      - title: Functions
-        url: /functions/
-      - title: The Board
-        url: /board/
-      - title: Act & Rules
-        url: /act-and-rules/
