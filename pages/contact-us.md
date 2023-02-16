@@ -21,7 +21,7 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6666 6666
+      - phone: ""
       - email: registrar@peb.gov.sg
       - other: ""
     title: General Enquiries & Feedback
