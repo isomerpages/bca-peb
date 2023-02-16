@@ -27,7 +27,7 @@ links:
   - title: Resources
     collection: resources
   - title: Find a Professional Engineer
-    url: /permalink
+    url: /findaPE/
     sublinks:
       - title: Finding a PE
         url: /findaPE/
