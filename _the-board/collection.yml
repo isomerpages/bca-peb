@@ -2,4 +2,5 @@ collections:
   the-board:
     output: true
     order:
+      - Composition of Board.md
       - Board Members.md
