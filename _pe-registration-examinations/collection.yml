@@ -2,6 +2,7 @@ collections:
   pe-registration-examinations:
     output: true
     order:
+      - Summary of FEE Exam Results.md
       - Apply for FEE.md
       - Fundamentals of Engineering Examination (FEE).md
       - PPE/.keep
