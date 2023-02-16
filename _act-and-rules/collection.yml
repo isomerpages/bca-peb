@@ -1,0 +1,4 @@
+collections:
+  act-and-rules:
+    output: true
+    order: []
