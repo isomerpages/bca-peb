@@ -2,7 +2,6 @@ collections:
   register:
     output: true
     order:
-      - PE Registration Examinations/.keep
       - Professional Engineer.md
       - Previously Registered or Experienced Applicant.md
       - Licensed Corporations/.keep
