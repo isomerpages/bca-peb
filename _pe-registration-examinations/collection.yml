@@ -2,6 +2,7 @@ collections:
   pe-registration-examinations:
     output: true
     order:
+      - Apply for PPE.md
       - Apply for FEE.md
       - Practice Of Professional Engineering Examination (PPE).md
       - Fundamentals of Engineering Examination (FEE).md
