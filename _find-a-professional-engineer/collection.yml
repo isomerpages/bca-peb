@@ -2,5 +2,4 @@ collections:
   find-a-professional-engineer:
     output: true
     order:
-      - List of Suspended & Recently Deregistered PE.md
       - Directory of Licensed Builder (testing).md
