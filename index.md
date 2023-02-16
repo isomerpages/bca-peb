@@ -26,7 +26,7 @@ sections:
         - title: Licensee Login
           description: ""
           url: https://www.peb.gov.sg/login_lc.aspx
-      subtitle: "## Advancing, Developing and Regulating Professional Engineering "
+      subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - resources:
       title: What's New
       button: More News
