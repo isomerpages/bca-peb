@@ -2,7 +2,6 @@ collections:
   register:
     output: true
     order:
-      - Professional Engineer.md
       - Previously Registered or Experienced Applicant.md
       - Licensed Corporations/.keep
       - Licensed Corporations/Licensing Requirements.md
