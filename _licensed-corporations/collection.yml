@@ -1,0 +1,4 @@
+collections:
+  licensed-corporations:
+    output: true
+    order: []
