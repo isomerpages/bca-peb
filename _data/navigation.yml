@@ -14,6 +14,17 @@ links:
   - title: Resources
     collection: resources
   - title: Find a Professional Engineer
-    collection: find-a-professional-engineer
+    url: /permalink
+    sublinks:
+      - title: Professional Engineers
+        url: https://www.peb.gov.sg/pe_general_pe.aspx
+      - title: Specialist PE
+        url: https://www.peb.gov.sg/pe_general_spe.aspx
+      - title: ASEAN Chartered PE
+        url: https://www.peb.gov.sg/pe_general_acpe.aspx
+      - title: Registered Foreign PE
+        url: https://www.peb.gov.sg/pe_general_rfpe.aspx
+      - title: Licensed Corporations
+        url: https://www.peb.gov.sg/pe_general_lclist.aspx
   - title: Contact Us
     url: /contact-us
