@@ -28,5 +28,7 @@ links:
         url: https://www.peb.gov.sg/pe_general_rfpe.aspx
       - title: Licensed Corporations
         url: https://www.peb.gov.sg/pe_general_lclist.aspx
+      - title: Suspended & Deregistered PE
+        url: /suspendedpe
   - title: Contact Us
     url: /contact-us
