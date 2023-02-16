@@ -3,8 +3,6 @@ title: Finding a Professional Engineer
 permalink: /findaPE/
 description: ""
 ---
-
-
 Under the Professional Engineers Act, a person who engages in any of the prescribed branches of professional engineering work in Singapore, namely, chemical, civil, electrical, mechanical, or geotechnical engineering, shall be a registered professional engineer who has in force a practising certificate, or someone working under the direction or supervision of a registered professional engineer who has in force a practising certificate.
 
 Similarly, a person who supplies or offers to supply professional engineering services in any of the prescribed branches of professional engineering work in Singapore shall be a registered professional engineer who has in force a practising certificate practicing as a sole proprietor or as a partner in a licensed partnership, licensed limited liability partnership or partnership consisting wholly of registered professional engineers; or an allied professional who is a partner in a licensed partnership or limited liability partnership; or a licensed corporation or limited liability partnership.
@@ -22,4 +20,4 @@ PEB also registers specialist professional engineers in specialized branches of 
 Businesses may also supply professional engineering services provided they are licensed by PEB to do so. Licences may be granted to 4 forms of organizations, namely limited corporations, unlimited corporations, multi-disciplinary partnerships and limited liability partnerships.
 
 **New:<br>**
-[Summary Of Comments Of Public Consultation on Proposed Amendments to the Professional Engineers Act](https://www.peb.gov.sg/peact_review.aspx)
+[Summary Of Comments Of Public Consultation on Proposed Amendments to the Professional Engineers Act](/public-consultation/)
