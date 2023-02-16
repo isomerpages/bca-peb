@@ -1,5 +1,4 @@
 collections:
   register:
     output: true
-    order:
-      - Licensed Corporations/.keep
+    order: []
