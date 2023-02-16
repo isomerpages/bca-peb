@@ -1,4 +1,5 @@
 collections:
   the-board:
     output: true
-    order: []
+    order:
+      - Board Members.md
