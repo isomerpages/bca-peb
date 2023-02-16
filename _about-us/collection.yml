@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Mission & Objectives.md
       - Functions.md
       - The Board/.keep
       - The Board/Composition of Board.md
