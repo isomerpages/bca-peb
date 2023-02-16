@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The Board/.keep
-      - The Board/Board Members.md
       - Act and Rules/.keep
       - Act and Rules/Professional Engineers Act and Rules.md
       - Act and Rules/Archives Of The Act And Subsidary Legislations.md
