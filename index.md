@@ -30,4 +30,14 @@ sections:
   - resources:
       title: What's New
       button: More News
+  - infopic:
+      title: PEB Day of Dedication 2022
+      subtitle: Key Event
+      description: "The most important day in the PEB Calendar. The theme was
+        “Engineers as Key Enablers for a Sustainable and Resilient Smart City”.
+        "
+      button: Learn more
+      url: /DOD2022/
+      image: /images/PEB Day of Dedication 2022/dod2022_2.jpg
+      alt: Image alt text
 ---
