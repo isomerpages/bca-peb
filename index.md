@@ -28,7 +28,6 @@ sections:
           url: https://www.peb.gov.sg/login_lc.aspx
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
   - infobar:
-      title: Mission
       description: The Professional Engineers Board Singapore (PEB) is a statutory
         board in the Ministry of National Development, established since 1971
         under the PE Act.
