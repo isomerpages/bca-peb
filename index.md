@@ -27,9 +27,6 @@ sections:
           description: ""
           url: https://www.peb.gov.sg/login_lc.aspx
       subtitle: "Advancing, Developing and Regulating Professional Engineering "
-  - resources:
-      title: What's New
-      button: More News
   - infopic:
       title: PEB Day of Dedication 2022
       subtitle: Key Event
@@ -40,4 +37,7 @@ sections:
       url: /DOD2022/
       image: /images/PEB Day of Dedication 2022/dod2022_2.jpg
       alt: Image alt text
+  - resources:
+      title: What's New
+      button: More News
 ---
