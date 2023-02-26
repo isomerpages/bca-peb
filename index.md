@@ -15,7 +15,7 @@ notification: Please do not click on any links if you receive SMSes that appear
 sections:
   - hero:
       title: Professional Engineers Board Singapore
-      background: /images/ISS_25996_00670.jpg
+      background: /images/ISS_6351_16953.jpg
       key_highlights:
         - title: Professional Engineer Login
           description: ""
