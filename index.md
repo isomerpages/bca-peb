@@ -30,6 +30,14 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infopic:
+      title: PEB New Site Launch
+      subtitle: Announcement
+      description: We are excited to announce our new PEB Corporate Website!
+      alt: Image alt text
+  - resources:
+      title: What's New
+      button: More News
+  - infopic:
       title: PEB Day of Dedication 2022
       subtitle: Key Event
       description: "The most important day in the PEB Calendar. The theme was
@@ -39,7 +47,4 @@ sections:
       url: /DOD2022/
       image: /images/PEB Day of Dedication 2022/dod2022_2.jpg
       alt: Image alt text
-  - resources:
-      title: What's New
-      button: More News
 ---
