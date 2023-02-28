@@ -14,7 +14,7 @@ notification: Please do not click on any links if you receive SMSes that appear
   passwords and 2FA details to others.
 sections:
   - hero:
-      title: <span style="color:red">Professional Engineers Board</span>
+      title: <span style="color:red">Professional Engineers Board </span> <span style="color:black">Singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
         - title: Professional Engineer Login
