@@ -27,7 +27,7 @@ sections:
         - title: Licensee Login
           description: ""
           url: https://www.peb.gov.sg/login_lc.aspx
-      subtitle: <span font-size="24px">Advancing, Developing and Regulating
+      subtitle: <span style="font-size=24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infopic:
       title: PEB Day of Dedication 2022
