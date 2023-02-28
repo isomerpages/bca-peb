@@ -29,11 +29,10 @@ sections:
           url: https://www.peb.gov.sg/login_lc.aspx
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
-  - infopic:
+  - infobar:
       title: PEB New Site Launch
       subtitle: Announcement
       description: We are excited to announce our new PEB Corporate Website!
-      alt: Image alt text
   - resources:
       title: What's New
       button: More News
