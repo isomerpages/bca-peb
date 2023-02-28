@@ -31,7 +31,6 @@ sections:
         Professional Engineering</span>
   - infobar:
       title: PEB New Site Launch
-      subtitle: Announcement
       description: We are excited to announce our new PEB Corporate Website!
   - resources:
       title: What's New
