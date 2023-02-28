@@ -14,7 +14,8 @@ notification: Please do not click on any links if you receive SMSes that appear
   passwords and 2FA details to others.
 sections:
   - hero:
-      title: <span style="color:red">Professional Engineers Board </span> <span style="color:black">Singapore</span>
+      title: <span style="color:red">Professional Engineers Board </span> <span
+        style="color:black">Singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
         - title: Professional Engineer Login
@@ -26,7 +27,8 @@ sections:
         - title: Licensee Login
           description: ""
           url: https://www.peb.gov.sg/login_lc.aspx
-      subtitle: "Advancing, Developing and Regulating Professional Engineering "
+      subtitle: <span font-size="24px">Advancing, Developing and Regulating
+        Professional Engineering</span>
   - infopic:
       title: PEB Day of Dedication 2022
       subtitle: Key Event
