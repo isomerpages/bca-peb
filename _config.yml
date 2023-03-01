@@ -2,15 +2,15 @@ title: Professional Engineers Board (PEB)
 url: https://www.peb.gov.sg
 favicon: /images/PEB-logo-cropped.jpg
 colors:
-  primary-color: "#2e509f"
+  primary-color: "#000000"
   secondary-color: "#e50000"
   media-colors:
     - title: media-color-one
       color: "#e50000"
     - title: media-color-two
-      color: "#2e509f"
+      color: "#000000"
     - title: media-color-three
-      color: "#2e509f"
+      color: "#000000"
     - title: media-color-four
       color: "#bd10e0"
     - title: media-color-five
