@@ -3,10 +3,7 @@ title: Apply for FEE
 permalink: /apply4fee/
 description: ""
 ---
-
-
-
-Application to sit for the Fundamentals of Engineering Examination has closed. The examination dates are as follow:
+<!-- Application to sit for the Fundamentals of Engineering Examination has closed. The examination dates are as follow:
 
 
 | Branch of Engineering | Examination Date (Part 1) | Examination Date (Part 2) |
@@ -17,4 +14,20 @@ Application to sit for the Fundamentals of Engineering Examination has closed. T
 
 The next examination is scheduled around September or October 2023. Application to sit for examination will start in Apr 2023.
 
-For more information on FEE 2022, please refer to [Information on Fundamentals of Engineering Examination](/files/Downloads/Info%20on%20Exams/FEE_2022.pdf).
+For more information on FEE 2022, please refer to [Information on Fundamentals of Engineering Examination](/files/Downloads/Info%20on%20Exams/FEE_2022.pdf). -->
+
+Application to sit for the Fundamentals of Engineering Examination (FEE) 2023 has opened and will close on 30 Jun 2023. The examinations are tentatively scheduled in Sep 2023.  
+  
+For information on FEE 2023, please refer to&nbsp;[Information for Applicants – Fundamentals of Engineering Examination 2023](https://www.peb.gov.sg/Downloads/FEE_2023.pdf)&nbsp;.
+
+For information on the application process, please refer to the&nbsp;[Application Guide – FEE](https://www.peb.gov.sg/Downloads/Application_Guide_for_FEE_2023.pdf)&nbsp;.
+
+The following forms are required to be downloaded for submission as part of the application process:
+
+[Confirmation of Modular / Academic Credit Units](https://www.peb.gov.sg/Downloads/Credit%20units%20(FEE).xlsx)
+
+[Verification of Academic Record](https://www.peb.gov.sg/Downloads/Vertification%20of%20academic%20record%20(FEE).xls)
+
+[Checklist to submit FEE application](https://www.peb.gov.sg/Downloads/Checklist%20for%20FEE.pdf)
+
+To apply for FEE 2023, click [here](https://www.peb.gov.sg/apply_fee_declare.aspx).
