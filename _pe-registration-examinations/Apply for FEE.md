@@ -24,9 +24,9 @@ For information on the application process, please refer to the [Application Gui
 
 The following forms are required to be downloaded for submission as part of the application process:
 
-[Confirmation of Modular / Academic Credit Units](https://www.peb.gov.sg/Downloads/Credit%20units%20(FEE).xlsx)
+[Confirmation of Modular / Academic Credit Units](https://go.gov.sg/r9h1au)
 
-[Verification of Academic Record](https://www.peb.gov.sg/Downloads/Vertification%20of%20academic%20record%20(FEE).xls)
+[Verification of Academic Record](https://go.gov.sg/5i0f50)
 
 [Checklist to submit FEE application](/files/Downloads/Info%20on%20Exams/checklist%20for%20fee.pdf)
 
