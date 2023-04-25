@@ -28,6 +28,6 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Verification of Academic Record](https://www.peb.gov.sg/Downloads/Vertification%20of%20academic%20record%20(FEE).xls)
 
-[Checklist to submit FEE application](https://www.peb.gov.sg/Downloads/Checklist%20for%20FEE.pdf)
+[Checklist to submit FEE application](/files/Downloads/Info%20on%20Exams/checklist%20for%20fee.pdf)
 
 To apply for FEE 2023, click [here](https://www.peb.gov.sg/apply_fee_declare.aspx).
