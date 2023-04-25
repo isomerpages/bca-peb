@@ -18,9 +18,9 @@ For more information on FEE 2022, please refer to [Information on Fundamentals 
 
 Application to sit for the Fundamentals of Engineering Examination (FEE) 2023 has opened and will close on 30 Jun 2023. The examinations are tentatively scheduled in Sep 2023.  
   
-For information on FEE 2023, please refer to&nbsp;[Information for Applicants – Fundamentals of Engineering Examination 2023](https://www.peb.gov.sg/Downloads/FEE_2023.pdf)&nbsp;.
+For information on FEE 2023, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee_2023.pdf)
 
-For information on the application process, please refer to the&nbsp;[Application Guide – FEE](https://www.peb.gov.sg/Downloads/Application_Guide_for_FEE_2023.pdf)&nbsp;.
+For information on the application process, please refer to the [Application Guide – FEE](/files/Downloads/Info%20on%20Exams/application_guide_for_fee_2023.pdf).
 
 The following forms are required to be downloaded for submission as part of the application process:
 
