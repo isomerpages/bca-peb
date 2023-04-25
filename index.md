@@ -2,7 +2,7 @@
 layout: homepage
 title: Professional Engineers Board (PEB)
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/PEB-logo-cropped.jpg
 permalink: /
 notification: Please do not click on any links if you receive SMSes that appear
   to be from PEB. Please be assured that PEB will never ask or request for
@@ -38,9 +38,8 @@ sections:
   - infopic:
       title: PEB Day of Dedication 2022
       subtitle: Key Event
-      description: "The most important day in the PEB Calendar. The theme was
+      description: The most important day in the PEB Calendar. The theme was
         “Engineers as Key Enablers for a Sustainable and Resilient Smart City”.
-        "
       button: Learn more
       url: /DOD2022/
       image: /images/PEB Day of Dedication 2022/dod2022_2.jpg
