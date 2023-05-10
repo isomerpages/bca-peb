@@ -20,7 +20,7 @@ notification: Please do not click on any links if you receive SMSes that appear
 sections:
   - hero:
       title: <span style="color:red; font-size:72px">professional engineers board </span> <span
-        style="color:black; ; font-size:72px">Singapore</span>
+        style="color:black; ; font-size:72px">singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
         - title: Professional Engineer Login
