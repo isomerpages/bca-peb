@@ -2,9 +2,9 @@
 layout: homepage
 title: Professional Engineers Board (PEB)
 description: >-
-  The Professional Engineers Board Singapore (PEB) is a statutory
-  board in the Ministry of National Development. PEB was established since 1971
-  under the Professional Engineers Act.
+  The Professional Engineers Board Singapore (PEB) is a statutory board in the
+  Ministry of National Development. PEB was established since 1971 under the
+  Professional Engineers Act.
 
   PEB’s Mission is to safeguard life, property, and welfare of the public by setting and maintaining high standards for registering professional engineers, and by regulating and advancing the practice of professional engineering.
 image: /images/PEB-logo-cropped.jpg
@@ -19,19 +19,19 @@ notification: Please do not click on any links if you receive SMSes that appear
   passwords and 2FA details to others.
 sections:
   - hero:
-      title: <span style="color:red; font-size:72px">professional engineers board </span> <span
-        style="color:black; ; font-size:72px">singapore</span>
+      title: <span style="color:red; font-size:72px">professional engineers board
+        </span> <span style="color:black; ; font-size:72px">singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
         - title: Professional Engineer Login
           description: ""
-          url: https://www.peb.gov.sg/login_pe.aspx
+          url: http://10.201.8.15/login_pe.aspx
         - title: Course Organiser Login
           description: ""
-          url: https://www.peb.gov.sg/login_co.aspx
+          url: http://10.201.8.15/login_co.aspx
         - title: Licensee Login
           description: ""
-          url: https://www.peb.gov.sg/login_lc.aspx
+          url: http://10.201.8.15/login_lc.aspx
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
