@@ -3,6 +3,8 @@ title: Information on Examinations
 permalink: /infoonexam/
 description: ""
 ---
-[Fundamentals of Engineering Examination 2022](/files/Downloads/Info%20on%20Exams/FEE_2022.pdf)
+* [[Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee_2023%20(new).pdf)
 
-[Practice of Professional Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/PPE_2023.pdf)
+* [Practice of Professional Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/ppe_2023%20(new).pdf)
+ 
+* The files are in pdf format and you need Adobe Acrobat Reader to view or print them.
