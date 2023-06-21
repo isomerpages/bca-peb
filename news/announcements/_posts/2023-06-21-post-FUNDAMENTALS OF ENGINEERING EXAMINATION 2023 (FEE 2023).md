@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Registration for FEE will close on 30 Jun 2023. The examination dates are tentatively scheduled in Jan 2024.
+Registration for FEE will close on **30 Jun 2023**. The examination dates are tentatively scheduled in Jan 2024.
