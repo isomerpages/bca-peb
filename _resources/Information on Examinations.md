@@ -3,7 +3,7 @@ title: Information on Examinations
 permalink: /infoonexam/
 description: ""
 ---
-* [[Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee_2023%20(new).pdf)
+* [Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee_2023%20(new).pdf)
 
 * [Practice of Professional Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/ppe_2023%20(new).pdf)
  
