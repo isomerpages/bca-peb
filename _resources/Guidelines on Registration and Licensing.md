@@ -3,7 +3,7 @@ title: Guidelines on Registration and Licensing
 permalink: /guidelines/
 description: ""
 ---
-*   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf)
+*   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/RegistrationasPE.pdf)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Geotechnical Engineering](/files/Downloads/Guidelines/spe_geo_reg.pdf)
     
