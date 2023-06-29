@@ -25,13 +25,13 @@ sections:
       key_highlights:
         - title: Professional Engineer Login
           description: ""
-          url: http://10.201.8.15/login_pe.aspx
+          url: https://peb.gov.sg/login_pe.aspx
         - title: Course Organiser Login
           description: ""
-          url: http://10.201.8.15/login_co.aspx
+          url: https://peb.gov.sg/login_co.aspx
         - title: Licensee Login
           description: ""
-          url: http://10.201.8.15/login_lc.aspx
+          url: https://peb.gov.sg/login_lc.aspx
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
