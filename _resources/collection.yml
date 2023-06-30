@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Guidelines on Registration and Licensing.md
+      - Information on Examinations.md
+      - Annual Reports & Financial Statements.md
+      - Useful Links.md

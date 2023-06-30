@@ -2,11 +2,23 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+The Professional Engineers Board registers professional engineers in the branches of civil, electrical and mechanical engineering. A person applying for registration as a professional engineer to the Professional Engineers Board is required to hold an approved degree or qualification listed in the Professional Engineers [Professional Engineers (Approved Qualifications) Notification 2009](/act-and-rules/) and acquired not less than four years of relevant practical experience. He is also required to sit and pass examinations prescribed by the Board. The applicant is required to sit and pass the [Fundamentals of Engineering Examination](/FEE/) and following that, to sit and pass the [Practice of Professional Engineering Examination](/PPE/). In addition, the applicant is required to attend an interview.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+#### Common Queries on Qualifications
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+The qualifications approved by the Board for the purpose of registration as a professional engineer are listed in the [Professional Engineers (Approved Qualifications) Notification 2009](/act-and-rules/).
+
+In general, the Board does not consider qualifications obtained from distance learning, twinning programs or programs that are not approved as meeting the prescribed requirements.
+
+If an applicant's undergraduate engineering degree is not listed in the Notification, the Board may consider the application for registration if the degree is supplemented by a Master in the same branch of engineering from NTU or NUS; or a PhD degree in the same branch of engineering from an institution approved by PEB.
+
+#### Common Queries on Examinations
+Applications to sit for examinations are to be submitted online with fees made by e-payment. An applicant is also required to come to PEB in person and bring original educational certificates, academic transcripts, identification record, etc. for verification, together with his hardcopy application. Application received by post will not be accepted.
+
+Verification of documents for application to sit for Practice of Professional Engineering Examination and PE registration will not be required if an applicant has applied to sit for Fundamentals of Engineering Examination online.
+
+There is no exemption from examinations on account of years of experience, professional registration in other jurisdictions, or memberships in learned or professional institutions etc.
+
+PEB does not provide study notes, past year examination papers or conduct courses for the purpose of preparing for examinations.
