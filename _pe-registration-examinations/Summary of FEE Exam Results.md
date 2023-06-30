@@ -3,12 +3,6 @@ title: Summary of FEE Exam Results
 permalink: /feeexamresults/
 description: ""
 ---
-
-
-
-
-
-
 **Results of Fundamentals of Engineering Examination (FEE)**
 
 |Year<br>Branch of Engineering|2006<br>No. of candidates|<br>No. of passes|<br>Passing rate|2007<br>No. of candidates|<br>No. of passes|<br>Passing rate|2008<br>No. of candidates|<br>No. of passes|<br>Passing rate|
@@ -54,3 +48,13 @@ description: ""
 |Electrical|147|85|57.8%|147|58|39.5%|178|67|37.6%|
 |Mechanical|160|73|45.6%|157|91|58.0%|146|76|52.1%|
 |Overall|537|289|53.8%|636|281|44.2%|662|276|41.7%|
+
+<br>
+
+|Year<br>Branch of Engineering|2022<br>No. of candidates|<br>No. of passes|<br>Passing rate
+| -------- | -------- | -------- | -------- |
+|Chemical|7|4|57.1%|
+|Civil|389|152|39.1%|
+|Electrical|157|45|28.7%|
+|Mechanical|124|65|52.4%|
+|Overall|677|266|39.3%|
