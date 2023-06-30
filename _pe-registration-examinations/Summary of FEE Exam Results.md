@@ -44,17 +44,17 @@ description: ""
 |Year<br>Branch of Engineering|2018<br>No. of candidates|<br>No. of passes|<br>Passing rate|2019<br>No. of candidates|<br>No. of passes|<br>Passing rate|2021<br>No. of candidates|<br>No. of passes|<br>Passing rate|
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
 |Chemical|-|-|-|10|10|100.0%|6|3|50.0%|
-|Civil|230|131|57.0%|322|122|37.9%|332|130|39.2%|
-|Electrical|147|85|57.8%|147|58|39.5%|178|67|37.6%|
+|Civil|230|131|57.0%|322|122|37.9%|481|219|45.5%|
+|Electrical|147|85|57.8%|147|58|39.5%|190|75|39.5%|
 |Mechanical|160|73|45.6%|157|91|58.0%|146|76|52.1%|
-|Overall|537|289|53.8%|636|281|44.2%|662|276|41.7%|
+|Overall|537|289|53.8%|636|281|44.2%|823|373|45.3%|
 
 <br>
 
 |Year<br>Branch of Engineering|2022<br>No. of candidates|<br>No. of passes|<br>Passing rate
 | -------- | -------- | -------- | -------- |
 |Chemical|7|4|57.1%|
-|Civil|389|152|39.1%|
-|Electrical|157|45|28.7%|
+|Civil|402|160|39.8%|
+|Electrical|164|48|29.3%|
 |Mechanical|124|65|52.4%|
-|Overall|677|266|39.3%|
+|Overall|697|277|39.7%|
