@@ -29,3 +29,5 @@ Examination date is scheduled on 19 May 2023.
 The next examination is scheduled in May 2024. Application to sit for examination will start in Dec 2023.
 
 For more information on PPE 2023, please refer [Information on Practice of Professional Engineering Examination](/files/Downloads/Info%20on%20Exams/ppe_2023%20(new).pdf).
+
+[Click here to login for PPE](https://www.peb.gov.sg/login_can.aspx).
