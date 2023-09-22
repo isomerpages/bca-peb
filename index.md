@@ -38,7 +38,7 @@ sections:
       title: PEB New Site Launch
       description: We are excited to announce our new PEB Corporate Website!
   - resources:
-      title: What's New
+      title: News
       button: More News
   - infopic:
       title: PEB Day of Dedication 2022
