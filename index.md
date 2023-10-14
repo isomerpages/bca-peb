@@ -43,8 +43,6 @@ sections:
       title: Day of Dedication 2023
       description: Thank you for your support. Due to overwhelming response, the
         registration of PEB Day of Dedication 2023 is now closed.
-      button: TO REGISTER
-      url: https://www.peb.gov.sg/login_pe.aspx
   - resources:
       title: News
       button: More News
