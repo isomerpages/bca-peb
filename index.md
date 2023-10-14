@@ -42,10 +42,8 @@ sections:
       url: https://www.peb.gov.sg/login_pe.aspx
   - infobar:
       title: Day of Dedication 2023
-      description: >-
-        PEB Day of Dedication 2023 – 9 Nov 2023, 10 am to 1pm, fee S$80, 4 PDU.
-
-        Registration starts from 6 Oct 2023 to 16 Oct 2023 (first come first served basis)
+      description: Thank you for your support. Due to overwhelming response, the
+        registration of PEB Day of Dedication 2023 is now closed.
       button: TO REGISTER
       url: https://www.peb.gov.sg/login_pe.aspx
   - resources:
