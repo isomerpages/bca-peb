@@ -35,11 +35,10 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB Election 2023
+      title: PE Practising Certificate (PC) 2024
       id: infobar
-      description: PE with PC 2023 to vote from 26 Sep 2023, 8.30am to 5 Oct 2023, 5.30pm
-      button: TO VOTE
-      url: https://www.peb.gov.sg/login_pe.aspx
+      description: If you have met the PC requirements for PC 2024, you may apply from
+        27 Oct 2023 onwards.
   - infobar:
       title: Day of Dedication 2023
       description: Thank you for your support. Due to overwhelming response, the
