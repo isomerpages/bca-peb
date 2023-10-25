@@ -23,7 +23,7 @@ Mechanical Engineering - 4 January 2024
 Civil Engineering - 5 January 2024
 Chemical Engineering - 5 January 2024
 
-For information on FEE 2023, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/FEE2023_251023.pdf)
+For information on FEE 2023, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee2023_251023.pdf)
 
 The next examination is scheduled around January 2025. Application to sit for examination will start in Jun 2024.
 
