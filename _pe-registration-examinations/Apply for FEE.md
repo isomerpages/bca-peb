@@ -18,10 +18,10 @@ For more information on FEE 2022, please refer to [Information on Fundamentals 
 
 Application to sit for the Fundamentals of Engineering Examination (FEE) 2023 has closed on 30 Jun 2023. The examination dates are as follow:
 
-Electrical Engineering - 4 January 2024
-Mechanical Engineering - 4 January 2024
-Civil Engineering - 5 January 2024
-Chemical Engineering - 5 January 2024
+Electrical Engineering - 4 January 2024<br>
+Mechanical Engineering - 4 January 2024<br>
+Civil Engineering - 5 January 2024<br>
+Chemical Engineering - 5 January 2024<br>
 
 For information on FEE 2023, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee2023_251023.pdf)
 
