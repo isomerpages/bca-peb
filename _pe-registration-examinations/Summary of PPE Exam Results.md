@@ -3,12 +3,6 @@ title: Summary of PPE Exam Results
 permalink: /PPEexamresults/
 description: ""
 ---
-
-
-
-
-
-
 **Results of Practice of Professional Engineering Examination (PPE)**
 
 |Year<br>Branch of Engineering|2007<br>No. of candidates|<br>No. of passes|<br>Passing rate|2008<br>No. of candidates|<br>No. of passes|<br>Passing rate|2009<br>No. of candidates|<br>No. of passes|<br>Passing rate|
@@ -54,3 +48,14 @@ description: ""
 |Electrical|176|47|26.7%|160|55|34.4%|148|51|34.5%|
 |Mechanical|113|32|28.3%|102|58|56.9%|86|28|32.6%|
 |Overall|537|113|24.8%|515|173|33.6%|521|137|26.3%|
+
+
+<br>
+
+|Year<br>Branch of Engineering|2023<br>No. of candidates|<br>No. of passes|<br>Passing rate|<br>|<br>|<br>|<br>|<br>|<br>|
+| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
+|Chemical|2|1|50.0%||||||
+|Civil|319|143|44.8%|||||||
+|Electrical|129|66|51.2%|||||||
+|Mechanical|98|40|40.8%|||||||
+|Overall|548|250|45.6%|||||||
