@@ -6,4 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Registration for FEE has closed on **30 Jun 2023**. The examination dates are tentatively scheduled in Jan 2024.
+Registration for FEE has closed on 30 June 2023. The examination dates are as follow:
+
+4 January 2024 – Electrical Engineering, Mechanical Engineering
+
+5 January 2024 – Civil Engineering, Chemical Engineering
