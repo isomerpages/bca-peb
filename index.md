@@ -39,10 +39,6 @@ sections:
       id: infobar
       description: If you have met the PC requirements for PC 2024, you may apply from
         27 Oct 2023 onwards.
-  - infobar:
-      title: Day of Dedication 2023
-      description: Thank you for your support. Due to overwhelming response, the
-        registration of PEB Day of Dedication 2023 is now closed.
   - resources:
       title: News
       button: More News
