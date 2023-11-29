@@ -5,10 +5,8 @@ date: 2022-12-02
 layout: post
 description: PEB Day of Dedication 2022
 image: /images/PEB Day of Dedication 2022/dod2022_1.png
+variant: markdown
 ---
-
-
-
 ![PEB Day of Dedication 2022](/images/PEB%20Day%20of%20Dedication%202022/dod2022_1.png)
 
 #### PEB Day of Dedication 2022
@@ -50,7 +48,7 @@ Click [here](https://www.peb.gov.sg/Downloads/PEB50thAnniversaryBook.pdf) to vie
 ![Congratulations to our 66 newly registered Professional Engineers for 2022.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_27.jpg)
 *Congratulations to our 66 newly registered Professional Engineers for 2022. Please continue to uphold the standing and reputation of the profession!*
 
-#### Specialist Professional Engineers ^ ASEAN Chartered Professional Engineers
+#### Specialist Professional Engineers ASEAN Chartered Professional Engineers
 ![Our new SPEs on stage with Minister.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_11.jpg)
 *Our new SPEs on stage with Minister. In total, 14 PEs received their Specialist Professional Engineer certificates in the branches of Crane engineering, Geotechnical engineering, Lift and Escalator engineering and Tunnelling engineering.*
 
@@ -68,7 +66,7 @@ Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the 
 ![Er. Esther Chong, PE (Electrical), leading Professional Engineers in taking the PE Pledge.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_14.jpg)
 ![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_15.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_16.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_17.jpg)
 
-#### Newworking at Lunch
+#### Networking at Lunch
 ![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_18.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_19.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_20.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_21.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_22.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_23.jpg)![](/images/PEB%20Day%20of%20Dedication%202022/dod2022_24.jpg)
 
 #### A Big Thank You to All - A Successful DOD
