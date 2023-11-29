@@ -48,7 +48,7 @@ Click [here](https://www.peb.gov.sg/Downloads/PEB50thAnniversaryBook.pdf) to vie
 ![Congratulations to our 66 newly registered Professional Engineers for 2022.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_27.jpg)
 *Congratulations to our 66 newly registered Professional Engineers for 2022. Please continue to uphold the standing and reputation of the profession!*
 
-#### Specialist Professional Engineers ASEAN Chartered Professional Engineers
+#### Specialist Professional Engineers & ASEAN Chartered Professional Engineers
 ![Our new SPEs on stage with Minister.](/images/PEB%20Day%20of%20Dedication%202022/dod2022_11.jpg)
 *Our new SPEs on stage with Minister. In total, 14 PEs received their Specialist Professional Engineer certificates in the branches of Crane engineering, Geotechnical engineering, Lift and Escalator engineering and Tunnelling engineering.*
 
