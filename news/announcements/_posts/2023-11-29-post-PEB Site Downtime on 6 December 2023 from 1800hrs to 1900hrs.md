@@ -9,7 +9,7 @@ variant: markdown
 ---
 Dear PEs, LCs and COs,
 
-Please note that the PEB site will not be accessible on 6 December 2023 (Wednesday) from 18:00hrs till 19:00hrs. We apologise for any inconvenience caused.
+Please note that the PEB site will be down for maintenance on 6 December 2023 (Wednesday) from 18:00hrs till 19:00hrs. We apologise for any inconvenience caused.
 
 Thank you.
 
