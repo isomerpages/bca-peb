@@ -2,6 +2,7 @@
 title: Apply for PPE
 permalink: /apply4ppe/
 description: ""
+variant: markdown
 ---
 <!-- Application to sit for the Professional Engineering Examination (PPE) 2023 has opened and will close on 7 Mar 2023. 
 
@@ -24,9 +25,7 @@ The following forms are required to be downloaded for submission as part of the 
 
 Application to sit for the Practice of Professional Engineering Examination has closed.
 
-Examination date is scheduled on 19 May 2023.
-
-The next examination is scheduled in May 2024. Application to sit for examination will start in Dec 2023.
+The next examination is scheduled in Sep 2024. Application to sit for examination will start in Mar 2024.
 
 For more information on PPE 2023, please refer [Information on Practice of Professional Engineering Examination](/files/Downloads/Info%20on%20Exams/ppe_2023%20(new).pdf).
 

@@ -2,6 +2,7 @@
 title: Apply for FEE
 permalink: /apply4fee/
 description: ""
+variant: markdown
 ---
 <!-- Application to sit for the Fundamentals of Engineering Examination has closed. The examination dates are as follow:
 
@@ -23,7 +24,7 @@ Application to sit for the Fundamentals of Engineering Examination (FEE) 2023 ha
 
 For information on FEE 2023, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee2023_251023.pdf)
 
-The next examination is scheduled around January 2025. Application to sit for examination will start in Jun 2024.
+The next examination is scheduled around January 2025. Application to sit for examination will start in Jul 2024.
 
 <!--
 For information on the application process, please refer to the [Application Guide – FEE](/files/Downloads/Info%20on%20Exams/application_guide_for_fee_2023.pdf).
