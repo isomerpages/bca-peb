@@ -43,12 +43,12 @@ sections:
       title: News
       button: More News
   - infopic:
-      title: PEB Day of Dedication 2022
+      title: PEB Day of Dedication 2023
       subtitle: Key Event
-      description: The most important day in the PEB Calendar. The theme was
-        “Engineers as Key Enablers for a Sustainable and Resilient Smart City”.
+      description: PEB held its annual DOD on 9 Nov to recognise the contributions of
+        PEs to the development of Singapore's built environment.
       button: Learn more
-      url: /DOD2022/
-      image: /images/PEB Day of Dedication 2022/dod2022_2.jpg
+      url: /dod2023
+      image: /images/PEB Day of Dedication 2023/p2.png
       alt: Image alt text
 ---
