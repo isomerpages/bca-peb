@@ -45,11 +45,10 @@ sections:
   - infopic:
       title: PEB Day of Dedication 2023
       subtitle: Key Event
-      description: This year’s theme, “RESILIENCE - the foundation for Sustainable
-        Growth”, highlights the importance of designing and building resilience
-        into our built...
+      description: PEB held its annual DOD on 9 Nov to recognise the contributions of
+        PEs to the development of Singapore's built environment.
       button: Learn more
-      url: /DOD2022/
+      url: /dod2023
       image: /images/PEB Day of Dedication 2023/p2.png
       alt: Image alt text
 ---
