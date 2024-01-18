@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-We would like to inform you that PEB Website and common services will be undergoing maintenance from 6pm to 7pm on 6 December 2023 (Wednesday). We apologise for any inconvenience caused.
+We would like to inform you that PEB Website and common services will be undergoing maintenance from 6pm to 6:30pm on 25 January 2024 (Thursday) and 1 February 2024 (Thursday). We apologise for any inconvenience caused.
