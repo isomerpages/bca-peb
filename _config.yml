@@ -58,7 +58,7 @@ staging: https://staging.d1le8zwfdek8v1.amplifyapp.com
 prod: https://master.d1le8zwfdek8v1.amplifyapp.com
 resources_name: news
 shareicon: /images/PEB-logo-cropped.jpg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
