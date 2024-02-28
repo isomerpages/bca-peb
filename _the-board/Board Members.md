@@ -59,9 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Er. Kng Meng Hwee</strong> 
-<br>Deputy Chief Executive
-<br>(Industry Regulation Division)
-<br>Energy Market Authority</p>
+<br>Advisor, Chief Executive’s OfficeEnergy Market Authority</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Er. Prof Lee Jim Yang</strong> 
