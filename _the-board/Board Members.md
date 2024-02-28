@@ -59,7 +59,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Er. Kng Meng Hwee</strong> 
-<br>Advisor, Chief Executive’s OfficeEnergy Market Authority</p>
+<br>Advisor, Chief Executive’s Office</p>
+<p>Energy Market Authority</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Er. Prof Lee Jim Yang</strong> 
@@ -144,4 +145,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
