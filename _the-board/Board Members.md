@@ -63,8 +63,9 @@ variant: tiptap
 <p>Energy Market Authority</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Er. Prof Lee Jim Yang</strong> 
-<br>Professor
+<p><strong>Er. Dr Lee Jim Yang</strong> 
+<br>Professor</p>
+<p>Chemical &amp; Biomolecular Engineering
 <br>National University of Singapore</p>
 </td>
 </tr>
