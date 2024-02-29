@@ -64,8 +64,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Er. Dr Lee Jim Yang</strong> 
-<br>Professor</p>
-<p>Chemical &amp; Biomolecular Engineering
+<br>Professor
+<br>Chemical &amp; Biomolecular Engineering
 <br>National University of Singapore</p>
 </td>
 </tr>
@@ -76,8 +76,9 @@ variant: tiptap
 <br>WSP Consultancy Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Er. Prof Liew Jat Yuen Richard</strong> 
-<br>Professor
+<p><strong>Er. Dr Liew Jat Yuen Richard</strong> 
+<br>Head
+<br>Department of Civil and Environmental Engineering
 <br>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
