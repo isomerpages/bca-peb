@@ -15,7 +15,7 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Summary of postgraduate professional experience](/files/Downloads/Application_Guide_for_PPE_2024.pdf)
 
-[Verification of academic record](/files/Downloads/Application_Guide_for_PPE_2024.pdf) (if there is new update to your qualification)
+[Verification of academic record](https://go.gov.sg/5i0f50) (if there is new update to your qualification)
 
 [Checklist to submit PPE application](/files/Downloads/Application_Guide_for_PPE_2024.pdf)
 
