@@ -17,7 +17,7 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Verification of academic record](https://go.gov.sg/5i0f50) (if there is new update to your qualification)
 
-[Checklist to submit PPE application](/files/Downloads/Application_Guide_for_PPE_2024.pdf)
+[Checklist to submit PPE application](/files/Downloads/Checklist_for_PPE_application.pdf)
 
 
 To apply for PPE, [Click here for PPE Account Login](https://www.peb.gov.sg/login_can.aspx).
