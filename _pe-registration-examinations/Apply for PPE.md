@@ -13,7 +13,7 @@ For information on the application process, please refer to the [Application Gui
 
 The following forms are required to be downloaded for submission as part of the application process.
 
-[Summary of postgraduate professional experience](/files/Downloads/Application_Guide_for_PPE_2024.pdf)
+[Summary of postgraduate professional experience](https://go.gov.sg/4xk1op)
 
 [Verification of academic record](https://go.gov.sg/5i0f50) (if there is new update to your qualification)
 
