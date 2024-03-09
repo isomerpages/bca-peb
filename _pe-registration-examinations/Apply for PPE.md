@@ -9,7 +9,7 @@ The examination is tentatively scheduled in Sep 2024.
 
 For more information on PPE 2024, please refer [Information on Practice of Professional Engineering Examination](/files/Downloads/Info%20on%20Exams/PPE_2024.pdf).
 
-For information on the application process, please refer to the [Application Guide – PPE.](/files/Downloads/Application_Guide_for_PPE_2024.pdf)
+For information on the application process, please refer to the [Application Guide – PPE.](/files/Downloads/Info%20on%20Exams/Application_Guide_for_PPE_2024.pdf)
 
 The following forms are required to be downloaded for submission as part of the application process.
 
