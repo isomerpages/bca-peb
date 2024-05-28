@@ -37,11 +37,10 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: Scheduled Downtime on 2 June 2024
+      title: PE Practising Certificate (PC) 2024
       id: infobar
-      description: PEB System is under scheduled for maintenance on 2 Jun 2024,
-        12:00AM to 06:00AM and PEB System will not be accessible during the
-        maintenance period.
+      description: If you have met the PC requirements for PC 2024, you may apply from
+        27 Oct 2023 onwards.
   - resources:
       title: News
       button: More News
