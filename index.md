@@ -6,7 +6,9 @@ description: >-
   Ministry of National Development. PEB was established since 1971 under the
   Professional Engineers Act.
 
-  PEB’s Mission is to safeguard life, property, and welfare of the public by setting and maintaining high standards for registering professional engineers, and by regulating and advancing the practice of professional engineering.
+  PEB’s Mission is to safeguard life, property, and welfare of the public by
+  setting and maintaining high standards for registering professional engineers,
+  and by regulating and advancing the practice of professional engineering.
 image: /images/PEB-logo-cropped.jpg
 permalink: /
 notification: Please do not click on any links if you receive SMSes that appear
@@ -35,10 +37,11 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PE Practising Certificate (PC) 2024
+      title: Scheduled Downtime on 2 June 2024
       id: infobar
-      description: If you have met the PC requirements for PC 2024, you may apply from
-        27 Oct 2023 onwards.
+      description: PEB System is under scheduled for maintenance on 2 Jun 2024,
+        12:00AM to 06:00AM and PEB System will not be accessible during the
+        maintenance period.
   - resources:
       title: News
       button: More News
