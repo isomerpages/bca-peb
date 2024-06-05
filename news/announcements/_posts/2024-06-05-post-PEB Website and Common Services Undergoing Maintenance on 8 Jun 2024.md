@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>We would like to inform you that PEB Website and common services will
+be undergoing maintenance from 6pm to 11:59pm on 8 June 2024 (Saturday).
+We apologise for any inconvenience caused.</p>
