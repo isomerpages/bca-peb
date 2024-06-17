@@ -4,7 +4,7 @@ permalink: /infoonexam/
 description: ""
 variant: markdown
 ---
-* [Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee%202023.pdf)
+* [Fundamentals of Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/fee%202025.pdf)
 
 * [Practice of Professional Engineering Examination 2024](/files/Downloads/Info%20on%20Exams/PPE_2024.pdf)
  
