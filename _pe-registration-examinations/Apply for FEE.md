@@ -18,6 +18,6 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Verification of Academic Record](http://peb.cremeworkz.com/Downloads/Vertification%20of%20academic%20record%20(FEE).xls)
 
-[Checklist to submit FEE application](http://peb.cremeworkz.com/Downloads/Checklist%20for%20FEE.pdf)
+[Checklist to submit FEE application](http://peb.cremeworkz.com/Downloads/checklist_for_fee.pdf)
 
 To apply for FEE 2025, click the OK button.
