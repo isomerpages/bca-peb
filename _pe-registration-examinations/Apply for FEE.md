@@ -10,7 +10,7 @@ Application to sit for the Fundamentals of Engineering Examination (FEE) 2025 is
 
 For information on FEE 2025, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2023](/files/Downloads/Info%20on%20Exams/fee_2025.pdf)
 
-For information on the application process, please refer to the [Application Guide - FEE](/files/Downloads/Info%20on%20Exams/Application_Guide_for_FEE_2025)
+For information on the application process, please refer to the [Application Guide - FEE](/files/Downloads/Info%20on%20Examsapplication_guide_for_fee_2025.pdf)
 
 The following forms are required to be downloaded for submission as part of the application process:
 
