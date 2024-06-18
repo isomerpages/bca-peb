@@ -16,8 +16,8 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Confirmation of Modular / Academic Credit Units](http://peb.cremeworkz.com/Downloads/Credit%20units%20(FEE).xlsx)
 
-[Verification of Academic Record](http://peb.cremeworkz.com/Downloads/Vertification%20of%20academic%20record%20(FEE).xls)
+[Verification of Academic Record](https://go.gov.sg/5i0f50)
 
-[Checklist to submit FEE application](/files/Downloads/Info%20on%20Exams/checklist_for_fee.pdf)
+[Checklist to submit FEE application](https://go.gov.sg/r9h1au)
 
 To apply for FEE 2025, click [here] (https://peb.gov.sg/apply_fee.aspx).
