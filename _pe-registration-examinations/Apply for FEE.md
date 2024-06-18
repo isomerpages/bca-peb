@@ -20,4 +20,4 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Checklist to submit FEE application](https://go.gov.sg/r9h1au)
 
-To apply for FEE 2025, click [here] (https://peb.gov.sg/apply_fee.aspx).
+To apply for FEE 2025, click [here](https://peb.gov.sg/apply_fee.aspx).
