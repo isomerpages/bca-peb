@@ -4,20 +4,12 @@ permalink: /apply4ppe/
 description: ""
 variant: markdown
 ---
-Application to sit for the Professional Engineering Examination (PPE) 2024 has opened and will close on 15 Jun 2024.  
-The examination is scheduled on 11 Sep 2024.
+**Apply for PPE 2024**
+
+Application to sit for the Practice of Professional Engineering Examination has closed.
+
+Examination dates are scheduled on 11 Sep 2024.
+
+The next examination is scheduled in Sep 2025. Application to sit for examination will start in Mar 2025.
 
 For more information on PPE 2024, please refer [Information on Practice of Professional Engineering Examination](/files/Downloads/Info%20on%20Exams/PPE_2024.pdf).
-
-For information on the application process, please refer to the [Application Guide – PPE.](/files/Downloads/Info%20on%20Exams/Application_Guide_for_PPE_2024.pdf)
-
-The following forms are required to be downloaded for submission as part of the application process.
-
-[Summary of postgraduate professional experience](https://go.gov.sg/4xk1op)
-
-[Verification of academic record](https://go.gov.sg/5i0f50) (if there is new update to your qualification)
-
-[Checklist to submit PPE application](/files/Downloads/Info%20on%20Exams/Checklist_for_PPE_application.pdf)
-
-
-To apply for PPE, [Click here for PPE Account Login](https://www.peb.gov.sg/login_can.aspx).
