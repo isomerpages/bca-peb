@@ -46,14 +46,25 @@ The closing date for submitting a nomination is <strong>15 Aug 2024</strong>.</p
 <p>The award recipient and nominators will be notified after the Award committee
 has finalised their assessment and selection in the 4<sup>th</sup> quarter
 of 2024. We look forward to receiving your nomination by 15 Aug 2024.</p>
+</li>
+<li>
+<p>Details can be downloaded below:</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://go.gov.sg/q4nfoy" rel="noopener noreferrer nofollow" target="_blank">Nomination Form for ASEAN Chartered Professional Engineers Excellence Award 2024</a>
 </p>
+</li>
+</ul>
 <p></p>
-<p><a href="/files/Guidelines_for_ACPE_Award_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines Guidelines for Nomination of ASEAN Chartered Professional Engineers Excellence Award 2024for Nomination of ACPE Excellence Award 2024</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Guidelines_for_ACPE_Award_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines for Nomination of ASEAN Chartered Professional Engineers Excellence Award 2024</a>
 <br>
 <br>
 </p>
+</li>
+</ul>
 </li>
 </ol>
 <p></p>
