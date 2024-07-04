@@ -38,10 +38,8 @@ activities in ASEAN, and contribute to the profession and society in Singapore,
 ASEAN and the world.&nbsp;&lt;br&gt;</p>
 </li>
 <li>
-<p>Details and forms related to this award can be downloaded from your PE
-account at PEB website at <a rel="noopener noreferrer nofollow" target="_blank">www.peb.gov.sg</a>
-<a href="https://www.peb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>Nomination forms are to be submitted according to the Word template
-provided. The closing date for submitting a nomination is <strong>15 Aug 2024</strong>.&lt;br&gt;</p>
+<p>Nomination forms are to be submitted according to the Word template provided.
+The closing date for submitting a nomination is <strong>15 Aug 2024</strong>.&lt;br&gt;</p>
 </li>
 <li>
 <p>The award recipient and nominators will be notified after the Award committee
