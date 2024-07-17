@@ -14,8 +14,8 @@ variant: tiptap
 our lion city has become. Letʼs celebrate our nation’s birthday by showing
 our friends, family and fellow Singaporeans how weʼve contributed to nation
 building and what keeps us inspired to continue building Singapore.</p>
-<p>&nbsp;<strong><em>The campaign period starts from 1<sup>st</sup> August to 9<sup>th</sup> August</em></strong><em>,</em> in
-conjunction with National Day. <strong><em>We invite all PEs to post on their Instagram, Facebook and/or LinkedIn and celebrate as a BE community.</em></strong>
+<p><strong>The campaign period starts from 1<sup>st</sup> August to 9<sup>th</sup> August</strong>,
+in conjunction with National Day. <strong>We invite all PEs to post on their Instagram, Facebook and/or LinkedIn and celebrate as a BE community.</strong>
 </p>
 <p>Via our ‘9-5-9ʼ social media celebration, we get to showcase what we do
 during work hours from 9-5, and after work hours from 5-9.</p>
