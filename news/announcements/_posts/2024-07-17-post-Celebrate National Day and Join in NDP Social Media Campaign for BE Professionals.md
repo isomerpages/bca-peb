@@ -26,6 +26,8 @@ during work hours from 9-5, and after work hours from 5-9.</p>
 projects) and then their personal self (hobbies/fun fact)</p>
 <p>3. End with <strong>#BuildSG59; #NDP59</strong>
 </p>
+<p><a href="/files/Campaign_Template_Guide_Celebrating_NDP_2024_with_BE_Professionals.pdf" rel="noopener noreferrer nofollow" target="_blank">National Day Social Media Campaign Guide</a>
+</p>
 <p>Post it before 5<sup>th</sup> August to be captured in our summary post
 on 9<sup>th</sup> August!</p>
 <div class="isomer-image-wrapper">
