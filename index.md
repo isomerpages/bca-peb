@@ -1,14 +1,12 @@
 ---
 layout: homepage
 title: Professional Engineers Board (PEB)
-description: >-
-  The Professional Engineers Board Singapore (PEB) is a statutory board in the
-  Ministry of National Development. PEB was established since 1971 under the
-  Professional Engineers Act.
-
-  PEB’s Mission is to safeguard life, property, and welfare of the public by
-  setting and maintaining high standards for registering professional engineers,
-  and by regulating and advancing the practice of professional engineering.
+description: The Professional Engineers Board Singapore (PEB) is a statutory
+  board in the Ministry of National Development. PEB was established since 1971
+  under the Professional Engineers Act. PEB’s Mission is to safeguard life,
+  property, and welfare of the public by setting and maintaining high standards
+  for registering professional engineers, and by regulating and advancing the
+  practice of professional engineering.
 image: /images/PEB-logo-cropped.jpg
 permalink: /
 notification: Please do not click on any links if you receive SMSes that appear
@@ -37,10 +35,12 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PE Practising Certificate (PC) 2024
+      title: ASEAN Chartered Professional Engineers Excellence Award 2024
       id: infobar
-      description: If you have met the PC requirements for PC 2024, you may apply from
-        27 Oct 2023 onwards.
+      description: Invitation to nominate candidates for inaugural ASEAN chartered
+        professional engineer Excellence Award 2024
+      url: https://www1.peb.gov.sg/invitation-to-nominate-for-asean-chartered-professional-engineers-acpe-excellence-award-2024/
+      button: Nominate
   - resources:
       title: News
       button: More News
