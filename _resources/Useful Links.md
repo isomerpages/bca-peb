@@ -40,5 +40,5 @@ variant: markdown
 * [Washington Accord: International Engineering Alliance](https://www.ieagreements.org/accords/washington/){:target="_blank"}
 * [ASEAN Chartered Professional Engineers Coordinating Committee (ACPECC)](http://www.acpecc.org/){:target="_blank"}
 * [National Library Board (NLB)](https://www.nlb.gov.sg/){:target="_blank"}
-* [MySkillsFuture’s Skills Passport](www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html#timeline){:target="_blank"}
+* [MySkillsFuture’s Skills Passport](https://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html#timeline){:target="_blank"}
 * [OpenCerts](https://www.opencerts.io/){:target="_blank"}
