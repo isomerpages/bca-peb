@@ -16,10 +16,10 @@ links:
     sublinks:
       - title: Continuing Professional Development
         url: /cpd/
-      - title: Directory of Course Organiser
-        url: https://www.peb.gov.sg/pe_general_co.aspx
       - title: Calendar of PDU Events
         url: https://www.peb.gov.sg/course_calendar.aspx
+      - title: Directory of Course Organiser
+        url: https://www.peb.gov.sg/pe_general_co.aspx
   - title: Register
     url: /requirements/
     sublinks:
