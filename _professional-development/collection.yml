@@ -2,5 +2,5 @@ collections:
   professional-development:
     output: true
     order:
-      - Directory of Course Organiser.md
       - Continuing Professional Development.md
+      - Directory of Course Organiser.md
