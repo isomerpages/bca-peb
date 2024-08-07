@@ -1,7 +1,0 @@
-collections:
-  professional-development:
-    output: true
-    order:
-      - Continuing Professional Development.md
-      - Directory of Course Organiser.md
-      - Calendar of PDU Events.md
