@@ -60,9 +60,7 @@ of 2024. We look forward to receiving your nomination by 15 Aug 2024 <strong>(ex
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Guidelines_for_ACPE_Award_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines for Nomination of ASEAN Chartered Professional Engineers Excellence Award 2024</a>
-<br>
-<br>
+<p><a href="/files/Guidelines_for_ACPE_Award_2024__extension_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines for Nomination of ASEAN Chartered Professional Engineers Excellence Award 2024</a>
 </p>
 </li>
 </ul>
