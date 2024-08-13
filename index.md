@@ -38,7 +38,8 @@ sections:
       title: ASEAN Chartered Professional Engineers Excellence Award 2024
       id: infobar
       description: Invitation to nominate candidates for inaugural ASEAN chartered
-        professional engineer Excellence Award 2024
+        professional engineer Excellence Award 2024 -  Closing Date for
+        Nomination Extended to 23 Aug 24
       url: https://www1.peb.gov.sg/invitation-to-nominate-for-asean-chartered-professional-engineers-acpe-excellence-award-2024/
       button: Nominate
   - resources:
