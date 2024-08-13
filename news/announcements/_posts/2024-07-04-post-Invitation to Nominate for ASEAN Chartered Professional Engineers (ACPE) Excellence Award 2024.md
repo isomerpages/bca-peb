@@ -40,12 +40,13 @@ ASEAN and the world.</p>
 </li>
 <li>
 <p>Nomination forms are to be submitted according to the Word template provided.
-The closing date for submitting a nomination is <strong>15 Aug 2024</strong>.</p>
+The closing date for submitting a nomination is<strong> </strong>15 Aug
+2024 <strong>(extended to 23 Aug 2024)</strong>.</p>
 </li>
 <li>
 <p>The award recipient and nominators will be notified after the Award committee
 has finalised their assessment and selection in the 4<sup>th</sup> quarter
-of 2024. We look forward to receiving your nomination by 15 Aug 2024.</p>
+of 2024. We look forward to receiving your nomination by 15 Aug 2024 <strong>(extended to 23 Aug 2024)</strong>.</p>
 </li>
 <li>
 <p>Details can be downloaded below:</p>
