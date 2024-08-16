@@ -4,7 +4,7 @@ permalink: /infoonexam/
 description: ""
 variant: markdown
 ---
-* [Fundamentals of Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/fee_2025.pdf)
+* [Fundamentals of Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/fee_2025.pdf) (updated 16 August 2024 – updates to Electrical syllabus).
 
 * [Practice of Professional Engineering Examination 2024](/files/Downloads/Info%20on%20Exams/PPE_2024.pdf)
  
