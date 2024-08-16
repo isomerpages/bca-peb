@@ -6,7 +6,14 @@ variant: markdown
 ---
 **Apply for Fundamentals of Engineering Examination**
 
-Application to sit for the Fundamentals of Engineering Examination (FEE) 2025 is opened and will close on 30 Sep 2024. The examinations are tentatively scheduled in Jan 2025.
+Application to sit for the Fundamentals of Engineering Examination (FEE) 2025 is opened and will close on 30 Sep 2024.
+
+The examinations are scheduled to be held on the following dates:
+
+Electrical engineering – 2 January 2025
+Mechanical engineering – 2 January 2025
+Chemical engineering – 3 January 2025
+Civil engineering – 3 January 2025
 
 For information on FEE 2025, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/fee_2025.pdf)
 
