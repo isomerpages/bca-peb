@@ -15,7 +15,7 @@ Mechanical engineering – 2 January 2025
 Chemical engineering – 3 January 2025
 Civil engineering – 3 January 2025
 
-For information on FEE 2025, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/fee_2025.pdf)
+For information on FEE 2025, please refer to [Information for Applicants – Fundamentals of Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/fee_2025.pdf) (updated 16 August 2024 – updates to Electrical syllabus).
 
 For information on the application process, please refer to the [Application Guide - FEE](/files/Downloads/Info%20on%20Exams/application_guide_for_fee_2025.pdf)
 
