@@ -14,5 +14,5 @@ variant: tiptap
 <br>Civil engineering – 3 January 2025</p>
 <p>For information on FEE 2025, please refer to <a href="/files/Downloads/Info%20on%20Exams/fee_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Applicants – Fundamentals of Engineering Examination 2025</a>
 </p>
-<p>The next examination is scheduled around Jul 2025. Application to sit
-for examination will start in Jan 2026.</p>
+<p>The next examination is scheduled around Jan 2026. Application to sit
+for examination will start in Jul 2025.</p>
