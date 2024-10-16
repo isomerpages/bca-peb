@@ -35,13 +35,10 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: ASEAN Chartered Professional Engineers Excellence Award 2024
+      title: PEB Day of Dedication 2024
       id: infobar
-      description: Invitation to nominate candidates for inaugural ASEAN chartered
-        professional engineer Excellence Award 2024 -  Closing Date for
-        Nomination extended to 23 Aug 24
-      url: https://www1.peb.gov.sg/invitation-to-nominate-for-asean-chartered-professional-engineers-acpe-excellence-award-2024/
-      button: Nominate
+      description: Thank you for your support. Due to the overwhelming response, the
+        registration for the PEB Day of Dedication 2024 is fully booked.
   - resources:
       title: News
       button: More News
