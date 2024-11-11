@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Er. Kng Meng Hwee</strong> 
-<br>Advisor, Chief Executive’s Office</p>
+<br>Former Advisor, Chief Executive’s Office</p>
 <p>Energy Market Authority</p>
 </td>
 <td rowspan="1" colspan="1">
