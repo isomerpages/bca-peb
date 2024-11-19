@@ -177,20 +177,21 @@ Institute of Technology undergraduate and postgraduate engineering programmes
 who were presented with the PEB Gold Medal Awards in recognition of their
 outstanding academic achievements.</p>
 <h4>Professional Engineer Pledge</h4>
-<p>Er. Jessica Strauch-Yip Min Yi, PE (Mechanical), leading the Professional
-Engineers in taking the PE Pledge to dedicate their professional services
-to society and uphold the standing and reputation of the profession!</p>
-<p></p>
+<p>A Pledge of Dedication led by Ang Jing Jie, PE (Civil), Professional Engineers
+take a solemn pledge, reaffirming their dedication to society and the engineering
+profession. The united pledge symbolises the profession’s commitment to
+innovation, sustainability, and societal advancement.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_19.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p19.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p20.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_20.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_21.png">
 </div>
 <h4>Networking</h4>
 <p></p>
