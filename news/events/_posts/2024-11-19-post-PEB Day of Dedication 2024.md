@@ -115,7 +115,6 @@ facilities in the world, the Deep Water Sewerage System (DTSS), the Choa
 Chua Kang Waterworks upgrading project which was named the Water Project
 of the Year at the Global Water Awards 2020 and integrating soil bio-engineering
 with landscape architecture for the ABC Waters at Bishan-Ang Mo Kio Park.</p>
-<p>&nbsp;</p>
 <p>Er. Tan also made significant contribution to education, serving in the
 NUS Civil &amp; Environmental Engineering Department Consultative Committee
 from 2010 to 2019 and the Singapore Water Association from 2012 to 2019.</p>
