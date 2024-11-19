@@ -24,38 +24,22 @@ Tang Plaza Hotel. Over 360 attendees, including 104 newly minted Professional
 Engineers (PEs), 9 Specialist PEs, and 8 ASEAN Chartered PEs, gathered
 to celebrate the achievements and commitments of the engineering community
 to advance Singapore’s built environment.&nbsp; The atmosphere reflects
-a strong sense of pride and commitment to the engineering profession.
-<br>
-<br>
-</p>
-<p>This year’s theme, “<strong>RESILIENCE - the foundation for Sustainable Growth</strong>”,
-highlights the importance of designing and building resilience into our
-built environment and infrastructure is key to achieving sustainable growth.</p>
-<p>The engineering community welcome 98 newly minted Professional Engineers
-(PEs), 15 Specialist PEs and 19 ASEAN Chartered PEs into our Built Environment
-sector family.&nbsp; It is also an occasion to affirm the contributions
-and achievements of our PEs and to renew our pledge to dedicate our services
-to society and uphold high standards of professional engineering practice.&nbsp;</p>
-<p>Over 270 Professional Engineers and distinguished guest attended the DOD
-2023.</p>
+a strong sense of pride and commitment to the engineering profession.</p>
 <h4>Opening Address by Guest-of-Honour</h4>
-<p>MS Indranee Rajah, Minister in the Prime Minister’s Office, Second Minister
-for Finance and National Development.</p>
+<p>Associate Professor Dr Muhammad Faishal Ibrahim</p>
+<p>Minister of State, Ministry of Home Affairs and National Development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_3.png">
 </div>
-<p>In her speech, Minister Indranee outlined the importance of resilience
-engineering in Coastal Protection and Decarbonising our Built Environment
-to enable us to overcome the adverse effects of climate change, and to
-thrive in the face of these disruptive changes.&nbsp;</p>
-<p><em>“To our engineers, we owe so much of what we enjoy every day – our quality housing and our efficient transportation systems – all to you. Thank you for doing what you do.</em>
-</p>
-<p><em>The challenges ahead present new and exciting opportunities in the field of engineering. The 4G team and I look forward to building our future Singapore with you.”</em>
-</p>
-<p><em>MS Indranee Rajah, Minister in the Prime Minister’s Office, Second Minister for Finance and National Development</em>
-</p>
-<p>Click <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-indranee-rajah-for-professional-engineers-board-%28peb%29-day-of-dedication-2023" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Minister of State Dr. Faishal Ibrahim, highlighted engineers’ critical
+role in supporting Singapore’s sustainable development and decarbonization
+efforts under initiatives like the “80-80-80 by 2030” Green Building Masterplan.
+He emphasised the importance of innovative practices, from AI-powered building
+inspections to renewable energy projects like floating solar farms. Dr.
+Faishal noted that engineers drive progress in resilience, efficiency,
+and sustainability, crucial for Singapore’s future growth.</p>
+<p>Click <a href="www.mnd.gov.sg/newsroom/speeches/view/speech-by-mos-faishal-ibrahim-at-professional-engineers-board-day-of-dedication-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Minister’s speech<em>.</em>
 </p>
 <h4><strong>Welcome Address by Er. Lim Peng Hong President, Professional Engineers Board Singapore</strong></h4>
