@@ -118,14 +118,14 @@ with landscape architecture for the ABC Waters at Bishan-Ang Mo Kio Park.</p>
 NUS Civil &amp; Environmental Engineering Department Consultative Committee
 from 2010 to 2019 and the Singapore Water Association from 2012 to 2019.</p>
 <h4>Presentation on Innovating the Future in the Built Environment</h4>
-<p>Mr Ho Chai Teck, Deputy Director of the Coastal Protection Department
-from Public Utilities Board (PUB) gave a very refreshing and insightful
-presentation on the exciting future coastal adaptation plans to protect
-and redevelop our coastal areas.&nbsp; He shared more of the upcoming engineering
-works and how our engineers can be part of this exciting journey.&nbsp;
-The insightful presentation sparked much interest, especially among our
-new PEs to pursue engineering knowledge in these emerging fields and to
-participate in the coastal protection works in the future.</p>
+<p>Er. Tan Yoong Heng, Singapore Country Leader, Arup Singapore Pte Ltd gave
+a very refreshing and insightful presentation on leveraging digital technology,
+artificial intelligence (AI), and machine learning (ML) to transform Singapore’s
+built environment. By integrating these tools, engineers can make data-driven,
+proactive decisions that enhance productivity, sustainability, and resilience
+in infrastructure, helping the sector adapt to a rapidly changing urban
+landscape. This digital transformation not only improves project outcomes
+but also redefines the possibilities within the engineering profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p11.png">
 </div>
