@@ -56,8 +56,9 @@ for innovative approaches, the profession can retain skilled engineers
 and continue advancing with creative solutions while balancing public safety
 considerations.
 <br>
-<br>Click <a href="/files/PEB_President_Speech_DOD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>for
-the President’s speech</p>
+<br>Click <a href="/files/PEB_President_Speech_DOD_2024_7Nov24.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+<a href="/files/PEB_President_Speech_DOD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
+</a>for the President’s speech</p>
 <h4>Honoring our Innovative Professional Engineers</h4>
 <p>Two Professional Engineers, Er. Wong Seng and Er. Ng Choon Yeang, were
 each presented with the Innovative Professional Engineer Award in recognition
