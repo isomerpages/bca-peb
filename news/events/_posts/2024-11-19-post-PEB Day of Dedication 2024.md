@@ -150,14 +150,14 @@ but also redefines the possibilities within the engineering profession.</p>
 2024.&nbsp; The engineering community welcome the newly minted Professional
 Engineers.</p>
 <h4>New Specialist Professional Engineers</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_16.png">
 </div>
-<p>Our new Specialist Professional Engineers (SPEs) on stage with Minister.</p>
-<p>15 SPEs received their Specialist Professional Engineer certificates in
-the branches of Amusement Ride engineering, Crane engineering, Geotechnical
-engineering, Lift and Escalator engineering and Tunnelling engineering.</p>
+<p>Our new Specialist Professional Engineers (SPEs) on stage with Minister
+and President of PEB.</p>
+<p>Nine SPEs received their Specialist Professional Engineer certificates
+in the branches of in Access Platform engineering, Geotechnical engineering,
+Lift and Escalator engineering and Protective Security engineering.</p>
 <h4>ASEAN Chartered Professional Engineers</h4>
 <p></p>
 <div class="isomer-image-wrapper">
