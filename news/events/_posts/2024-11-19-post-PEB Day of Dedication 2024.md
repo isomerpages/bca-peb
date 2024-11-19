@@ -73,12 +73,15 @@ Singapore’s engineering landscape and international reputation.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_5.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_6.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_7.jpg">
 </div>
+<p></p>
 <p>Er. Chua Chong Kheng dedicated 39 years to Singapore’s land transport
 system.&nbsp;He has been instrumental in LTA’s successful delivery of the
 rail network consisting of the Circle Line (CCL), Downtown Line (DTL) and
@@ -99,6 +102,7 @@ the Whampoa Citizens Consultative Committee.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_8.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_9.png">
 </div>
@@ -129,12 +133,15 @@ but also redefines the possibilities within the engineering profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_10.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_11.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_12.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_13.png">
 </div>
@@ -143,9 +150,11 @@ but also redefines the possibilities within the engineering profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_14.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_15.png">
 </div>
+<p></p>
 <p>Congratulations to our 104 newly registered Professional Engineers for
 2024.&nbsp; The engineering community welcome the newly minted Professional
 Engineers.</p>
