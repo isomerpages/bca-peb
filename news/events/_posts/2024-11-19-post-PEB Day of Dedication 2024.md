@@ -138,14 +138,17 @@ but also redefines the possibilities within the engineering profession.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_13.png">
 </div>
-<h4>Newly Registered Professional Engineers 2023</h4>
+<h4>Newly Registered Professional Engineers 2024</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p14.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_14.png">
 </div>
-<p>Congratulations to our 98 newly registered Professional Engineers for
-2023, starting their professional journey in our built environment sector
-to help design and build a more resilient and sustainable future Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_15.png">
+</div>
+<p>Congratulations to our 104 newly registered Professional Engineers for
+2024.&nbsp; The engineering community welcome the newly minted Professional
+Engineers.</p>
 <h4>New Specialist Professional Engineers</h4>
 <p></p>
 <div class="isomer-image-wrapper">
