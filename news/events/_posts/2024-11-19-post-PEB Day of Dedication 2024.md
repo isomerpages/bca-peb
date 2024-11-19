@@ -248,36 +248,34 @@ innovation, sustainability, and societal advancement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_39.png">
 </div>
-<h4>Enjoying A Delicious Buffet Lunch</h4>
-<p></p>
+<h4>Savoring a Delightful Buffet Lunch</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/b1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_40.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/b2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_41.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/b3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_42.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/b4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_43.png">
 </div>
-<h4>PEB DOD 2023 Organising Committee</h4>
-<p></p>
+<h4>PEB DOD 2024 Organising Committee</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p21.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_44.png">
 </div>
 <h4>THANK YOU FOR YOUR SUPPORT</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p22.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_45.png">
 </div>
-<p>The President and all PEB Board Members would like to thank everyone who
-attended the event, and we look forward to seeing you at next year’s Day
-of Dedication!&nbsp;</p>
-<p>Click <a href="https://drive.google.com/drive/folders/1nSH85Wslym9UP9PtW8fHC9zaf7nY-46Y" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>The President and all PEB Board Members closes the event with gratitude
+to all attendees, celebrating their roles in shaping Singapore’s engineering
+landscape. &nbsp;With anticipation for the next Day of Dedication, they
+express hope for continued progress and a future driven by innovation.
+Each of these moments at the Day of Dedication reflects the PEB’s mission
+of advancing engineering standards and highlights the significant contributions
+of the profession to Singapore’s future.&nbsp;</p>
+<p>Click <a href="https://drive.google.com/drive/folders/1Tw9mW0H51PkiRAOyzIuekH1Fqvr3ReB3?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view more photos.</p>
 <p></p>
