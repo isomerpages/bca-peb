@@ -127,15 +127,16 @@ in infrastructure, helping the sector adapt to a rapidly changing urban
 landscape. This digital transformation not only improves project outcomes
 but also redefines the possibilities within the engineering profession.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_10.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_11.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_12.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_13.png">
 </div>
 <h4>Newly Registered Professional Engineers 2023</h4>
 <p></p>
