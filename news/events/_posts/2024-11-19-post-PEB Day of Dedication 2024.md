@@ -8,16 +8,26 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p1.png">
-</div>
-<h4>PEB Day of Dedication 2023</h4>
+<h4><strong>Professional Engineers Board Singapore&nbsp;&nbsp; -&nbsp;&nbsp; Day of Dedication 2024</strong></h4>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_1.png">
 </div>
-<p>The Professional Engineers Board (PEB)’s Day of Dedication 2023 was held
-at the Holiday Inn Singapore Atrium on 9 November 2023.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_2.png">
+</div>
+<p>The Professional Engineers Board (PEB)’s Day of Dedication 2024, themed
+“Innovating the Future,” took place on November 7 at the Singapore Marriott
+Tang Plaza Hotel. Over 360 attendees, including 104 newly minted Professional
+Engineers (PEs), 9 Specialist PEs, and 8 ASEAN Chartered PEs, gathered
+to celebrate the achievements and commitments of the engineering community
+to advance Singapore’s built environment.&nbsp; The atmosphere reflects
+a strong sense of pride and commitment to the engineering profession.
+<br>
+<br>
+</p>
 <p>This year’s theme, “<strong>RESILIENCE - the foundation for Sustainable Growth</strong>”,
 highlights the importance of designing and building resilience into our
 built environment and infrastructure is key to achieving sustainable growth.</p>
