@@ -59,16 +59,20 @@ considerations.
 <br>Click <a href="/files/PEB_President_Speech_DOD_2024_7Nov24.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 <a href="/files/PEB_President_Speech_DOD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
 </a>for the President’s speech</p>
-<h4>Honoring our Innovative Professional Engineers</h4>
-<p>Two Professional Engineers, Er. Wong Seng and Er. Ng Choon Yeang, were
-each presented with the Innovative Professional Engineer Award in recognition
-of their outstanding achievements and creative use of transformative technologies
-in the engineering profession.&nbsp;</p>
+<h4>Celebrating our Esteemed Professional Engineers</h4>
+<p>The ceremony recognised Er. Chua Chong Kheng and Er. Tan Ngo Chiaw as
+Distinguished Engineers who have dedicated decades to advancing Singapore’s
+infrastructure. Er. Chua, with 39 years in the land transport sector, played
+a pivotal role in delivering key projects like the Circle Line and Northeast
+Line, and led innovations like the region’s first rail testing center.
+Er. Tan, with 30 years in water resource management, was instrumental in
+projects like the Changi Wastewater Reclamation Plant and developed award-winning
+technologies for water treatment. Both have contributed significantly to
+Singapore’s engineering landscape and international reputation.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_5.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p6.png">
 </div>
