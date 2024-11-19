@@ -159,15 +159,14 @@ and President of PEB.</p>
 in the branches of in Access Platform engineering, Geotechnical engineering,
 Lift and Escalator engineering and Protective Security engineering.</p>
 <h4>ASEAN Chartered Professional Engineers</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_17.png">
 </div>
-<p>Nineteen new ASEAN Chartered Professional Engineers (ACPEs) were also
-presented with certificates of registration.&nbsp; The registration of
-ACPEs is provided for under the ASEAN Mutual Recognition Arrangement (MRA)
-for Engineering Services, which is one of the initiatives under the ASEAN
-cooperation on trade in services.</p>
+<p>Eight new ASEAN Chartered Professional Engineers (ACPEs) were also presented
+with certificates of registration.&nbsp; The registration of ACPEs is provided
+for under the ASEAN Mutual Recognition Arrangement (MRA) for Engineering
+Services, which is one of the initiatives under the ASEAN cooperation on
+trade in services.</p>
 <h4>PEB Gold Medal Award Winners 2023</h4>
 <p></p>
 <div class="isomer-image-wrapper">
