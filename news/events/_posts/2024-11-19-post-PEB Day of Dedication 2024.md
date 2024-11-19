@@ -193,66 +193,42 @@ innovation, sustainability, and societal advancement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_21.png">
 </div>
-<h4>Networking</h4>
-<p></p>
+<h4>Building Connections</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_22.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_23.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_24.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_25.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_26.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_27.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_28.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_29.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_30.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_31.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_32.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n12.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n13.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n14.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/n15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_33.png">
 </div>
 <h4>Enjoying A Delicious Buffet Lunch</h4>
 <p></p>
