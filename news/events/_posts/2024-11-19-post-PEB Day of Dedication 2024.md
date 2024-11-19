@@ -39,25 +39,22 @@ He emphasised the importance of innovative practices, from AI-powered building
 inspections to renewable energy projects like floating solar farms. Dr.
 Faishal noted that engineers drive progress in resilience, efficiency,
 and sustainability, crucial for Singapore’s future growth.</p>
-<p>Click <a href="www.mnd.gov.sg/newsroom/speeches/view/speech-by-mos-faishal-ibrahim-at-professional-engineers-board-day-of-dedication-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-mos-faishal-ibrahim-at-professional-engineers-board-day-of-dedication-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Minister’s speech<em>.</em>
 </p>
 <h4><strong>Welcome Address by Er. Lim Peng Hong President, Professional Engineers Board Singapore</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_4.png">
 </div>
-<p>In his welcome remarks, Er. Lim Peng Hong, President of PEB, emphasized
-the importance for PEs to embrace innovative approaches such as collaborative
-contracting to achieve a more resilient and effective partnership with
-stakeholders.&nbsp;</p>
-<p>Er. Lim also encouraged PEs to embrace change and innovation and to be
-ready for the adoption of BIM and upcoming launch of the new CORENET X
-one-stop regulatory submission platform.&nbsp;</p>
-<p><em>“Being a Professional Engineer is a calling that you are answering to.&nbsp; As engineers, we want to create that which has never been, yet not forgetting public safety. &nbsp;Besides protecting public safety, be ethical.&nbsp; Do what is right, and good for the community.”</em>
-</p>
-<p><em>Er. Lim Peng Hong</em>
-<br><em>President, Professional Engineers Board Singapore</em>
+<p>Er. Lim Peng Hong, President of PEB, emphasised on retaining talented
+engineers by fostering innovation. Talented engineers seek to propose new
+ideas and push beyond just complying with regulations; hence, the industry
+must support and encourage innovation rather than impede it with rigid
+compliance requirements. Er. Lim further emphasised that by allowing room
+for innovative approaches, the profession can retain skilled engineers
+and continue advancing with creative solutions while balancing public safety
+considerations.
 <br>
 <br>Click <a href="/files/PEB_President_Speech_DOD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>for
 the President’s speech</p>
