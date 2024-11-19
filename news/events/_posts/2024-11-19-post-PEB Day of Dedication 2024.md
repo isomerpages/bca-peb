@@ -106,7 +106,6 @@ the Whampoa Citizens Consultative Committee.</p>
 and management of major water projects for PUB’s Four National Taps.&nbsp;
 He has contributed towards the enhancement of Singapore’s water security
 and resilience.</p>
-<p>&nbsp;</p>
 <p>Er. Tan led and worked with the project teams and stakeholders to adopt
 the best technologies to these ground-breaking projects across the entire
 water cycle.&nbsp; Among the projects are the Changi Waste Water Reclamation
