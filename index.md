@@ -37,8 +37,10 @@ sections:
   - infobar:
       title: PEB Day of Dedication 2024
       id: infobar
-      description: Thank you for your support. Due to the overwhelming response, the
-        registration for the PEB Day of Dedication 2024 is fully booked.
+      description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
+        Singapore's infrastructure and spaces
+      button: Learn More
+      url: /dod2024
   - resources:
       title: News
       button: More News
