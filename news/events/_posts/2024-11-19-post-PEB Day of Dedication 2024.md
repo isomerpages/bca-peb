@@ -97,23 +97,28 @@ Advisory Board.&nbsp; He also served the local community as Chairman to
 the Whampoa Citizens Consultative Committee.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_8.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_9.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p10.png">
-</div>
-<p>Er. Ng Choon Yeang spearheaded the studies, testing and implementation
-of Steel Fibre Reinforced Concrete (SFRC) in Singapore for the first time
-in underground tunnels for Downtown Line 3.&nbsp; The use of SFRC leads
-to enhanced productivity and improved durability of the tunnels.</p>
-<p>The success of the project prompted the extensive use of SFRC in subsequent
-MRT tunnelling works such as the Thomson-East Coast Line (TEL) and Cross
-Island Line (CRL).</p>
+<p>Er. Tan Ngo Chiaw dedicated nearly 3 decades to engineering, design, supervision
+and management of major water projects for PUB’s Four National Taps.&nbsp;
+He has contributed towards the enhancement of Singapore’s water security
+and resilience.</p>
+<p>&nbsp;</p>
+<p>Er. Tan led and worked with the project teams and stakeholders to adopt
+the best technologies to these ground-breaking projects across the entire
+water cycle.&nbsp; Among the projects are the Changi Waste Water Reclamation
+Plant (CWRP), acclaimed as one of the largest and most advanced water reclamation
+facilities in the world, the Deep Water Sewerage System (DTSS), the Choa
+Chua Kang Waterworks upgrading project which was named the Water Project
+of the Year at the Global Water Awards 2020 and integrating soil bio-engineering
+with landscape architecture for the ABC Waters at Bishan-Ang Mo Kio Park.</p>
+<p>&nbsp;</p>
+<p>Er. Tan also made significant contribution to education, serving in the
+NUS Civil &amp; Environmental Engineering Department Consultative Committee
+from 2010 to 2019 and the Singapore Water Association from 2012 to 2019.</p>
 <h4>Presentation on Coastal Protection</h4>
 <p>Mr Ho Chai Teck, Deputy Director of the Coastal Protection Department
 from Public Utilities Board (PUB) gave a very refreshing and insightful
