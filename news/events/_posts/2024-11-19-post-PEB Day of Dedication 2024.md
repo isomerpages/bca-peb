@@ -117,7 +117,7 @@ with landscape architecture for the ABC Waters at Bishan-Ang Mo Kio Park.</p>
 <p>Er. Tan also made significant contribution to education, serving in the
 NUS Civil &amp; Environmental Engineering Department Consultative Committee
 from 2010 to 2019 and the Singapore Water Association from 2012 to 2019.</p>
-<h4>Presentation on Coastal Protection</h4>
+<h4>Presentation on Innovating the Future in the Built Environment</h4>
 <p>Mr Ho Chai Teck, Deputy Director of the Coastal Protection Department
 from Public Utilities Board (PUB) gave a very refreshing and insightful
 presentation on the exciting future coastal adaptation plans to protect
