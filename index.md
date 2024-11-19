@@ -38,7 +38,7 @@ sections:
       title: PEB Day of Dedication 2024
       id: infobar
       description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
-        Singapore's infrastructure and spaces
+        Singapore's infrastructure and spaces.
       button: Learn More
       url: /dod2024
   - resources:
