@@ -167,12 +167,11 @@ with certificates of registration.&nbsp; The registration of ACPEs is provided
 for under the ASEAN Mutual Recognition Arrangement (MRA) for Engineering
 Services, which is one of the initiatives under the ASEAN cooperation on
 trade in services.</p>
-<h4>PEB Gold Medal Award Winners 2023</h4>
-<p></p>
+<h4>PEB Gold Medal Award Winners 2024</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_18.png">
 </div>
-<p>Congratulations to the 10 engineering graduates from the National University
+<p>Congratulations to the 8 engineering graduates from the National University
 of Singapore, Nanyang Technological University Singapore and Singapore
 Institute of Technology undergraduate and postgraduate engineering programmes
 who were presented with the PEB Gold Medal Awards in recognition of their
