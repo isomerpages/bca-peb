@@ -74,17 +74,27 @@ Singapore’s engineering landscape and international reputation.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_6.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_7.jpg">
 </div>
-<p>Er. Wong Seng innovated and patented the concrete PPVC technology using
-a unique composite shear wall system which has brought significant cost
-savings and improvement in construction productivity and sustainability.&nbsp;</p>
-<p>The lightweight PPVC modules lead to more efficient transportation and
-installation, better site safety and environmental outcomes for the industry.</p>
+<p>Er. Chua Chong Kheng dedicated 39 years to Singapore’s land transport
+system.&nbsp;He has been instrumental in LTA’s successful delivery of the
+rail network consisting of the Circle Line (CCL), Downtown Line (DTL) and
+Thomson East-Coast Line (TEL).</p>
+<p>Er. Chua played a pivotal role in the successful launch of the world’s
+first driverless and fully automated heavy metro system for the North-East
+Line.&nbsp; Er. Chua led many groundbreaking initiatives, including the
+world’s first integrated stacked rail depot for 3 rail lines (EWL, DTL
+and TEL) and bus depot. He conceptualised and developed the Singapore Rail
+Testing Centre (SRTC), the first of its kind in the region for rail system
+testing. &nbsp;</p>
+<p>Er. Chua also made significant contribution to education and community
+service, serving as Chairman of the SIT Industry Advisory Committee on
+Sustainable Infrastructure Engineering and in NUS Civil Engineering Department
+Advisory Board.&nbsp; He also served the local community as Chairman to
+the Whampoa Citizens Consultative Committee.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2023/p8.png">
