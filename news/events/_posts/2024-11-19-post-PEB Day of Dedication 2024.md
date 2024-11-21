@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_1.png">
 </div>
-<h4><strong>Professional Engineers Board Singapore&nbsp;&nbsp; -&nbsp;&nbsp; Day of Dedication 2024</strong></h4>
+<h4><strong>PEB Day of Dedication 2024</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_2.png">
 </div>
