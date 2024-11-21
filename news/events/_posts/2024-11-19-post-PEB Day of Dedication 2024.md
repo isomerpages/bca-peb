@@ -308,6 +308,4 @@ of advancing engineering standards and highlights the significant contributions
 of the profession to Singapore’s future.&nbsp;</p>
 <p>Click <a href="https://drive.google.com/drive/folders/1Tw9mW0H51PkiRAOyzIuekH1Fqvr3ReB3?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view more photos.</p>
-<p>
-<br>
-</p>
+<p></p>
