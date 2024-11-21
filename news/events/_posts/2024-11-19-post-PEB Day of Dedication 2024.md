@@ -40,7 +40,7 @@ and sustainability, crucial for Singapore’s future growth.</p>
 <p>Click <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-mos-faishal-ibrahim-at-professional-engineers-board-day-of-dedication-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Minister’s speech<em>.</em>
 </p>
-<h4><strong>Welcome Address by Er. Lim Peng Hong President, Professional Engineers Board Singapore</strong></h4>
+<h4>Welcome Address by Er. Lim Peng Hong President, Professional Engineers Board Singapore</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_4.png">
