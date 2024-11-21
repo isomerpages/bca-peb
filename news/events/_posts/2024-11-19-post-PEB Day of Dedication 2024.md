@@ -12,6 +12,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_1.png">
 </div>
 <h4><strong>PEB Day of Dedication 2024</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_2.png">
 </div>
@@ -307,4 +308,6 @@ of advancing engineering standards and highlights the significant contributions
 of the profession to Singapore’s future.&nbsp;</p>
 <p>Click <a href="https://drive.google.com/drive/folders/1Tw9mW0H51PkiRAOyzIuekH1Fqvr3ReB3?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view more photos.</p>
-<p></p>
+<p>
+<br>
+</p>
