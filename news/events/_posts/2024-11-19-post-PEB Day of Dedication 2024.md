@@ -137,12 +137,14 @@ but also redefines the possibilities within the engineering profession.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_13.png">
+</div>
+<p>The Minister and the President of PEB presented a token of appreciation
+to Er. Tan Yoong Heng.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_12.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_13.png">
-</div>
 <h4>Newly Registered Professional Engineers 2024</h4>
 <p></p>
 <div class="isomer-image-wrapper">
