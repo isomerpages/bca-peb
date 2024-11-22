@@ -37,18 +37,20 @@ sections:
   - infobar:
       title: PEB Day of Dedication 2024
       id: infobar
-      description: Thank you for your support. Due to the overwhelming response, the
-        registration for the PEB Day of Dedication 2024 is fully booked.
+      description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
+        Singapore's infrastructure and spaces.
+      button: Learn More
+      url: /dod2024
   - resources:
       title: News
       button: More News
   - infopic:
-      title: PEB Day of Dedication 2023
+      title: PEB Day of Dedication 2024
       subtitle: Key Event
-      description: PEB held its annual DOD on 9 Nov to recognise the contributions of
-        PEs to the development of Singapore's built environment.
+      description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
+        Singapore's infrastructure and spaces.
       button: Learn more
-      url: /dod2023
-      image: /images/PEB Day of Dedication 2023/p2.png
+      url: /dod2024
+      image: /images/dod2024front.png
       alt: Image alt text
 ---
