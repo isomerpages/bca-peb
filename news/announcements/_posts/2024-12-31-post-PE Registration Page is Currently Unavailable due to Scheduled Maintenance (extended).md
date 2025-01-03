@@ -9,4 +9,4 @@ image: ""
 variant: tiptap
 ---
 <p>We would like to inform you that PE Registration page is undergoing maintenance
-from 20 Dec 2024 till 12 Jan 2025. We apologise for any inconvenience caused.</p>
+from 20 Dec 2024 till 3 Jan 2025. We apologise for any inconvenience caused.</p>
