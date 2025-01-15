@@ -96,10 +96,10 @@ management.
 <br>Example:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a. MSc (Engineering)</p>
+<p>MSc (Engineering)</p>
 </li>
 <li>
-<p>b. MSc (Project Management)</p>
+<p>MSc (Project Management)</p>
 </li>
 </ul>
 </td>
