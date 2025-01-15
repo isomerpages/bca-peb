@@ -4,7 +4,68 @@ permalink: /about-cpd/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Structured Activities</strong></h2>
+<h2>CPD Activities</h2>
+<p>CPD activities are activities which a PE chooses to participate in. As
+a PE may be operating under circumstances which are unique to him, the
+focus of the CPD activities is best left to each PE to decide. The principle
+that applies is that the CPD activities chosen must be relevant to the
+practice of individual PE.</p>
+<p>The Board therefore allows each PE the flexibility to select from amongst
+a broad range of activities. The range of activities in this CPD programme
+is not intended to be inclusive but as a general guide. The activities
+that would be relevant are those that will enable one to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maintain, improve, or expand technical skills and knowledge;</p>
+</li>
+<li>
+<p>Keep abreast of changing procedures and standards;</p>
+</li>
+<li>
+<p>Understand and apply advances in technology;</p>
+</li>
+<li>
+<p>Better serve the engineering profession, community and environment;</p>
+</li>
+<li>
+<p>Develop communication and management skills; and</p>
+</li>
+<li>
+<p>Broaden into related fields, such as those covering management, financial
+or legal aspects.</p>
+</li>
+</ul>
+<p></p>
+<p>There are two types of CPD activity:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Structured activity refers to an activity that has been qualified for
+PDU.</p>
+</li>
+<li>
+<p>Unstructured activity refers to an activity that involves self-directed
+learning, reading, discussion or participation.</p>
+</li>
+</ul>
+<p></p>
+<p>The 40 PDUs shall comprise a minimum of 20 PDUs in structured activities
+for PC 2015 and thereafter, and the remainder can be obtained from either
+structured or unstructured activities. The PEB’s CPD Committee qualifies
+structured activities such as formal study courses, conferences, workshops,
+seminars and in-house training for the purpose of CPD programme.</p>
+<h2><strong>Professional Development Units (PDU)</strong></h2>
+<p>The unit of measure for effort spent in pursuing continuing professional
+development is termed as Professional Development Units (PDUs). PDUs are
+obtained from participation in CPD activities.</p>
+<p>Contact hour refers to an attendance or involvement lasting one clock
+hour of not less than 50 minutes; no PDU is awarded for activity/course
+less than 50 minutes.</p>
+<p>A PE is required to obtain a minimum of 40 PDUs over a qualifying period.
+The 40 PDUs shall comprise a minimum of 20 PDUs in structured activities,
+and the remainder can be obtained from either structured or unstructured
+activities.</p>
+<h2><strong>Determination of PDUs</strong></h2>
+<h3><strong>Structured Activities</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -206,28 +267,146 @@ publications, conference proceedings, professional journals or books.</p>
 <p>15 PDUs for each patent</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h3><strong>Unstructured Activities</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Criteria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PDUs</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Category A:</strong>
+</p>
+<p>Self study of relevant topics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul>
+<li>
+<p>Reading of relevant technical, professional, financial, legal or business
+literature.</p>
+</li>
+<li>
+<p>Listening/viewing audio/video tapes on relevant topics or taking correspondence
+courses.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 PDU for every 2 hours</p>
+<p>(Maximum for this category is 16 PDUs)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Category B:</strong>
+</p>
+<p>Informal in-house training and discussion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul>
+<li>
+<p>Conducting informal in-house training and presentations to colleagues.</p>
+</li>
+<li>
+<p>Attending informal in-house training and presentations.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 PDU for every 2 hours</p>
+<p>(Maximum for this category is 16 PDUs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Category C:</strong>
+</p>
+<p>Professional membership</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Membership of professional engineering or management bodies.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 PDUs per organisation</p>
+<p>(Maximum for this category is 16 PDUs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Category D:</strong>
+</p>
+<p>Non-accredited engineering activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Attending professional and technical courses which are not accredited.</p>
+</li>
+<li>
+<p>Attending organised group technical site visits and exhibitions.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 PDU for every 2 hours</p>
+<p>(Maximum for this category is 16 PDUs)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h2><strong>Qualifying For PDU</strong></h2>
+<p>Course Organisers and training providers etc will apply to PEB to qualify
+their courses/activities for PDU. In addition, a PE may also apply to qualify
+courses/activities for PDU if it is conducted by an overseas course organizer
+or if he is a trainer and wishes to obtain PDU under category 3 (if course
+organizer has not already applied for qualification). In the same way,
+a company which conducts in-house training may apply to PEB for its training
+to be qualified for PDU.</p>
+<h2><strong>Audit Process</strong></h2>
+<p>The Board may conduct random audit of PEs and those selected will be asked
+to produce documentary evidence of their CPD participation during a particular
+period. The documentary evidence may take any one of the following forms:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Summary of diary records or a log showing the activities claimed</p>
+</li>
+<li>
+<p>Course enrolment record</p>
+</li>
+<li>
+<p>Receipts</p>
+</li>
+<li>
+<p>Certificate of attendance</p>
+</li>
+<li>
+<p>Attendance list from course organiser</p>
+</li>
+<li>
+<p>Employer’s report or certification</p>
+</li>
+<li>
+<p>Statutory declaration</p>
+</li>
+</ul>
 <p></p>
