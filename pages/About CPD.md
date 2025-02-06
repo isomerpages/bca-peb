@@ -171,13 +171,17 @@ professional development, legal or regulatory matters.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Category 1(c):</strong>
+</p>
+<p>Qualified in-house training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Structured in-house training which are relevant to professional engineers
+on technical, management, professional development, legal or regulatory
+matters. [CV of speakers to be similar to category 1(a) or 1(b)]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 PDU for each contact hour</p>
 </td>
 </tr>
 <tr>
