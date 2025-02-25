@@ -119,9 +119,9 @@ variant: tiptap
 <br>Housing &amp; Development Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ar. Khairudin Saharom</strong> 
-<br>Director/ Principal
-<br>Kite Studio Architecture Pte.</p>
+<p><strong>Ar. Ang Kong Siong, Tony </strong>
+<br>Senior Director
+<br>SAA Architects Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
