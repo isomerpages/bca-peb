@@ -21,4 +21,4 @@ The following forms are required to be downloaded for submission as part of the 
   
 [Checklist to submit PPE application](https://www.peb.gov.sg/Downloads/Checklist%20for%20PPE%20application.pdf "https://www.peb.gov.sg/Downloads/Checklist%20for%20PPE%20application.pdf")
 
-To apply for PPE, click here[here](http://10.201.8.15/login_can.aspx).
+To apply for PPE, click [here](http://10.201.8.15/login_can.aspx).
