@@ -17,7 +17,7 @@ The following forms are required to be downloaded for submission as part of the 
 
 [Summary of postgraduate professional experience](https://go.gov.sg/4xk1op"https://go.gov.sg/4xk1op")  
   
-[Verification of academic record](https://go.gov.sg/4xk1op "https://go.gov.sg/4xk1op") (if there is new update to your qualification)  
+[Verification of academic record](https://go.gov.sg/5i0f50 "https://go.gov.sg/5i0f50") (if there is new update to your qualification)  
   
 [Checklist to submit PPE application](https://www1.peb.gov.sg/files/Downloads/Info%20on%20Exams/Checklist_for_PPE_application.pdf "https://www1.peb.gov.sg/files/Downloads/Info%20on%20Exams/Checklist_for_PPE_application.pdf")
 
