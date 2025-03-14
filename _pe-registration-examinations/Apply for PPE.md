@@ -7,6 +7,7 @@ variant: markdown
 **Apply for PPE 2025**
 
 Application to sit for the Professional Engineering Examination (PPE) 2025 has opened and will close on 20 June 2025.  
+
 The examination is scheduled on 10 September 2025.   
   
 For information on PPE 2025, please refer to [Information for Applicants – Practice of Professional Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/PPE2025.pdf)
