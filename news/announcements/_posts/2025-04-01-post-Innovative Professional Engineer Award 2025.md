@@ -36,4 +36,3 @@ a nomination is 25 April 2025.</p>
 your nomination is accepted for further consideration. If your nomination
 is accepted for further consideration, a detailed nomination would be required
 by 11 July 2025.</p>
-<p>&nbsp;</p>
