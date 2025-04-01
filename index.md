@@ -40,7 +40,7 @@ sections:
       description: Invitation to nominate PEs for Innovative Professional Engineer
         Award 2025 by 25 Apr 2025
       button: Nominate
-      url: /dod2024
+      url: /innovative-professional-engineer-award-2025
   - resources:
       title: News
       button: More News
