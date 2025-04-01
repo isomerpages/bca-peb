@@ -15,10 +15,10 @@ engineer who exemplifies professionalism through innovativeness and/or
 entrepreneurship in delivering the outcomes of the projects that he or
 she has personally been involved with and raises the standing and reputation
 of the profession. The award is held once every two years.</p>
-<p>&nbsp;Our recipients for the Innovative Professional Engineer Award 2023
-are Er. Wong Seng and Er. Ng Choon Yeang. &nbsp;Er. Wong innovated and
-patented the concrete PPVC technology using a unique composite shear wall
-system which has brought significant cost savings and improvement in construction
+<p>Our recipients for the Innovative Professional Engineer Award 2023 are
+Er. Wong Seng and Er. Ng Choon Yeang. &nbsp;Er. Wong innovated and patented
+the concrete PPVC technology using a unique composite shear wall system
+which has brought significant cost savings and improvement in construction
 productivity and sustainability.&nbsp; The lightweight PPVC modules lead
 to more efficient transportation and installation, better site safety and
 environmental outcomes for the industry.&nbsp; Er. Ng, on the other hand,
