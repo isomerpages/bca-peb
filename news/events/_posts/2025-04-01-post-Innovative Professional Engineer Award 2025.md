@@ -29,9 +29,9 @@ and improved durability of the tunnels.&nbsp; The success of the project
 prompted the extensive use of SFRC in subsequent MRT tunnelling works such
 as the Thomson-East Coast Line (TEL) and Cross Island Line (CRL).</p>
 <p>Details and forms related to this award can be downloaded from your PE
-account at the PEB website at <a href="www.peb.gov.sg" rel="noopener nofollow" target="_blank">www.peb.gov.sg</a>. Nomination forms are to be submitted
-according to the Word template provided. The closing date for submitting
-a nomination is 25 April 2025.</p>
+account at the PEB website at <a href="www1.peb.gov.sg" rel="noopener nofollow" target="_blank">www1.peb.gov.sg</a>. Nomination forms are to be
+submitted according to the Word template provided. The closing date for
+submitting a nomination is 25 April 2025.</p>
 <p>Following the nomination, PEB would inform you by 30 May 2025 on whether
 your nomination is accepted for further consideration. If your nomination
 is accepted for further consideration, a detailed nomination would be required
