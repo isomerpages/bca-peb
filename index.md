@@ -35,12 +35,12 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB Day of Dedication 2024
+      title: Innovative Professional Engineer Award 2025
       id: infobar
-      description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
-        Singapore's infrastructure and spaces.
-      button: Learn More
-      url: /dod2024
+      description: Invitation to nominate PEs for Innovative Professional Engineer
+        Award 2025 by 25 Apr 2025
+      button: Nominate
+      url: /innovative-professional-engineer-award-2025
   - resources:
       title: News
       button: More News
