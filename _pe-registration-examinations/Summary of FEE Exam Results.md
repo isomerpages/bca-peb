@@ -6,7 +6,19 @@ variant: tiptap
 ---
 <p><strong>Results of Fundamentals of Engineering Examination (FEE)</strong>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -183,7 +195,19 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -360,7 +384,19 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -537,7 +573,19 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -714,7 +762,19 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -923,7 +983,19 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -954,6 +1026,17 @@ variant: tiptap
 <p>
 <br>Passing rate</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2025
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -976,6 +1059,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>20.0%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100.0%</p>
 </td>
 </tr>
 <tr>
@@ -1000,6 +1092,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>40.9%</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>151</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36.9%</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1022,6 +1123,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>35.2%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>179</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36.3%</p>
 </td>
 </tr>
 <tr>
@@ -1046,6 +1156,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>27.3%</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37.5%</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1068,6 +1187,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>36.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>749</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>277</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37.0%</p>
 </td>
 </tr>
 </tbody>
