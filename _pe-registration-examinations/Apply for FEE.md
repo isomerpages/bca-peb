@@ -23,6 +23,6 @@ variant: tiptap
 of the application process:</p>
 <p><a href="https://go.gov.sg/r9h1au" rel="noopener noreferrer nofollow" target="_blank"><u>Confirmation of Modular / Academic Credit Units</u></a>
 <br><a href="https://go.gov.sg/5i0f50" rel="noopener noreferrer nofollow" target="_blank"><u>Verification of Academic Record</u></a>
-<br><a href="http://peb.cremeworkz.com/Downloads/Checklist%20for%20FEE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Checklist to submit FEE application</u></a>&nbsp;
+<br><a href="/files/Downloads/Info on Exams/checklist_for_fee.pdf" rel="noopener nofollow" target="_blank">Checklist to submit FEE application</a> 
 <br>
 <br>To apply for FEE 2026, click <a href="https://www.peb.gov.sg/apply_fee_declare.aspx" rel="noopener nofollow" target="_blank">here</a>.</p>
