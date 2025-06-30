@@ -7,12 +7,18 @@ variant: tiptap
 <p><strong>Apply for Fundamentals of Engineering Examination</strong>
 </p>
 <p>Application to sit for the Fundamentals of Engineering Examination (FEE)
-2025 has closed on 30 Sep 2024. The examination dates are as follow:</p>
-<p>Electrical engineering – 2 January 2025
-<br>Mechanical engineering – 2 January 2025
-<br>Chemical engineering – 3 January 2025
-<br>Civil engineering – 3 January 2025</p>
-<p>For information on FEE 2025, please refer to <a href="/files/Downloads/Info%20on%20Exams/fee_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Applicants – Fundamentals of Engineering Examination 2025</a> (updated
-16 August 2024&nbsp;– updates to Electrical syllabus)</p>
+2026 is opened and will close on 30 Sep 2025.
+<br>
+<br>The examinations are scheduled to be held on the following dates:</p>
+<p>Electrical engineering – 6 January 2026
+<br>Mechanical engineering – 6 January 2026
+<br>Chemical engineering – 7 January 2026
+<br>Civil engineering – 7 January 2026</p>
+<p>For information on FEE 2026, please refer to <a href="/files/Downloads/Info%20on%20Exams/fee_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Applicants – Fundamentals of Engineering Examination 2026</a> 
+<br>
+<br>For guidance on the application process, please refer to the <a href="/files/Downloads/Info on Exams/application_guide_for_fee_2025.pdf" rel="noopener nofollow" target="_blank">fileApplication Guide – FEE.</a>
+</p>
 <p>The next examination is scheduled around Jan 2026. Application to sit
-for examination will start in Jul 2025.</p>
+for examination will start in Jul 2025.
+<br>
+<br>To apply for FEE 2026, click <a href="https://www.peb.gov.sg/apply_fee_declare.aspx" rel="noopener nofollow" target="_blank">here</a>.</p>
