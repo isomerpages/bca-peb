@@ -21,8 +21,8 @@ variant: tiptap
 </p>
 <p>The following forms are required to be downloaded for submission as part
 of the application process:</p>
-<p><a href="http://peb.cremeworkz.com/Downloads/Credit%20units%20(FEE).xlsx" rel="noopener noreferrer nofollow" target="_blank"><u>Confirmation of Modular / Academic Credit Units</u></a>
-<br><a href="http://peb.cremeworkz.com/Downloads/Vertification%20of%20academic%20record%20(FEE).xls" rel="noopener noreferrer nofollow" target="_blank"><u>Verification of Academic Record</u></a>
+<p><a href="https://go.gov.sg/r9h1au" rel="noopener noreferrer nofollow" target="_blank"><u>Confirmation of Modular / Academic Credit Units</u></a>
+<br><a href="https://go.gov.sg/5i0f50" rel="noopener noreferrer nofollow" target="_blank"><u>Verification of Academic Record</u></a>
 <br><a href="http://peb.cremeworkz.com/Downloads/Checklist%20for%20FEE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Checklist to submit FEE application</u></a>&nbsp;
 <br>
 <br>To apply for FEE 2026, click <a href="https://www.peb.gov.sg/apply_fee_declare.aspx" rel="noopener nofollow" target="_blank">here</a>.</p>
