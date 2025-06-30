@@ -14,8 +14,7 @@ variant: tiptap
 <br>Mechanical engineering – 6 January 2026
 <br>Chemical engineering – 7 January 2026
 <br>Civil engineering – 7 January 2026</p>
-<p>For information on FEE 2026, please refer to <a href="/files/Downloads/Info%20on%20Exams/fee_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Informa</a><a href="/files/Downloads/Info on Exams/fee_2026.pdf" rel="noopener nofollow" target="_blank">file</a>
-<a href="/files/Downloads/Info%20on%20Exams/fee_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">tion for Applicants – Fundamentals of Engineering Examination 2026</a>
+<p>For information on FEE 2026, please refer to <a href="/files/Downloads/Info on Exams/fee_2026.pdf" rel="noopener nofollow" target="_blank">Informafiletion for Applicants – Fundamentals of Engineering Examination 2026</a>
 <br>
 <br>For guidance on the application process, please refer to the <a href="/files/Downloads/Info on Exams/Application_Guide_for_FEE_2026.pdf" rel="noopener nofollow" target="_blank">Application Guide for FEE 2026</a>
 <a href="/files/Downloads/Info on Exams/application_guide_for_fee_2025.pdf" rel="noopener nofollow" target="_blank">.</a>
