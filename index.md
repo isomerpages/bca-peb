@@ -12,11 +12,11 @@ permalink: /
 notification: Please do not click on any links if you receive SMSes that appear
   to be from PEB. Please be assured that PEB will never ask or request for
   anyone’s personal details via SMS notifications and / or automated phone
-  messages. For any queries / feedback, please email to registrar@peb.gov.sg.
-  <br>Please beware of malware stealing login credentials saved in internet
-  browsers. Stay vigilant against malicious emails that can infect devices with
-  malware. Keep software and security patches up-to-date. Never disclose your
-  passwords and 2FA details to others.
+  messages. For any queries / feedback, please email to <a
+  href="mailto:registrar@peb.gov">registrar@peb.gov.sg</a>. Government officials
+  will <strong>NEVER</strong> ask you to transfer money or disclose bank log-in
+  details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you
+  are unsure if something is a scam.
 sections:
   - hero:
       title: <span style="color:red; font-size:72px">professional engineers board
