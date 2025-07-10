@@ -17,4 +17,5 @@ description: ""
 <br>minimise the impact of engineering works on the environment;
 <br>and constantly strive to upgrade my skills and knowledge.</p>
 <p>I make these promises solemnly, freely and upon my honour.</p>
-<p>Click here to download PE Pledge</p>
+<p>Click <a href="/PE_Pledge.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download PE Pledge.</p>
