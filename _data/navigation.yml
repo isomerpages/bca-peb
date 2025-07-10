@@ -12,7 +12,7 @@ links:
       - title: Act & Rules
         url: /act-and-rules/
       - title: PE Pledge
-        url: https://staging-lite.d1o87l8hh2qut6.amplifyapp.com/files/PE_Pledge.pdf
+        url: /pe-pledge/
   - title: Professional Development
     url: /continuing-professional-development/
     sublinks:
