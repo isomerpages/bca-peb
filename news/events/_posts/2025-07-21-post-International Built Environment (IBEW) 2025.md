@@ -24,11 +24,6 @@ table or seats <a href="https://au.eventscloud.com/ereg/index.php?eventid=100240
 </p>
 <p>For more details, visit <a rel="noopener noreferrer nofollow" target="_blank">www.ibew.sg</a>
 </p>
-<p><a href="https://au.eventscloud.com/ibew-2025-delegate-registration?discountcode=IBEW-PEB&amp;categoryid=101667943" rel="noopener nofollow" target="_blank">Discount Link</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AR_756393_IBEW_2025_Reasons_to_Attend_Resize_1080x1080.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IBEW_Partner_banner_Supporting_Partner__400_1080x1080pxl_v3.png">
 </div>
