@@ -22,7 +22,7 @@ your special rate, click <a href="https://au.eventscloud.com/ibew-2025-delegate-
 innovation is recognised and networking opportunities abound. Book your
 table or seats <a href="https://au.eventscloud.com/ereg/index.php?eventid=100240756&amp;source=web" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p>For more details, visit <a href="www.ibew.sg" rel="noopener noreferrer nofollow" target="_blank">www.ibew.sg</a>
+<p>For more details, visit <a href="https://www.ibew.sg/" rel="noopener noreferrer nofollow" target="_blank">www.ibew.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IBEW_Partner_banner_Supporting_Partner__400_1080x1080pxl_v3.png">
