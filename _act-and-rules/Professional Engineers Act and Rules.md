@@ -29,7 +29,7 @@ The legislations administered by Professional Engineers Board are as follows:
 **Professional Engineers (Approved Qualifications) Notification 2009**
     
 [A notification relating to qualifications approved for the purpose of registration as professional engineers.](https://sso.agc.gov.sg/SL/PEA1991-S653-2009?DocDate=20180112){:target="_blank"} <br>
-[(For summary of notifications on approved qualifications, please click here)](https://sso.agc.gov.sg/SL/PEA1991-N2){:target="_blank"} <br>
+[(For summary of notifications on approved qualifications, please click here)](https://sso.agc.gov.sg/SL/PEA1991-N2)
 
 
 **Professional Engineers (Prescribed Amount of Paid-Up Capital) Notification 2005**
