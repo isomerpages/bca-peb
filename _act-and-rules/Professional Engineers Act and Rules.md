@@ -2,6 +2,7 @@
 title: Professional Engineers Act and Rules
 permalink: /act-and-rules/
 description: ""
+variant: markdown
 ---
 The legislations administered by Professional Engineers Board are as follows:
 
@@ -27,8 +28,8 @@ The legislations administered by Professional Engineers Board are as follows:
 
 **Professional Engineers (Approved Qualifications) Notification 2009**
     
-[A notification relating to qualifications approved for the purpose of registration as professional engineers.](https://sso.agc.gov.sg/SL/PEA1991-S653-2009?DocDate=20180112){:target="_blank"} <br>
-[(For summary of notifications on approved qualifications, please click here)](/files/summary%20of%20notification%20on%20approved%20qualifications%202009_2017.pdf)
+[A notification relating to qualifications approved for the purpose of registration as professional engineers.](https://sso.agc.gov.sg/SL/PEA1991-N2){:target="_blank"} <br>
+[(For summary of notifications on approved qualifications, please click here)](/files/summary%20of%20notification%20on%20approved%20qualifications%202009_2017.pdf){:target="_blank"} <br>
 
 
 **Professional Engineers (Prescribed Amount of Paid-Up Capital) Notification 2005**
