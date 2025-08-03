@@ -6,6 +6,108 @@ description: ""
 ---
 <h4>The Board comprises</h4>
 <hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Er. Lim Peng Hong
+<br>
+<br>President
+<br>Managing Director
+<br>PH Consulting Pte. Ltd.</p>
+</th>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Chan_Ewe_Jin.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Chan Ewe Jin
+<br>Managing Director
+<br>ECAS Consultants. Pte. Ltd.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Ho_See_Fong.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Er. Ho See Fong
+<br>Managing Director
+<br>HY M&amp;E Consultancy Services Pte. Ltd.</p>
+</th>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
