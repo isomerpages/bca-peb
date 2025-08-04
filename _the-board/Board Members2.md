@@ -24,7 +24,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Ho_See_Fong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Jee_Yi_Yng.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -47,12 +47,12 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Chan_Ewe_Jin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Liew_Jat_Yuen_Richard.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Er. Chan Ewe Jin
 <br>Managing Director
 <br>ECAS Consultants. Pte. Ltd.</p>
