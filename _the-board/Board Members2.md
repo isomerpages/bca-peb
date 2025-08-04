@@ -130,7 +130,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Er. Lim Peng Hong</div>
-<div class="isomer-card-description">PRESIDENT</div>
+<div class="isomer-card-description">PRESIDENT<br>Managing Director <br> PH Consulting Pte. Ltd.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -141,7 +141,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Er. Chan Ewe Jin</div>
-<div class="isomer-card-description">MEMBER</div>
+<div class="isomer-card-description">MEMBER <br>Managing Director <br> ECAS Consultants Pte. Ltd.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -152,7 +152,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Er. Ho See Fong</div>
-<div class="isomer-card-description">MEMBER</div>
+<div class="isomer-card-description">MEMBER<br>Managing Director <br> Kiso-Jiban Singapore Pte. Ltd.</div>
 </div>
 </div>
 </div>
