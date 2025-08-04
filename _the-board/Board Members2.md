@@ -24,7 +24,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Jee_Yi_Yng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board/Lim_Peng_Hong_resized.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
