@@ -125,12 +125,12 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Er. Lim Peng Hong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Er. Lim Peng Hong" src="/images/Board/Lim_Peng_Hong_resized.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Er. Lim Peng Hong</div>
-<div class="isomer-card-description">PRESIDENT <br>Managing Director <br> PH Consulting Pte. Ltd.</div>
+<div class="isomer-card-description">PRESIDENT</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -141,7 +141,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Er. Chan Ewe Jin</div>
-<div class="isomer-card-description">MEMBER <br>Managing Director <br> ECAS Consultants Pte. Ltd.</div>
+<div class="isomer-card-description">MEMBER</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -152,7 +152,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Er. Ho See Fong</div>
-<div class="isomer-card-description">MEMBER <br>Managing Director <br> HY M&amp;E Consultancy Services Pte. Ltd.</div>
+<div class="isomer-card-description">MEMBER</div>
 </div>
 </div>
 </div>
