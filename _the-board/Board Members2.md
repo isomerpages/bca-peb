@@ -125,7 +125,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Er. Lim Peng Hong" src="/images/Board/Lim_Peng_Hong_resized.jpg">
+<img style="width: 100%" height="100%" width="100%" alt="Er. Lim Peng Hong" src="/images/Board/Lim_Peng_Hong_resized.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
