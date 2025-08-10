@@ -83,7 +83,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 60%" height="auto" width="100%" alt="Er. Jee Yi Yng" src="/images/Board/Ho_See_Fong.jpg">
+<img style="height: 60%" height="auto" width="100%" alt="Er. Jee Yi Yng" src="/images/Board/Jee_Yi_Yng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
