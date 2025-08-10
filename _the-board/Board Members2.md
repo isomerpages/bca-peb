@@ -94,6 +94,20 @@ description: ""
 
 
 
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="height: 60%" height="auto" width="100%" alt="Er. Kng Meng Hwee" src="/images/Board/Kng_Meng_Hwee_400x600.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"><p style="text-align:center;">Er. Kng Meng Hwee</p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Former Advisor, Chief Executive’s Office<br>Energy Market Authority</i></p></div>
+</div>
+</div>
+
+
+
 
 
 
