@@ -38,23 +38,23 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Chan Ewe Jin" src="/images/Board/Chan_Ewe_Jin_400x600.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Chua Tong Seng" src="/images/Board/Chan_Ewe_Jin_400x600.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"><p style="text-align:center;">Er. Chan Ewe Jin</p></div>
-	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director <br> ECAS Consultants Pte. Ltd.</i></p></div>
+<div class="isomer-card-title"><p style="text-align:center;">Er. Chua Tong Seng</p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director <br> Kiso-Jiban Singapore Pte. Ltd.</i></p></div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 60%" height="auto" width="100%" alt="Er. Ho See Fong" src="/images/Board/Ho_See_Fong.jpg">
+<img style="height: 60%" height="auto" width="100%" alt="Er. Chua Tong Seng" src="/images/Board/Ho_See_Fong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title"><p style="text-align:center;">Er. Ho See Fong</p></div>
-	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director<br> Kiso-Jiban Singapore Pte. Ltd.</i></p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director<br> HY M&amp;E Consultancy Services Pte. Ltd.</i></p></div>
 </div>
 </div>
 </div>
