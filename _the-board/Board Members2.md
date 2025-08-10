@@ -62,10 +62,12 @@ description: ""
 	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director <br> Kiso-Jiban Singapore Pte. Ltd.</i></p></div>
 </div>
 </div>
+	
+	
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 60%" height="auto" width="100%" alt="Er. Chua Tong Seng" src="/images/Board/Ho_See_Fong.jpg">
+<img style="height: 60%" height="auto" width="100%" alt="Er. Ho See Fong" src="/images/Board/Ho_See_Fong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -76,6 +78,30 @@ description: ""
 </div>
 
 
+
+
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="height: 60%" height="auto" width="100%" alt="Er. Jee Yi Yng" src="/images/Board/Ho_See_Fong.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"><p style="text-align:center;">Er. Jee Yi Yng</p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director<br>AECOM Singapore Pte. Ltd.</i></p></div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+==============
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
