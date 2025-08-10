@@ -125,7 +125,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Lim Peng Hong" src="/images/Board/Lim_Peng_Hong_resized.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Lim Peng Hong" src="/images/Board/Lim_Peng_Hong_400x600.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -136,7 +136,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Chan Ewe Jin" src="/images/Board/Chan_Ewe_Jin.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Chan Ewe Jin" src="/images/Board/Chan_Ewe_Jin_400x600.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
