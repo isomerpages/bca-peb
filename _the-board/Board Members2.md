@@ -35,6 +35,22 @@ description: ""
 	<div class="isomer-card-description"><p style="text-align:center;"><b>PRESIDENT</b><br><i>Managing Director <br> PH Consulting Pte. Ltd.</i></p><p></p></div>
 </div>
 </div>
+	
+	
+	
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Chan Ewe Jin" src="/images/Board/Lim_Peng_Hong_400x600.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"><p style="text-align:center;">Er. Chan Ewe Jin</p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director <br> ECAS Consultants Pte. Ltd.</i></p><p></p></div>
+</div>
+</div>
+	
+	
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
