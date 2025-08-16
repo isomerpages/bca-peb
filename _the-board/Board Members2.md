@@ -75,7 +75,6 @@ description: ""
 	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director<br> HY M&amp;E Consultancy Services Pte. Ltd.</i></p></div>
 </div>
 </div>
-</div>
 
 
 <div class="isomer-card">
@@ -92,6 +91,7 @@ description: ""
 	
 	
 	
+</div>
 	
 	
 
