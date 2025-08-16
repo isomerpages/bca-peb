@@ -80,12 +80,39 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Jee Yi Yng" src="/images/Board/2025/Jee_Yi_Yng.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Jee Yi Yng" src="/images/Board/Jee_Yi_Yng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title"><p style="text-align:center;">Er. Jee Yi Yng</p></div>
 	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Managing Director <br>AECOM Singapore Pte. Ltd.</i></p><p></p></div>
+</div>
+</div>
+	
+	
+
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Kng Meng Hwee" src="/images/Board/Kng_Meng_Hwee_400x600.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"><p style="text-align:center;">Er. Kng Meng Hwee</p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Former Advisor, Chief Executive’s Office<br>Energy Market Authority</i></p><p></p></div>
+</div>
+</div>
+	
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Dr Lee Jim Yang" src="/images/Board/Lee_Jim_Yang_400x600.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"><p style="text-align:center;">Er. Dr Lee Jim Yan</p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Professor<br>Chemical &amp; Biomolecular Engineering  
+National University of Singapore</i></p><p></p></div>
 </div>
 </div>
 	
