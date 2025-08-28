@@ -120,7 +120,7 @@ National University of Singapore</i></p><p></p></div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Lee Zi Du" src="/images/Board/2025/Lee_Zi_Du.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Lee Zi Du" src="/images/Board/Cheryl_Lee_400x600.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -233,6 +233,3 @@ National University of Singapore</i></p><p></p></div>
 	
 	
 </div>
-	
-	
-   
