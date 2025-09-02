@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 5.00pm
         description: "Closed during Lunch: 12.30pm - 1.30pm <br>Closed on Weekends and
           Public Holidays"
-    maps_link: https://www.onemap.gov.sg/?lat=1.33306&lng=103.7435038
+    maps_link: https://www.onemap.gov.sg/minimap/minimap.html?mapStyle=Default&zoomLevel=17&latLng=1.33314435468684,103.743513166296&ewt=JTNDcCUzRSUzQ3N0cm9uZyUzRVBFQiUyME1haW4lMjBPZmZpY2UlM0MlMkZzdHJvbmclM0UlM0MlMkZwJTNFJTBBJTNDcCUzRTUyJTIwSnVyb25nJTIwR2F0ZXdheSUyMFJvYWQlQzIlQTAlMjMwNy0wMyUyMFNpbmdhcG9yZSUyMDYwODU1MCUzQyUyRnAlM0U=&popupWidth=200&showPopup=true
     title: Main Office
 contacts:
   - content:
