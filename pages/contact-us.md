@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Professional Engineers Board
 locations:
   - address:
-      - "52 Jurong Gateway Road "
+      - 52 Jurong Gateway Road
       - "#07-03"
       - Singapore 608550
     operating_hours:
@@ -14,10 +14,9 @@ locations:
         description: ""
       - days: Friday
         time: 8.30am - 5.00pm
-        description: |-
-          Closed during Lunch: 12.30pm - 1.30pm
-          <br>Closed on Weekends and Public Holidays
-    maps_link: ""
+        description: "Closed during Lunch: 12.30pm - 1.30pm <br>Closed on Weekends and
+          Public Holidays"
+    maps_link: https://www.onemap.gov.sg/minimap/minimap.html?
     title: Main Office
 contacts:
   - content:
@@ -25,4 +24,5 @@ contacts:
       - email: registrar@peb.gov.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
