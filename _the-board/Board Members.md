@@ -164,7 +164,7 @@ National University of Singapore</i></p><p></p></div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title"><p style="text-align:center;">Er. Pong Mew Lan Marina</p></div>
-	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>CEO<br>Sembcorp Architects &amp; Engineers Pte. Ltd.</i></p><p></p></div>
+	<div class="isomer-card-description"><p style="text-align:center;"><b>MEMBER</b><br><i>Technical Advisor (Built Environment, Singapore)<br>Sembcorp Architects &amp; Engineers Pte. Ltd.</i></p><p></p></div>
 </div>
 </div>
 	
