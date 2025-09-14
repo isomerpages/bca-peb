@@ -2,8 +2,8 @@
 title: Licensing Requirements
 permalink: /LC-requirements/
 description: ""
+variant: markdown
 ---
-
 The Professional Engineers Act provides for professional engineers to team up with allied professionals to form multi-discipline corporations and partnerships that are licensed by PEB to supply professional engineering services in Singapore. Licence may be granted to four forms of organisations:
 
 * Limited Corporations 
@@ -43,7 +43,7 @@ Some of the licensing requirements are as listed below:
 #### Limited Liability Partnerships
 *   The statement lodged by the partners of the limited liability partnership with the Registrar of Limited Liability Partnerships under section 15(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005) provides that a primary nature of the business of the limited liability partnership is to supply professional engineering services;
     
-*   At least one of the partners of the limited liability partnership is a registered professional engineer who has in force a practising certificate and the other partners are either registered professional engineers or allied professionals who each has in force a practising certificate, or corporations and LLPs licensed under the PE Act, Architects Act or Land Surveyor Act where applicable;
+*   At least one of the partners of the limited liability partnership is a registered professional engineer who has in force a practising certificate and the other partners are either registered professional engineers or allied professionals who each has in force a practising certificate, or corporations and LLPs licensed under the PE Act 1991, Architects Act or Land Surveyor Act where applicable;
     
 *   The business of the limited liability partnership will be under the control and management of a partner who is a registered professional engineer who has in force a practising certificate;
     
