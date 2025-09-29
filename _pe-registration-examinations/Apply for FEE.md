@@ -16,4 +16,4 @@ variant: tiptap
 <p>For information on FEE 2026, please refer to <a href="/files/Downloads/Info on Exams/fee_2026.pdf" rel="noopener nofollow" target="_blank">Information for Applicants – Fundamentals of Engineering Examination 2026</a>
 <br>
 <br>The next examination is tentatively scheduled around Jan 2027. The application
-to sit for the examination will tentatively commence in July 2026</p>
+to sit for the examination will tentatively commence in July 2026.</p>
