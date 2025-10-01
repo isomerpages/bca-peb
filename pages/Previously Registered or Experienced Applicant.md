@@ -2,6 +2,7 @@
 title: Previously Registered or Experienced Applicant
 permalink: /experiencedpe/
 description: ""
+variant: markdown
 ---
 The oral examination tests an applicant’s knowledge, expertise, experience and achievements in the appropriate branch of engineering.  
   
@@ -26,10 +27,10 @@ For input on description of payment, applicant must indicate full name and fees 
 
 To apply, download and submit the following documents with your payment at PEB.
 
-* [Application Form for Oral exam / PE registration](https://go.gov.sg/oxu0z3){:target="_blank"}
+* [Application Form for Oral exam / PE registration](https://go.gov.sg/7jpb8w){:target="_blank"}
 * [Summary of Education](https://go.gov.sg/4erfoi){:target="_blank"}
 * [Annex A - Summary of post-graduate professional experience](https://go.gov.sg/3nz5js){:target="_blank"}
 * [Verification of academic record](https://go.gov.sg/hqxp98){:target="_blank"}
 * [Confirmation of modular/academic credit units](https://go.gov.sg/r9h1au){:target="_blank"}
-* [Certificate of good conduct](https://go.gov.sg/evosxf){:target="_blank"}
+* [Certificate of good conduct](https://go.gov.sg/z8t8y9){:target="_blank"}
 * [Checklist for submission](/files/Experienced%20PE/oral_checklist.pdf)
