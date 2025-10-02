@@ -35,12 +35,13 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: Innovative Professional Engineer Award 2025
+      title: PEB eServices Undergoing Maintenance from 4 Oct to 26 Oct 25
       id: infobar
-      description: Invitation to nominate PEs for Innovative Professional Engineer
-        Award 2025 by 25 Apr 2025
-      button: Nominate
-      url: /innovative-professional-engineer-award-2025
+      description: PEB e-services will be undergoing maintenance from 4 Oct (Saturday)
+        to 26 Oct (Sunday), and all online applications and submissions will be
+        unavailable.
+      button: More Info
+      url: /peb-eservices-undergoing-maintenance-from-4-october-to-26-october-2025/
   - resources:
       title: News
       button: More News
