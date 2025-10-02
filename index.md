@@ -37,8 +37,8 @@ sections:
   - infobar:
       title: PEB eServices Undergoing Maintenance from 4 Oct to 26 Oct 25
       id: infobar
-      description: PEB e-services will be undergoing maintenance from 4 Oct (Saturday)
-        to 26 Oct (Sunday), and all online applications and submissions will be
+      description: PEB e-services will be undergoing maintenance from 4 Oct (Sat) to
+        26 Oct (Sun) 2025, and all online applications and submissions will be
         unavailable.
       button: More Info
       url: /peb-eservices-undergoing-maintenance-from-4-october-to-26-october-2025/
