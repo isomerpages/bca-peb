@@ -23,7 +23,7 @@ sections:
         </span> <span style="color:black; ; font-size:72px">singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
-        - title: LOGIN TO PEB PORTAL
+        - title: LOGIN TO PEB PORTAL (e-SERVICES)
           description: ""
           url: https://www2.peb.gov.sg/Layouts/authentication.html#login
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
