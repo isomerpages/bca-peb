@@ -24,7 +24,7 @@ sections:
       background: /images/ISS_6351_16953.jpg
       key_highlights:
         - title: LOGIN TO PEB PORTAL
-          description: To access PEB e-Service
+          description: ""
           url: https://www2.peb.gov.sg/Layouts/authentication.html#login
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
