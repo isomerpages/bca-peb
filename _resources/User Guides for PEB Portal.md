@@ -11,14 +11,14 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">User Guide to Apply for Specialist Professional Engineer PC</a>
+<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Specialist Professional Engineer PC</a>
 </p>
 </li>
 </ul>
 <h4>Continuing Professional Development (CPD)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">User Guide to Apply for CPD</a>
+<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for CPD</a>
 </p>
 </li>
 </ul>
