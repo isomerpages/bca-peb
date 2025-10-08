@@ -1,0 +1,58 @@
+logo: /images/peb logo.png
+links:
+  - title: About Us
+    url: /mission/
+    sublinks:
+      - title: Mission & Objectives
+        url: /mission/
+      - title: Functions
+        url: /functions/
+      - title: The Board
+        url: /board/
+      - title: Act & Rules
+        url: /act-and-rules/
+      - title: PE Pledge
+        url: /pe-pledge/
+  - title: Professional Development
+    url: /continuing-professional-development/
+    sublinks:
+      - title: Continuing Professional Development
+        url: /continuing-professional-development/
+      - title: Calendar of PDU Events
+        url: https://www.peb.gov.sg/course_calendar.aspx
+      - title: Directory of Course Organiser
+        url: https://www.peb.gov.sg/pe_general_co.aspx
+  - title: Register
+    url: /requirements/
+    sublinks:
+      - title: PE Registration Examinations
+        url: /requirements/
+      - title: Professional Engineers
+        url: /pe-registration/
+      - title: Previously Registered or Experienced Applicants
+        url: /experiencedpe/
+      - title: Licensed Corporations
+        url: /LC-requirements/
+      - title: Course Organiser
+        url: /course-organiser/
+  - title: Resources
+    collection: resources
+  - title: Find a Professional Engineer
+    url: /findaPE/
+    sublinks:
+      - title: Finding a PE
+        url: /findaPE/
+      - title: Directory of PE
+        url: https://www.peb.gov.sg/pe_general_pe.aspx
+      - title: Directory of Specialist PE
+        url: https://www.peb.gov.sg/pe_general_spe.aspx
+      - title: Directory of ASEAN Chartered PE
+        url: https://www.acpecc.org/acpe-register
+      - title: Directory of Registered Foreign PE
+        url: https://www.peb.gov.sg/pe_general_rfpe.aspx
+      - title: Directory of Licensed Corporations & Partnerships
+        url: https://www.peb.gov.sg/pe_general_lclist.aspx
+      - title: List of Suspended & Recently Deregistered PE
+        url: /suspendedpe
+  - title: Contact Us
+    url: /contact-us
