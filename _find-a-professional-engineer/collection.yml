@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Directory of Professional Engineers with Practising Certificate.md
-      - Directory of Specialist Professional Engineers with Practising Certificates.md
+      - Directory of Specialist Professional Engineers with Practising
+        Certificates.md
       - Directory of Registered Foreign Professional Engineers.md
       - Directory of Licensed Corporations and Partnerships.md
       - List of Suspended & Recently Deregistered PE.md
