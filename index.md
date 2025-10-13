@@ -9,7 +9,7 @@ description: The Professional Engineers Board Singapore (PEB) is a statutory
   practice of professional engineering.
 image: /images/PEB-logo-cropped.jpg
 permalink: /
-notification: <span style="font-size:12px">Please do not click on any links if
+notification: <span style="font-size:20px">Please do not click on any links if
   you receive SMSes that appear to be from PEB. Please be assured that PEB will
   never ask or request for anyone’s personal details via SMS notifications and /
   or automated phone messages. <br> For any queries / feedback, please email to
