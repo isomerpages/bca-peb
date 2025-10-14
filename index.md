@@ -35,13 +35,8 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB eServices Undergoing Maintenance from 4 Oct to 26 Oct 25
+      title: PEB eServices have resumed on 15 Oct 2025
       id: infobar
-      description: PEB e-services will be undergoing maintenance from 4 Oct (Sat) to
-        26 Oct (Sun) 2025, and all online applications and submissions will be
-        unavailable.
-      button: More Info
-      url: /peb-eservices-undergoing-maintenance-from-4-october-to-26-october-2025/
   - resources:
       title: News
       button: More News
