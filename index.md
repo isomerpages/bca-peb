@@ -13,35 +13,30 @@ notification: Please do not click on any links if you receive SMSes that appear
   to be from PEB. Please be assured that PEB will never ask or request for
   anyone’s personal details via SMS notifications and / or automated phone
   messages. For any queries / feedback, please email to <a
-  href="mailto:registrar@peb.gov">registrar@peb.gov.sg</a>. Government officials
-  will <strong>NEVER</strong> ask you to transfer money or disclose bank log-in
-  details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you
-  are unsure if something is a scam.
+  href="mailto:registrar@peb.gov">registrar@peb.gov.sg</a>. <br>Government
+  officials will <strong>NEVER</strong> ask you to transfer money or disclose
+  bank log-in details over a phone call. Call the 24/7 ScamShield Helpline at
+  1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: <span style="color:red; font-size:72px">professional engineers board
         </span> <span style="color:black; ; font-size:72px">singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
-        - title: Professional Engineer Login
+        - title: PROFESSIONAL ENGINEER LOGIN
           description: ""
           url: https://www.peb.gov.sg/login_pe.aspx
-        - title: Course Organiser Login
+        - title: COURSE ORGANISER LOGIN
           description: ""
           url: https://www.peb.gov.sg/login_co.aspx
-        - title: Licensee Login
+        - title: LICENSEE LOGIN
           description: ""
           url: https://www.peb.gov.sg/login_lc.aspx
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB eServices Undergoing Maintenance from 4 Oct to 26 Oct 25
+      title: PEB eServices have resumed on 15 Oct 2025
       id: infobar
-      description: PEB e-services will be undergoing maintenance from 4 Oct (Sat) to
-        26 Oct (Sun) 2025, and all online applications and submissions will be
-        unavailable.
-      button: More Info
-      url: /peb-eservices-undergoing-maintenance-from-4-october-to-26-october-2025/
   - resources:
       title: News
       button: More News

@@ -8,6 +8,6 @@ image: ""
 variant: tiptap
 ---
 <p>We would like to inform you that PEB e-services will be undergoing maintenance
-from 4 October (Saturday) to 26 October (Sunday). During this period, all
-online applications and submissions will be unavailable.&nbsp; We apologise
+from 4 October (Saturday) to 26 October (Sunday) 2025. During this period,
+all online applications and submissions will be unavailable.&nbsp; We apologise
 for any inconvenience caused.</p>
