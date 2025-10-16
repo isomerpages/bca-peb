@@ -35,8 +35,11 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB eServices have resumed on 15 Oct 2025
+      title: Day of Dedication 2025 on 21 Nov (Fri), 11.10am to 1.30pm
       id: infobar
+      description: Registration is open from 23 Oct to 29 Oct (or until the slots are
+        full). Fee chargeable is $180 and the participants will be qualified for
+        4 PDUs.
   - resources:
       title: News
       button: More News
