@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>We would like to inform you that PEB e-services has resumed on 15 Oct
+2025. We apologise for any inconvenience caused during the maintenance
+period.</p>
