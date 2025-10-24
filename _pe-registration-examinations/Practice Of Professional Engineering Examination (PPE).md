@@ -2,10 +2,8 @@
 title: Practice Of Professional Engineering Examination (PPE)
 permalink: /PPE/
 description: ""
+variant: markdown
 ---
-
-
-
 The Practice of Professional Engineering Examination tests the applicant’s ability to apply his knowledge and experience in professional engineering practice, and his knowledge of the rules and regulations regulating the practice of professional engineering in chemical, civil, electrical or mechanical engineering.
 
 A person may apply to sit for the [Practice of Professional Engineering Examination (PPE)](/apply4ppe/) after he has:
@@ -16,6 +14,6 @@ A person may apply to sit for the [Practice of Professional Engineering Examina
 
 PEB does not conduct courses for the purpose of preparing for examinations. For preparatory courses conducted by:  
   
-* The Institution of Engineers Singapore, please click on [Preparatory Courses- IES](http://ies.org.sg/Tenant/C0000005/Excel%20File/IESA/IES_Prep.xls){:target="_blank"}.
+* The Institution of Engineers Singapore, please click on [Preparatory Courses- IES](https://docs.google.com/spreadsheets/d/1GWLBbEK9eR1y669JeY_vACrI0W0-rbEQ/edit?gid=683934124#gid=683934124){:target="_blank"}.
   
 * The Association of Consulting Engineers Singapore, please click on [Preparatory Courses- ACES](http://www.aces.org.sg/course/ACES_PPE.xlsx){:target="_blank"}.
