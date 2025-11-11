@@ -23,8 +23,8 @@ involves self-directed learning, reading, discussion or participation.</p>
 PEB first. Upon approval of registration with PEB, the course organiser
 will be given an online account and a password to access the account. Course
 organiser can then make an online application for qualification of a CPD
-activity under&nbsp;<a href="https://www1.peb.gov.sg/determinepdu/" rel="noopener noreferrer nofollow" target="_blank"><u>categories 1(a), (b) or (c)</u></a>&nbsp;of
-the PEB’s CPD programme.</p>
+activity under&nbsp;<a href="/determinepdu/" rel="noopener noreferrer nofollow" target="_blank"><u>categories 1(a), (b) or (c)</u></a>&nbsp;of the
+PEB’s CPD programme.</p>
 <p>The objective of continuing professional development (CPD) for professional
 engineers is to reinforce the need for lifelong learning.</p>
 <p>It is in line with the emerging global trend towards promoting and ensuring
