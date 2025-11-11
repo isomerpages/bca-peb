@@ -30,7 +30,7 @@ engineers is to reinforce the need for lifelong learning.</p>
 <p>It is in line with the emerging global trend towards promoting and ensuring
 continuous learning by engineers and other professionals so as to maintain
 their competency.</p>
-<p>Please refer to&nbsp;<a href="https://www1.peb.gov.sg/files/Downloads/CPD/About_CPD_incld_E_training_and_max_of_category_2b.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>About CPD</u></a>&nbsp;for
+<p>Please refer to&nbsp;<a href="/files/Downloads/CPD/About_CPD_incld_E_training_and_max_of_category_2b.pdf" rel="noopener nofollow" target="_blank">About CPD</a> for
 more details.</p>
 <p>The files are in pdf format and you need Adobe Acrobat Reader to view
 or print them.
