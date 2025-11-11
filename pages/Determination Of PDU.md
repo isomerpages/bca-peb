@@ -165,7 +165,7 @@ Boards;</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 PDUs per committee (Maximum for this category is 8 PDUs)</p>
+<p>4 PDUs per committee (Maximum for this category is 12 PDUs)</p>
 </td>
 </tr>
 <tr>
