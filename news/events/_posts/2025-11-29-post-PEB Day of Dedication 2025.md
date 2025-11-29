@@ -44,11 +44,12 @@ are distinguished by their ability to say "no" to clients when requests
 compromise safety, integrity, or ethics. Unlike other service providers,
 professionals can refuse inappropriate requests based on their expertise
 and values. This defines professionalism and commands respect.</p>
-<p>Click <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-mos-faishal-ibrahim-at-professional-engineers-board-day-of-dedication-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-indranee-rajah-at-professional-engineers-board-(peb)-day-of-dedication-2025?_sv_p_id=rQARm7GaGa4OEfRd" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Minister’s speech<em>.</em>
 </p>
-<h4>Welcome Address by Er. Lim Peng Hong President, Professional Engineers Board Singapore</h4>
-<p></p>
+<h4>Welcome Address</h4>
+<p>by Er. Lim Peng Hong
+<br>President, Professional Engineers Board Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_4.png">
 </div>
