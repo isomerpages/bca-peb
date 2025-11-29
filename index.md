@@ -44,9 +44,9 @@ sections:
       title: News
       button: More News
   - infopic:
-      title: PEB Day of Dedication 2024
+      title: PEB Day of Dedication 2025
       subtitle: Key Event
-      description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
+      description: PEB annual DOD on 21 Nov, celebrated the efforts of PEs in shaping
         Singapore's infrastructure and spaces.
       button: Learn more
       url: /dod2024
