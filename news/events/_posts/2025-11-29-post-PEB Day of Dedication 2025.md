@@ -14,15 +14,15 @@ variant: tiptap
 <h4><strong>PEB Day of Dedication 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_278.jpg">
 </div>
-<p>The Professional Engineers Board (PEB)’s Day of Dedication 2024, themed
-“Innovating the Future,” took place on November 7 at the Singapore Marriott
-Tang Plaza Hotel. Over 360 attendees, including 104 newly minted Professional
-Engineers (PEs), 9 Specialist PEs, and 8 ASEAN Chartered PEs, gathered
-to celebrate the achievements and commitments of the engineering community
-to advance Singapore’s built environment.&nbsp; The atmosphere reflects
-a strong sense of pride and commitment to the engineering profession.</p>
+<p>The Professional Engineers Board (PEB)'s Day of Dedication 2025, themed
+"A Future Ready Profession," took place on 21 November at One Farrer Hotel.
+Over 340 attendees, including 88 newly minted Professional Engineers (PEs),
+11 Specialist PEs, and 6 ASEAN Chartered PEs, gathered to celebrate the
+achievements and commitments of the engineering community in advancing
+Singapore's built environment. The atmosphere reflected a strong sense
+of pride and commitment to the engineering profession.</p>
 <h4>Opening Address by Guest-of-Honour</h4>
 <p>Associate Professor Dr Muhammad Faishal Ibrahim</p>
 <p>Minister of State, Ministry of Home Affairs and National Development.</p>
