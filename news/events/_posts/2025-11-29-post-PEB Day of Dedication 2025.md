@@ -103,7 +103,7 @@ Engineers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_657.jpg">
 </div>
-<p>&nbsp;Our new Specialist Professional Engineers (SPEs) on stage with Minister
+<p>Our new Specialist Professional Engineers (SPEs) on stage with Minister
 and President of PEB. Eleven SPEs received their Specialist Professional
 Engineer certificates in the branches of in Access Platform, Amusement
 Ride, Crane, Geotechnical, Lift and Escalator and Tunnelling engineering.</p>
@@ -117,6 +117,17 @@ for under the ASEAN Mutual Recognition Arrangement (MRA) for Engineering
 Services, which is one of the initiatives under the ASEAN cooperation on
 trade in services.</p>
 <h4><strong>PEB Gold Medal Award Winners 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_711.jpg">
+</div>
+<p>Congratulations to the 7 engineering undergraduates from the National
+University of Singapore, Nanyang Technological University, and Singapore
+Institute of Technology who received PEB Gold Medal Awards in recognition
+of their outstanding academic achievements.</p>
+<h4><strong>PEB Gold Medal Award Winners 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_711.jpg">
+</div>
 <p>Congratulations to the 7 engineering undergraduates from the National
 University of Singapore, Nanyang Technological University, and Singapore
 Institute of Technology who received PEB Gold Medal Awards in recognition
