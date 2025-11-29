@@ -50,6 +50,6 @@ sections:
         Singapore's infrastructure and spaces.
       button: Learn more
       url: /peb-day-of-dedication-2025
-      image: /images/dod2024front.png
+      image: /images/PEB Day of Dedication 2025/dodfront.png
       alt: Image alt text
 ---
