@@ -53,14 +53,13 @@ the Minister’s speech<em>.</em>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_219.jpg">
 </div>
-<p>Er. Lim Peng Hong, President of PEB, emphasised on retaining talented
-engineers by fostering innovation. Talented engineers seek to propose new
-ideas and push beyond just complying with regulations; hence, the industry
-must support and encourage innovation rather than impede it with rigid
-compliance requirements. Er. Lim further emphasised that by allowing room
-for innovative approaches, the profession can retain skilled engineers
-and continue advancing with creative solutions while balancing public safety
-considerations.
+<p>Er. Lim Peng Hong, President of PEB, highlighted two key principles guiding
+the engineering profession: Professionalism and Respect (PR), where engineers
+must articulate ideas professionally based on engineering knowledge to
+earn respect from developers, architects, contractors, and authorities;
+and Innovation and Talents (IT), emphasising the need to retain talented
+engineers by encouraging innovation rather than rigid rule adherence. Engineers
+create what has never been, requiring industry support for creative solutions.
 <br>
 <br>Click <a href="/files/PEB_President_Speech_DOD_2024_7Nov24.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 <a href="/files/PEB_President_Speech_DOD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
