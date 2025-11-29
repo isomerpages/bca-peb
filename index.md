@@ -49,7 +49,7 @@ sections:
       description: PEB annual DOD on 21 Nov, celebrated the efforts of PEs in shaping
         Singapore's infrastructure and spaces.
       button: Learn more
-      url: /dod2024
+      url: /peb-day-of-dedication-2025
       image: /images/dod2024front.png
       alt: Image alt text
 ---
