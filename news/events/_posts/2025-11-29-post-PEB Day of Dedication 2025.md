@@ -63,6 +63,10 @@ create what has never been, requiring industry support for creative solutions.
 <br>
 <br>Click <a href="/files/Downloads/DOD/DOD2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>for
 the President’s speech</p>
+<h4><strong>Honouring our Innovative Professional Engineer</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_304.jpg">
+</div>
 <h4>Celebrating our Esteemed Professional Engineers</h4>
 <p>The ceremony recognised Er. Chua Chong Kheng and Er. Tan Ngo Chiaw as
 Distinguished Engineers who have dedicated decades to advancing Singapore’s
