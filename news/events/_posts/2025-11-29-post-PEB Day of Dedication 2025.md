@@ -23,12 +23,13 @@ Over 340 attendees, including 88 newly minted Professional Engineers (PEs),
 achievements and commitments of the engineering community in advancing
 Singapore's built environment. The atmosphere reflected a strong sense
 of pride and commitment to the engineering profession.</p>
-<h4>Opening Address by Guest-of-Honour</h4>
-<p>Associate Professor Dr Muhammad Faishal Ibrahim</p>
-<p>Minister of State, Ministry of Home Affairs and National Development.</p>
-<p></p>
+<h4><strong>Opening Address by Guest-of-Honour</strong></h4>
+<p>Ms Indranee Rajah&nbsp;</p>
+<p>Second Minister for Finance and</p>
+<p>Second Minister for National Development&nbsp; Minister,</p>
+<p>Prime Minister's Office&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_258.jpg">
 </div>
 <p>Minister of State Dr. Faishal Ibrahim, highlighted engineers’ critical
 role in supporting Singapore’s sustainable development and decarbonization
