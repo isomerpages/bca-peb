@@ -24,20 +24,26 @@ achievements and commitments of the engineering community in advancing
 Singapore's built environment. The atmosphere reflected a strong sense
 of pride and commitment to the engineering profession.</p>
 <h4><strong>Opening Address by Guest-of-Honour</strong></h4>
-<p>Ms Indranee Rajah&nbsp;</p>
-<p>Second Minister for Finance and</p>
-<p>Second Minister for National Development&nbsp; Minister,</p>
-<p>Prime Minister's Office&nbsp;&nbsp;&nbsp;</p>
+<p>Ms Indranee Rajah&nbsp;
+<br>Second Minister for Finance and Second Minister for National Development&nbsp;
+Minister, Prime Minister's Office&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_258.jpg">
 </div>
-<p>Minister of State Dr. Faishal Ibrahim, highlighted engineers’ critical
-role in supporting Singapore’s sustainable development and decarbonization
-efforts under initiatives like the “80-80-80 by 2030” Green Building Masterplan.
-He emphasised the importance of innovative practices, from AI-powered building
-inspections to renewable energy projects like floating solar farms. Dr.
-Faishal noted that engineers drive progress in resilience, efficiency,
-and sustainability, crucial for Singapore’s future growth.</p>
+<p>Minister Ms Indranee Rajah highlighted that Singapore's future is inextricably
+linked with the future of engineering, which hinges on our engineering
+capabilities. To achieve these ambitious goals, we will need not just PEs
+but PEs who can accomplish the extraordinary. She emphasised that enhanced
+internship programmes with longer periods, dedicated mentorship, and higher
+salaries strengthen talent development. She noted that expanded qualification
+pathways and strategic leadership courses will enhance the profession,
+while streamlined regulatory processes enable engineers to focus on essential
+skills development for national progress.</p>
+<p>Minister Ms Indranee Rajah concluded with advice that Professional Engineers
+are distinguished by their ability to say "no" to clients when requests
+compromise safety, integrity, or ethics. Unlike other service providers,
+professionals can refuse inappropriate requests based on their expertise
+and values. This defines professionalism and commands respect.</p>
 <p>Click <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-mos-faishal-ibrahim-at-professional-engineers-board-day-of-dedication-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Minister’s speech<em>.</em>
 </p>
