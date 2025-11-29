@@ -61,9 +61,8 @@ and Innovation and Talents (IT), emphasising the need to retain talented
 engineers by encouraging innovation rather than rigid rule adherence. Engineers
 create what has never been, requiring industry support for creative solutions.
 <br>
-<br>Click <a href="/files/PEB_President_Speech_DOD_2024_7Nov24.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
-<a href="/files/PEB_President_Speech_DOD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
-</a>for the President’s speech</p>
+<br>Click <a href="/files/Downloads/DOD/DOD2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>for
+the President’s speech</p>
 <h4>Celebrating our Esteemed Professional Engineers</h4>
 <p>The ceremony recognised Er. Chua Chong Kheng and Er. Tan Ngo Chiaw as
 Distinguished Engineers who have dedicated decades to advancing Singapore’s
