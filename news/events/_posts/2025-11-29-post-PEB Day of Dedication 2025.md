@@ -51,7 +51,7 @@ the Minister’s speech<em>.</em>
 <p>by Er. Lim Peng Hong
 <br>President, Professional Engineers Board Singapore</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dod2024_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_219.jpg">
 </div>
 <p>Er. Lim Peng Hong, President of PEB, emphasised on retaining talented
 engineers by fostering innovation. Talented engineers seek to propose new
