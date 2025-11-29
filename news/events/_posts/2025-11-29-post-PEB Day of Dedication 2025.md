@@ -107,7 +107,7 @@ Engineers.</p>
 and President of PEB. Eleven SPEs received their Specialist Professional
 Engineer certificates in the branches of in Access Platform, Amusement
 Ride, Crane, Geotechnical, Lift and Escalator and Tunnelling engineering.</p>
-<h4><strong>&nbsp;ASEAN Chartered Professional Engineers</strong></h4>
+<h4><strong>ASEAN Chartered Professional Engineers</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_687.jpg">
 </div>
@@ -116,6 +116,11 @@ with certificates of registration.&nbsp; The registration of ACPEs is provided
 for under the ASEAN Mutual Recognition Arrangement (MRA) for Engineering
 Services, which is one of the initiatives under the ASEAN cooperation on
 trade in services.</p>
+<h4><strong>PEB Gold Medal Award Winners 2025</strong></h4>
+<p>Congratulations to the 7 engineering undergraduates from the National
+University of Singapore, Nanyang Technological University, and Singapore
+Institute of Technology who received PEB Gold Medal Awards in recognition
+of their outstanding academic achievements.</p>
 <h4>Celebrating our Esteemed Professional Engineers</h4>
 <p>The ceremony recognised Er. Chua Chong Kheng and Er. Tan Ngo Chiaw as
 Distinguished Engineers who have dedicated decades to advancing Singapore’s
