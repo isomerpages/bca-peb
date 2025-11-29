@@ -85,6 +85,13 @@ Architects, as well as local and regional engineering bodies. As the founding
 President of the Association of Women in Construction Singapore, she and
 her team have supported and inspired many young female engineers in the
 built environment sector.</p>
+<h4><strong>Newly Registered Professional Engineers 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_751.jpg">
+</div>
+<p>Congratulations to our 88 newly registered Professional Engineers for
+2025.&nbsp; The engineering community welcome the newly minted Professional
+Engineers.</p>
 <h4>Celebrating our Esteemed Professional Engineers</h4>
 <p>The ceremony recognised Er. Chua Chong Kheng and Er. Tan Ngo Chiaw as
 Distinguished Engineers who have dedicated decades to advancing Singapore’s
