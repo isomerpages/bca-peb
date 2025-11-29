@@ -74,6 +74,17 @@ in sustainable construction as Singapore's first commercial redevelopment
 project to achieve 100% reuse of existing bored piles. This engineering
 feat saved 8,400 tonnes of concrete, resulting in a 37% reduction in carbon
 emissions and demonstrating exceptional environmental stewardship.</p>
+<h4><strong>Honouring our ASEAN Engineer Excellence Award 2025 Recipient</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_326.jpg">
+</div>
+<p>The ceremony also honoured Er. Emily Tan as the recipient of the inaugural
+ASEAN Engineer Excellence Award. A trailblazer in Traffic and Transport
+Engineering, she has served and contributed to both PEB and the Board of
+Architects, as well as local and regional engineering bodies. As the founding
+President of the Association of Women in Construction Singapore, she and
+her team have supported and inspired many young female engineers in the
+built environment sector.</p>
 <h4>Celebrating our Esteemed Professional Engineers</h4>
 <p>The ceremony recognised Er. Chua Chong Kheng and Er. Tan Ngo Chiaw as
 Distinguished Engineers who have dedicated decades to advancing Singapore’s
