@@ -133,7 +133,6 @@ commitment to innovation, sustainability, and societal advancement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_806.jpg">
 </div>
-<h4><strong>Building Connections</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_857.jpg">
 </div>
