@@ -156,6 +156,6 @@ commitment to innovation, sustainability, and societal advancement.</p>
 Engineers take a solemn pledge, reaffirming their dedication to society
 and the engineering profession. The united pledge symbolises the profession’s
 commitment to innovation, sustainability, and societal advancement.</p>
-<p>Click <a href="https://drive.google.com/drive/folders/1Tw9mW0H51PkiRAOyzIuekH1Fqvr3ReB3?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/drive/folders/1-Es_SpIdQcUmthpF0Mx_xRTju2ubzuy1?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view more photos.</p>
 <p></p>
