@@ -126,7 +126,6 @@ of their outstanding academic achievements.</p>
 Engineers take a solemn pledge, reaffirming their dedication to society
 and the engineering profession. The united pledge symbolises the profession’s
 commitment to innovation, sustainability, and societal advancement.</p>
-<h4><strong>Professional Engineer Pledge</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_742.jpg">
 </div>
