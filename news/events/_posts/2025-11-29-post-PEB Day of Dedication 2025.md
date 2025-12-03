@@ -144,10 +144,13 @@ commitment to innovation, sustainability, and societal advancement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_768.jpg">
 </div>
-<p>A Pledge of Dedication led by Jasmine Tan, PE (Mechanical), Professional
-Engineers take a solemn pledge, reaffirming their dedication to society
-and the engineering profession. The united pledge symbolises the profession’s
-commitment to innovation, sustainability, and societal advancement.</p>
+<p>The President and PEB Board Members concluded the event by expressing
+appreciation to all participants, honouring their contributions to Singapore's
+engineering development. Looking ahead to the next Day of Dedication, they
+conveyed optimism for ongoing advancement and a future-ready profession.
+These Day of Dedication highlights demonstrate PEB's commitment to elevating
+engineering excellence and underscore the profession's vital role in Singapore's
+continued growth and development.</p>
 <p>Click <a href="https://drive.google.com/drive/folders/1-Es_SpIdQcUmthpF0Mx_xRTju2ubzuy1?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view more photos.</p>
 <p></p>
