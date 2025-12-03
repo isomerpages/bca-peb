@@ -87,10 +87,6 @@ built environment sector.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_751.jpg">
 </div>
-<p>Congratulations to our 88 newly registered Professional Engineers for
-2025.&nbsp; The engineering community welcome the newly minted Professional
-Engineers.</p>
-<h4><strong>Newly Registered Professional Engineers 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PEB Day of Dedication 2025/2025_Nov21_757.jpg">
 </div>
