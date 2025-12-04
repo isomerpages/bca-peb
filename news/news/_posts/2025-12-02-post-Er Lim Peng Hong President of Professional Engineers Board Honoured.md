@@ -7,5 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Er Lim Peng Hong President of Professional Engineers Board honoured with
-NUS Distinguished Alumni Award 2025</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0131.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0130.png">
+</div>
+<p></p>
