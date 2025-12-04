@@ -12,7 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0131.png">
 </div>
-<p></p>
+<p><a href="/files/Lim_Peng_Hong___Citating.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0130.png">
 </div>
