@@ -3,7 +3,7 @@ url: https://www1.peb.gov.sg
 favicon: /images/icon_tab.png
 colors:
   primary-color: "#2e509f"
-  secondary-color: "#2e509f"
+  secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
       color: "#2e509f"
