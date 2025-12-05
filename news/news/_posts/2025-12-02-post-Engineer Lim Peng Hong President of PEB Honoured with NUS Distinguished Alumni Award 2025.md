@@ -11,5 +11,5 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0131.png">
-</div><a class="isomer-image-wrapper" href="https://staging-lite.d1o87l8hh2qut6.amplifyapp.com/files/Lim_Peng_Hong___Citating.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0130.png"></a>
+</div><a class="isomer-image-wrapper" href="https://staging-lite.d1o87l8hh2qut6.amplifyapp.com/files/Lim_Peng_Hong___Citation.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0130.png"></a>
 <p></p>
