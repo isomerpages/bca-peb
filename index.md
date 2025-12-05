@@ -35,21 +35,20 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: Day of Dedication 2025 on 21 Nov (Fri), 11.10am to 1.30pm
+      title: Fundamentals of Engineering Examination (FEE) 2026
       id: infobar
-      description: Registration is open from 23 Oct to 29 Oct (or until the slots are
-        full). Fee chargeable is $180 and the participants will be qualified for
-        4 PDUs.
+      description: Scheduled on 6 Jan (Electrical & Mechanical) and 7 Jan (Chemical &
+        Civil).
   - resources:
       title: News
       button: More News
   - infopic:
-      title: PEB Day of Dedication 2024
+      title: PEB Day of Dedication 2025
       subtitle: Key Event
-      description: PEB annual DOD on 7 Nov, celebrated the efforts of PEs in shaping
+      description: PEB annual DOD on 21 Nov, celebrated the efforts of PEs in shaping
         Singapore's infrastructure and spaces.
       button: Learn more
-      url: /dod2024
-      image: /images/dod2024front.png
+      url: /peb-day-of-dedication-2025
+      image: /images/PEB Day of Dedication 2025/header.png
       alt: Image alt text
 ---
