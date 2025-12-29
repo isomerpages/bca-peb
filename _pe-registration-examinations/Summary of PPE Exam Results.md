@@ -53,7 +53,7 @@ variant: markdown
 
 <br>
 
-|Year<br>Branch of Engineering|2023<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|
+|Year<br>Branch of Engineering|2023<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|2025<br>No. of candidates|<br>No. of passes|<br>Passing rate|
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
 |Chemical|2|1|50.0%|1|1|100%|1|1|1000%
 |Civil|319|143|44.8%|294|43|14.6%|317|91|28.7%|
