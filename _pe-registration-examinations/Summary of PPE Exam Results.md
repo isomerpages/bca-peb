@@ -53,10 +53,10 @@ variant: markdown
 
 <br>
 
-|Year<br>Branch of Engineering|2023<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|<br>|<br>|<br>|
+|Year<br>Branch of Engineering|2023<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Chemical|2|1|50.0%|1|1|100%|||
-|Civil|319|143|44.8%|294|43|14.6%||||
-|Electrical|129|66|51.2%|125|31|24.8%||||
-|Mechanical|98|40|40.8%|107|52|48.6%||||
-|Overall|548|250|45.6%|527|127|24.1%||||
+|Chemical|2|1|50.0%|1|1|100%|1|1|1000%
+|Civil|319|143|44.8%|294|43|14.6%|317|91|28.7%|
+|Electrical|129|66|51.2%|125|31|24.8%|131|35|26.7%|
+|Mechanical|98|40|40.8%|107|52|48.6%|90|44|48.9%|
+|Overall|548|250|45.6%|527|127|24.1%|539|171|31.7%|
