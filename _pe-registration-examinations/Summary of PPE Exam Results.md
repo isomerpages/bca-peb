@@ -2,61 +2,1203 @@
 title: Summary of PPE Exam Results
 permalink: /PPEexamresults/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Results of Practice of Professional Engineering Examination (PPE)**
-
-|Year<br>Branch of Engineering|2007<br>No. of candidates|<br>No. of passes|<br>Passing rate|2008<br>No. of candidates|<br>No. of passes|<br>Passing rate|2009<br>No. of candidates|<br>No. of passes|<br>Passing rate|
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Civil|28|19|67.9%|65|42|64.6%|98|35|35.7%|
-|Electrical|23|16|69.6%|46|38|82.6%|48|27|56.3%|
-|Mechanical|11|8|72.7%|24|14|58.3%|36|19|52.8%|
-|Overall|62|43|69.4%|135|94|69.6%|182|81|44.5%|
-
+<p><strong>Results of Practice of Professional Engineering Examination (PPE)</strong>
+</p>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>Branch of Engineering</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2007
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2008
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2009
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Civil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>67.9%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>98</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35.7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Electrical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>82.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>56.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>72.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>58.3%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>52.8%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69.4%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>135</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>182</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>81</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44.5%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-|Year<br>Branch of Engineering|2010<br>No. of candidates|<br>No. of passes|<br>Passing rate|2011<br>No. of candidates|<br>No. of passes|<br>Passing rate|2012<br>No. of candidates|<br>No. of passes|<br>Passing rate|
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Civil|112|40|35.7%|154|35|22.7%|189|56|29.6%|
-|Electrical|43|14|32.6%|48|34|70.8%|56|20|35.7%|
-|Mechanical|26|5|19.2%|42|23|54.8%|57|22|38.6%|
-|Overall|181|59|32.6%|244|92|37.7%|302|98|32.5%|
-
+</p>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>Branch of Engineering</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2010
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2011
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2012
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Civil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>112</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>154</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>189</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29.6%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Electrical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35.7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19.2%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>54.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38.6%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>181</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>59</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>244</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>92</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>302</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>98</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.5%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-|Year<br>Branch of Engineering|2013<br>No. of candidates|<br>No. of passes|<br>Passing rate|2014<br>No. of candidates|<br>No. of passes|<br>Passing rate|2015<br>No. of candidates|<br>No. of passes|<br>Passing rate|
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Civil|183|57|31.1%|245|80|32.7%|232|66|28.4%|
-|Electrical|60|35|58.3%|78|31|39.7%|88|32|36.4%|
-|Mechanical|47|20|42.6%|63|13|20.6%|82|27|32.9%|
-|Overall|290|112|38.6%|386|124|32.1%|402|125|31.1%|
-
+</p>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>Branch of Engineering</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2013
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2014
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2015
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Civil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>183</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31.1%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>245</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>232</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>66</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Electrical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>58.3%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>78</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>88</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>82</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.9%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>290</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>112</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>386</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>124</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.1%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>125</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31.1%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-|Year<br>Branch of Engineering|2016<br>No. of candidates|<br>No. of passes|<br>Passing rate|2017<br>No. of candidates|<br>No. of passes|<br>Passing rate|2018<br>No. of candidates|<br>No. of passes|<br>Passing rate|
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Civil|284|73|25.7%|255|81|31.8%|253|72|28.5%|
-|Electrical|116|23|19.8%|154|40|26.0%|163|53|32.5%|
-|Mechanical|82|22|26.8%|87|19|21.8%|94|32|34.0%|
-|Overall|482|118|24.5%|496|140|28.2%|510|157|30.8%|
-
+</p>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>Branch of Engineering</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2016
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2017
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2018
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Civil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>284</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>73</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>255</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>81</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>253</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>72</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Electrical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>116</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>154</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26.0%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>163</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>82</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34.0%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>482</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>118</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24.5%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>496</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.2%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>510</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>157</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30.8%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-|Year<br>Branch of Engineering|2019<br>No. of candidates|<br>No. of passes|<br>Passing rate|2021<br>No. of candidates|<br>No. of passes|<br>Passing rate|2022<br>No. of candidates|<br>No. of passes|<br>Passing rate|
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Chemical|-|-|-|4|2|50.0%|5|4|80.0%|
-|Civil|248|54|21.8%|249|58|23.3%|282|54|19.1%|
-|Electrical|176|47|26.7%|160|55|34.4%|148|51|34.5%|
-|Mechanical|113|32|28.3%|102|58|56.9%|86|28|32.6%|
-|Overall|537|113|24.8%|515|173|33.6%|521|137|26.3%|
-
-
+</p>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>Branch of Engineering</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2019
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2021
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2022
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50.0%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80.0%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Civil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>248</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>249</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>58</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23.3%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>282</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19.1%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Electrical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>176</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26.7%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34.4%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>148</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.3%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>102</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>58</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>56.9%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>86</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32.6%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>537</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>515</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>173</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>33.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>521</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>137</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26.3%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-|Year<br>Branch of Engineering|2023<br>No. of candidates|<br>No. of passes|<br>Passing rate|2024<br>No. of candidates|<br>No. of passes|<br>Passing rate|2025<br>No. of candidates|<br>No. of passes|<br>Passing rate|
-| -------- | -------- | -------- | -------- | -------- | -------- |-------- | -------- | -------- | -------- |
-|Chemical|2|1|50.0%|1|1|100.1%|1|1|100.0%|
-|Civil|319|143|44.8%|294|43|14.6%|317|91|28.7%|
-|Electrical|129|66|51.2%|125|31|24.8%|131|35|26.7%|
-|Mechanical|98|40|40.8%|107|52|48.6%|90|44|48.9%|
-|Overall|548|250|45.6%|527|127|24.1%|539|171|31.7%|
+</p>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year
+<br>Branch of Engineering</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025
+<br>No. of candidates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>No. of passes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>Passing rate</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50.0%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100.0%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100.0%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Civil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>319</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>143</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>294</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>317</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Electrical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>129</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>66</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>51.2%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>125</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>131</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26.7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>98</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40.8%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>107</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>90</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48.9%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>548</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>250</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45.6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>527</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>127</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24.1%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>539</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>171</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31.7%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
