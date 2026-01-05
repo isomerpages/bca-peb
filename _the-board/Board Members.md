@@ -220,7 +220,7 @@ National University of Singapore</i></p><p></p></div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Foo Siang Jeok" src="/images/Board/Foo_Siang_Jeok_400x600.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Foo Siang Jeok" src="/images/Board/2025/BM_photo_2025_31.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
