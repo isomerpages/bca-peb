@@ -220,11 +220,11 @@ National University of Singapore</i></p><p></p></div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="height: 100%" height="auto" width="100%" alt="Er. Foo Siang Jeok" src="/images/Board/Foo_Siang_Jeok_400x600.jpg">
+<img style="height: 100%" height="auto" width="100%" alt="Er. Chang Bek Mei" src="/images/Board/2025/bm_photo_2025_31.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"><p style="text-align:center;">Er. Foo Siang Jeok</p></div>
+<div class="isomer-card-title"><p style="text-align:center;">Er. Chang Bek Mei</p></div>
 	<div class="isomer-card-description"><p style="text-align:center;"><b>REGISTRAR</b><br><i>Professional Engineers Board</i></p><p></p></div>
 </div>
 </div>
