@@ -8,3 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>We would like to inform you that PEB common services will be undergoing
+maintenance from 22 Jan 2026 (Thu), after 6pm to 28 Jan 2026 (Wed), 8am.&nbsp;
+We apologise for any inconvenience caused.</p>
