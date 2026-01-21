@@ -35,10 +35,9 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: Fundamentals of Engineering Examination (FEE) 2026
+      title: Maintenance of PEB Website and Common Services
       id: infobar
-      description: Scheduled on 6 Jan (Electrical & Mechanical) and 7 Jan (Chemical &
-        Civil).
+      description: Scheduled from 22 January 2026 6PM till 28 January 2026 8AM.
   - resources:
       title: News
       button: More News
