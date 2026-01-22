@@ -14,4 +14,4 @@ The next examination is scheduled in Sep 2026. Application to sit for examinatio
   
 For information on PPE 2025, please refer to [Information for Applicants – Practice of Professional Engineering Examination 2025](/files/Downloads/Info%20on%20Exams/PPE2025.pdf)
 
-[Click here for PPE Account Login](https://www.peb.gov.sg/login_can.aspx)
+[Click here for PPE Account Login](https://www2.peb.gov.sg/Layouts/authentication.html#login)
