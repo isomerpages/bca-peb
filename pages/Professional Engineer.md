@@ -8,4 +8,4 @@ The Professional Engineers Board registers professional engineers in the branche
   
 For more information on PE registration, please refer to [Guidelines on Registration](/files/Downloads/Guidelines/RegistrationasPE.pdf).
 
-[Click here to register as Professional Engineer](https://www.peb.gov.sg/login_pereg.aspx){:target="_blank"}
+[Click here to register as Professional Engineer](https://www2.peb.gov.sg/Layouts/authentication.html#login)
