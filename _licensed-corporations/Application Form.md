@@ -9,15 +9,7 @@ Refer to [Guidelines on Licensed Corporations and Partnerships](/files/Downloads
 Submit application together with the following:<br>
 Download [Checklist for Licence Submission](/files/Downloads/Guidelines/LC_Checklist.pdf) (print on letterhead).
 
-Apply licence to provide professional engineering services:
-
-*   [Limited Corporations](https://www2.peb.gov.sg/Layouts/authentication.html#registration)
-  
-*   [Unlimited Corporations](https://www2.peb.gov.sg/Layouts/authentication.html#registration)
-  
-*  [Limited Liability Partnerships](https://www2.peb.gov.sg/Layouts/authentication.html#registration)
-  
-*   [Multi-discipline Partnerships](https://www2.peb.gov.sg/Layouts/authentication.html#registration)
+[Click here to submit first-time Company Licence application](https://www2.peb.gov.sg/Layouts/authentication.html#registration)
 
 
 For licence renewal, [login to submit application online](https://www2.peb.gov.sg/Layouts/authentication.html#login).
