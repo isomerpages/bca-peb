@@ -16,7 +16,9 @@ An experienced applicant means a person who —
 2. has not less than 25 years of such practical experience in professional engineering work as may be acceptable to the Board, of which at least 10 years must be obtained in Singapore.  
   
 The application for registration shall be submitted together with the application to sit for the oral examination as the professional interview for registration may be conducted after the oral examination in a single session.  
-  
+
+Applications for Practising Certificates and Corporate Licences will be processed within **30 working days** upon submission of complete documents. If the application requires more extensive evaluation, a longer processing time may be required.
+
 The fee to sit for the oral examination is $450 and the fee for registration is $300. For more information on PE registration, please refer to [Guidelines on Registration](/files/Downloads/Guidelines/RegistrationasPE.pdf).
 
 Payment can be made via:
