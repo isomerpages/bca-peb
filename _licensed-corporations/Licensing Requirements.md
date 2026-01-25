@@ -13,6 +13,8 @@ The Professional Engineers Act provides for professional engineers to team up wi
 
 The licence fee is $500 and the licence will be valid for a period of one calendar year.
 
+Applications for Corporate Licences will be processed within **30 working days** upon submission of complete documents. If the application requires more extensive evaluation, a longer processing time may be required.
+
 Some of the licensing requirements are as listed below:
 
 #### Limited Corporations
