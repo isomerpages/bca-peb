@@ -34,4 +34,15 @@ description: ""
 </p>
 </li>
 </ul>
+<h4>Course Organiser</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Course Application (CA)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Course Organiser (CO)</a>
+</p>
+</li>
+</ul>
 <p></p>
