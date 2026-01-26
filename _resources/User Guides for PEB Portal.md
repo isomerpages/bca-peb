@@ -7,11 +7,12 @@ description: ""
 <h4>Practising Certificate (PC)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Professional Engineer PC</a>
+<p><a href="/files/PEB Portal User Guides/User_Guide_to_Apply_for_Professional_Engineer__PE__Practising_Certificate.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Professional Engineer</a>
+<a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">PC</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Specialist Professional Engineer PC</a>
+<p><a href="/files/PEB Portal User Guides/User_Guide_to_Apply_for_Specialist_Professional_Engineer__SPE__Practising_Certificate.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Specialist Professional Engineer PC</a>
 </p>
 </li>
 </ul>
