@@ -23,4 +23,15 @@ description: ""
 </p>
 </li>
 </ul>
+<h4>Licensed Corporation and Partnerships</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Licensed Corporation and Partnerships</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Renew Licensed Corporation and Partnerships</a>
+</p>
+</li>
+</ul>
 <p></p>
