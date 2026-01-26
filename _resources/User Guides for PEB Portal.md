@@ -25,11 +25,11 @@ description: ""
 <h4>Licensed Corporation and Partnerships</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Licensed Corporation and Partnerships</a>
+<p><a href="/files/PEB Portal User Guides/User_Guide_to_Apply_for_Licensed_Corporation_and_Partnerships.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Apply for Licensed Corporation and Partnerships</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Renew Licensed Corporation and Partnerships</a>
+<p><a href="/files/PEB Portal User Guides/User_Guide_to_Renew_Licensed_Corporation_and_Partnerships.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Renew Licensed Corporation and Partnerships</a>
 </p>
 </li>
 </ul>
