@@ -36,11 +36,11 @@ description: ""
 <h4>Course Organiser</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Course Application (CA)</a>
+<p><a href="/files/PEB Portal User Guides/User_Guide_to_Apply_for_Course_Organiser__CO_.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Apply for Course Organiser (CO)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Downloads/Guidelines/RegistrationasPE.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Course Organiser (CO)</a>
+<p><a href="/files/PEB Portal User Guides/User_Guide_to_Apply_for_Course_Application__CA_.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Apply for Course Application (CA)</a>
 </p>
 </li>
 </ul>
