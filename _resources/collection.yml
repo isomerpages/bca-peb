@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - User Guides for PEB Portal.md
       - Guidelines on Registration and Licensing.md
       - Information on Examinations.md
       - Annual Reports & Financial Statements.md
