@@ -23,15 +23,9 @@ sections:
         </span> <span style="color:black; ; font-size:72px">singapore</span>
       background: /images/ISS_6351_16953.jpg
       key_highlights:
-        - title: PROFESSIONAL ENGINEER LOGIN
+        - title: LOGIN TO PEB PORTAL (E-SERVICES)
           description: ""
-          url: https://www.peb.gov.sg/login_pe.aspx
-        - title: COURSE ORGANISER LOGIN
-          description: ""
-          url: https://www.peb.gov.sg/login_co.aspx
-        - title: LICENSEE LOGIN
-          description: ""
-          url: https://www.peb.gov.sg/login_lc.aspx
+          url: https://www2.peb.gov.sg/Layouts/authentication.html#login
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
