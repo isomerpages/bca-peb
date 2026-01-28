@@ -29,9 +29,8 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: Maintenance of PEB Common Services
+      title: PEB Common Services have resumed
       id: infobar
-      description: Scheduled from 22 January 2026 6PM till 28 January 2026 8AM.
   - resources:
       title: News
       button: More News
