@@ -4,7 +4,7 @@ permalink: /guidelines/
 description: ""
 variant: markdown
 ---
-*   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/Guidelines for PE registration (updated 29 Jan 26).pdf)
+*   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/RegistrationsPE.pdf)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Geotechnical Engineering](/files/Downloads/Guidelines/spe_geo_reg.pdf)
     
