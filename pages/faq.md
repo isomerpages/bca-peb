@@ -29,16 +29,6 @@ for more details.</p>
 Login page. &nbsp;Enter your Corppass credentials to login. &nbsp;After
 successful login, you will be redirected to the PEB Dashboard. &nbsp;Please
 refer to the respective user’s guideline for more details.</p>
-<p>The Professional Engineers Board registers professional engineers in the
-branches of civil, electrical and mechanical engineering. A person applying
-for registration as a professional engineer to the Professional Engineers
-Board is required to hold an approved degree or qualification listed in
-the Professional Engineers&nbsp;<a href="/act-and-rules/" rel="noopener noreferrer nofollow" target="_blank">Professional Engineers (Approved&nbsp;Qualifications)&nbsp;Notification 2009</a>&nbsp;and
-acquired not less than four years of relevant practical experience. He
-is also required to sit and pass examinations prescribed by the Board.
-The applicant is required to sit and pass the&nbsp;<a href="/FEE/" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Engineering Examination</a>&nbsp;and following
-that, to sit and pass the&nbsp;<a href="/PPE/" rel="noopener noreferrer nofollow" target="_blank">Practice of Professional Engineering Examination</a>. In addition,
-the applicant is required to attend an interview.</p>
 <h4>4. What documents or information do I need to prepare?</h4>
 <p>Users are advised to prepare all required supporting documents and information
 in advance, as outlined in the application guidelines, to ensure a smooth
