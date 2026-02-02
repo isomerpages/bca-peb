@@ -22,6 +22,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/PEB Portal User Guides/User_Guide_to_Apply_for_Professional_Engineer__PE__Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Apply for Professional Engineer (PE) Registration</a>
+<a href="/files/Downloads/Guidelines/Guidelines_for_PE_registration__updated_29_Jan_26_.pdf" rel="noopener nofollow" target="_blank">User Guide to Apply for Professional Engineer (PE) Registration</a>
 </p>
 </li>
 </ul>
