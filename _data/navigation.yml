@@ -43,16 +43,16 @@ links:
       - title: Finding a PE
         url: /findaPE/
       - title: Directory of PE
-        url: https://www.peb.gov.sg/pe_general_pe.aspx
+        url: /PEdirectory/
       - title: Directory of Specialist PE
-        url: https://www.peb.gov.sg/pe_general_spe.aspx
+        url: /SPEdirectory/
       - title: Directory of ASEAN Chartered PE
         url: https://www.acpecc.org/acpe-register
       - title: Directory of Registered Foreign PE
-        url: https://www.peb.gov.sg/pe_general_rfpe.aspx
+        url: /RFPEdirectory/
       - title: Directory of Licensed Corporations & Partnerships
-        url: https://www.peb.gov.sg/pe_general_lclist.aspx
+        url: /LCdirectory/
       - title: List of Suspended & Recently Deregistered PE
-        url: /suspendedpe
+        url: /suspendedPE/
   - title: Contact Us
     url: /contact-us
