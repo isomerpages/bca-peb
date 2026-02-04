@@ -2,6 +2,7 @@
 title: Guidelines on Registration and Licensing
 permalink: /guidelines/
 description: ""
+variant: markdown
 ---
 *   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/RegistrationasPE.pdf)
     
