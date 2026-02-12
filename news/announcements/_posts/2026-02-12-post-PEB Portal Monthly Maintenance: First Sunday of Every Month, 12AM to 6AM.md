@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Users,</p>
 <p>Please be advised that our portal will undergo scheduled maintenance on
 the first Sunday of every month from 12:00 AM to 6:00 AM (Singapore Time).</p>
 <p>During this maintenance window, the portal will be temporarily unavailable.
