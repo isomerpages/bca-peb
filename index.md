@@ -29,9 +29,8 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB Portal Services Undergoing Maintenance on 11 Feb 2026
+      title: PEB Portal Services have Resumed
       id: infobar
-      description: maintenance period from 6pm to 8pm
   - resources:
       title: News
       button: More News
