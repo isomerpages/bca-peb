@@ -29,7 +29,7 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB Portal Services have Resumed
+      title: PEB is now on Social Media
       id: infobar
   - resources:
       title: News
