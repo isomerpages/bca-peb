@@ -121,8 +121,8 @@ matters.
 <td rowspan="1" colspan="1">
 <p>Structured in-house training and business-related courses which are relevant
 to professional engineers on technical, management, professional development,
-legal or regulatory matters. &lt;/br&gt;[CV of speakers to be similar to
-category 1(a) or 1(b)]</p>
+legal or regulatory matters. [CV of speakers to be similar to category
+1(a) or 1(b)]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 PDU for each contact hour</p>
