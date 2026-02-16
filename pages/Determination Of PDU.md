@@ -31,7 +31,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Relevant post-graduate or diploma courses on engineering and/or construction/project
-management.
+management and other business-related subjects.
 <br>Example:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,6 +39,9 @@ management.
 </li>
 <li>
 <p>MSc (Project Management)</p>
+</li>
+<li>
+<p>MBA or business management courses</p>
 </li>
 </ul>
 </td>
@@ -53,9 +56,9 @@ management.
 <p>Qualified lectures, short courses, conferences, workshops &amp; seminars</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lectures, short courses, conferences, workshops &amp; seminars which are
-relevant for professional engineers on technical, management, professional
-development, legal or regulatory matters.
+<p>Business-related courses, lectures, short courses, conferences, workshops
+&amp; seminars which are relevant for professional engineers on technical,
+management, professional development, legal or regulatory matters.
 <br>Examples:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -99,9 +102,10 @@ ENV, LTA, etc.</p>
 <p>Must evident participation/enrolment/registration for attendance</p>
 </li>
 </ul>
-<p>These include lectures, short courses, conferences, workshops &amp; seminars
-which are relevant for professional engineers on technical, management,
-professional development, legal or regulatory matters.
+<p>These include business-related courses, lectures, short courses, conferences,
+workshops &amp; seminars which are relevant for professional engineers
+on technical, management, professional development, legal or regulatory
+matters.
 <br>PDU obtained from E-training will be limited to 10 PDU only.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,9 +119,10 @@ professional development, legal or regulatory matters.
 <p>Qualified in-house training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Structured in-house training which are relevant to professional engineers
-on technical, management, professional development, legal or regulatory
-matters. [CV of speakers to be similar to category 1(a) or 1(b)]</p>
+<p>Structured in-house training and business-related courses which are relevant
+to professional engineers on technical, management, professional development,
+legal or regulatory matters. [CV of speakers to be similar to category
+1(a) or 1(b)]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 PDU for each contact hour</p>
@@ -241,11 +246,11 @@ publications, conference proceedings, professional journals or books.</p>
 <ul>
 <li>
 <p>Reading of relevant technical, professional, financial, legal or business
-literature.</p>
+or business-related literature.</p>
 </li>
 <li>
 <p>Listening/viewing audio/video tapes on relevant topics or taking correspondence
-courses.</p>
+courses or business-related courses.</p>
 </li>
 </ul>
 </td>
@@ -263,10 +268,11 @@ courses.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Conducting informal in-house training and presentations to colleagues.</p>
+<p>Conducting informal in-house training, business-related courses and presentations
+to colleagues.</p>
 </li>
 <li>
-<p>Attending informal in-house training and presentations.</p>
+<p>Attending informal in-house training, business-related courses and presentations.</p>
 </li>
 </ul>
 </td>
