@@ -16,18 +16,8 @@ the profession.</p>
 <p></p>
 <p>Members and stakeholders are invited to follow our official pages by clicking
 on the icons below and reshare our posts:</p>
-<p></p>
-<p></p>
-<p></p>
-<table style="minWidth: 250px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -35,20 +25,16 @@ on the icons below and reshare our posts:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary2.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient2.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 8%;" height="auto" width="100%" alt="" src="/images/LI_In_Bug2.png">
-</div>
+<p></p>
 </th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -58,9 +44,8 @@ on the icons below and reshare our posts:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -73,4 +58,22 @@ on the icons below and reshare our posts:</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 6%;" height="auto" width="100%" alt="" src="/images/LI_In_Bug.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
