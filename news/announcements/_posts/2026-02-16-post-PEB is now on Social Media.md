@@ -7,3 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>We are pleased to announce that PEB has launched its official social media
+presence on Facebook, Instagram and LinkedIn.</p>
+<p></p>
+<p>Through these platforms, PEB will showcase Singapore’s Professional Engineers’
+contributions to nation-building while inspiring future engineers to join
+the profession.</p>
+<p></p>
+<p>Members and stakeholders are invited to follow our official pages via
+the links provided on this page and reshare our posts.</p>
