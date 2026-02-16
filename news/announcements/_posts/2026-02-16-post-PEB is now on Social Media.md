@@ -19,11 +19,13 @@ on the icons below and reshare our posts:</p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 5%;     float: left" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary.png">
-</div>
+</div>    <a href="https://www.facebook.com/people/Professional-Engineers-Board-Singapore/61587224969478/">
+
+
 
 <div class="isomer-image-wrapper">
 <img style="width: 5%;     float: left" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 6%;float: left" height="auto" width="100%" alt="" src="/images/LI_In_Bug.png">
-</div>
+</div></a>
