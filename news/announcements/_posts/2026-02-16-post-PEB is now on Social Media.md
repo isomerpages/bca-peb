@@ -16,64 +16,14 @@ the profession.</p>
 <p></p>
 <p>Members and stakeholders are invited to follow our official pages by clicking
 on the icons below and reshare our posts:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+
 <div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary.png">
+<img style="width: 5%;     float: left" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary.png">
 </div>
-<p></p>
-<p></p>
+
 <div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient.png">
+<img style="width: 5%;     float: left" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 6%;" height="auto" width="100%" alt="" src="/images/LI_In_Bug.png">
+<img style="width: 6%;float: left" height="auto" width="100%" alt="" src="/images/LI_In_Bug.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
