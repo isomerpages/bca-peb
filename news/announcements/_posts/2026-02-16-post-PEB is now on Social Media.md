@@ -19,13 +19,13 @@ on the icons below and reshare our posts:</p>
 
 <div class="isomer-image-wrapper">
 	<a href="https://www.facebook.com/people/Professional-Engineers-Board-Singapore/61587224969478/">
-<img style="width: 5%;     float: left; padding: 5px;" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary.png">
+<img style="width: 6%;     float: left; padding: 5px;" height="auto" width="100%" alt="" src="/images/Facebook_Logo_Primary.png">
 </a></div>
 
 
 
 <div class="isomer-image-wrapper"><a href="https://www.instagram.com/peb_singapore/">
-<img style="width: 5%;     float: left; padding: 5px;" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient.png">
+<img style="width: 6%;     float: left; padding: 5px;" height="auto" width="100%" alt="" src="/images/Instagram_Glyph_Gradient.png">
 </a></div><div class="isomer-image-wrapper"><a href="https://www.linkedin.com/posts/professional-engineers-board-singapore_peb-professionalengineersboardsg-onepearlbank-activity-7427894309384896512-latK/">
-<img style="width: 6%;float: left; padding: 5px;" height="auto" width="100%" alt="" src="/images/LI_In_Bug.png">
+<img style="width: 7%;float: left; padding: 5px;" height="auto" width="100%" alt="" src="/images/LI_In_Bug.png">
 </a></div>
