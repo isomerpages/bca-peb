@@ -14,5 +14,7 @@ presence on Facebook, Instagram and LinkedIn.</p>
 contributions to nation-building while inspiring future engineers to join
 the profession.</p>
 <p></p>
-<p>Members and stakeholders are invited to follow our official pages via
-the links provided on this page and reshare our posts.</p>
+<p>Members and stakeholders are invited to follow our official pages by clicking
+on the icons below and reshare our posts:</p>
+<p></p>
+<p></p>
