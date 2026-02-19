@@ -13,12 +13,12 @@ and ensuring continuous learning by engineers and other professionals so
 as to maintain their competency.</p>
 <p>A PE who wishes to renew his practicing certificate is required to obtain
 a minimum of 40 professional development units (PDUs) over a prescribed
-renewal qualifying period. The 40 PDUs shall comprise a minimum of 15 PDUs
-(20 PDUs for PC 2015 and thereafter) in structured activities, and the
-remainder can be obtained from either structured or unstructured activities.
-A structured activity refers to a course or activity that is qualified
-by PEB for PDUs while an unstructured activity refers to an activity that
-involves self-directed learning, reading, discussion or participation.</p>
+renewal qualifying period. The 40 PDUs shall comprise a minimum of 20 PDUs
+in structured activities, and the remainder can be obtained from either
+structured or unstructured activities. A structured activity refers to
+a course or activity that is qualified by PEB for PDUs while an unstructured
+activity refers to an activity that involves self-directed learning, reading,
+discussion or participation.</p>
 <p>Before making applications online, a course organiser must register with
 PEB first. Upon approval of registration with PEB, the course organiser
 will be given an online account and a password to access the account. Course
@@ -30,7 +30,7 @@ engineers is to reinforce the need for lifelong learning.</p>
 <p>It is in line with the emerging global trend towards promoting and ensuring
 continuous learning by engineers and other professionals so as to maintain
 their competency.</p>
-<p>Please refer to&nbsp;<a href="/files/Downloads/CPD/About_CPD_incld_E_training_and_max_of_category_2b.pdf" rel="noopener nofollow" target="_blank">About CPD</a> for
+<p>Please refer to&nbsp;<a href="/files/About_CPD_write_up_Feb_2026.pdf" rel="noopener nofollow" target="_blank">About CPD</a> for
 more details.</p>
 <p>The files are in pdf format and you need Adobe Acrobat Reader to view
 or print them.
