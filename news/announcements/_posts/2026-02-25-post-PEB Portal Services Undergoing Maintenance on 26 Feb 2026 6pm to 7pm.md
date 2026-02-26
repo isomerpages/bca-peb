@@ -8,5 +8,5 @@ image: ""
 variant: tiptap
 ---
 <p>We would like to inform you that PEB Portal services will be undergoing
-maintenance from 6pm to 7pm on 25 February 2026 (Thursday) and there might
+maintenance from 6pm to 7pm on 26 February 2026 (Thursday) and there might
 be intermittent downtime. We apologise for any inconvenience caused.</p>
