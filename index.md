@@ -34,7 +34,7 @@ sections:
       description: Invitation to nominate PEs for Distinguished Professional Engineer
         Award 2026 by 20 Apr 2026
       button: Nominate
-      url: Nominate
+      url: https://www1.peb.gov.sg/distinguished-professional-engineer-award-2026/
   - resources:
       title: News
       button: More News
