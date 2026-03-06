@@ -29,8 +29,12 @@ sections:
       subtitle: <span style="font-size:24px">Advancing, Developing and Regulating
         Professional Engineering</span>
   - infobar:
-      title: PEB is now on Social Media
+      title: Distinguished Professional Engineer Award 2026
       id: infobar
+      description: Invitation to nominate PEs for Distinguished Professional Engineer
+        Award 2026 by 20 Apr 2026
+      button: Nominate
+      url: /distinguished-professional-engineer-award-2026/
   - resources:
       title: News
       button: More News
