@@ -19,6 +19,7 @@ variant: tiptap
 </li>
 </ul>
 <p>The following form is required to be downloaded for submission as part
-of the application process. <a href="https://go.gov.sg/summary-of-prof-experience" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
+of the application process.</p>
+<p><a href="https://go.gov.sg/summary-of-prof-experience" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
 <br><a href="https://www2.peb.gov.sg/Layouts/authentication.html#login" rel="noopener noreferrer nofollow" target="_blank">Click here to submit PPE application</a>
 </p>
