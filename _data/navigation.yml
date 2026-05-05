@@ -1,0 +1,58 @@
+logo: /images/peb logo.png
+links:
+  - title: About Us
+    url: /mission/
+    sublinks:
+      - title: Mission & Objectives
+        url: /mission/
+      - title: Functions
+        url: /functions/
+      - title: The Board
+        url: /board/
+      - title: Act & Rules
+        url: /act-and-rules/
+      - title: PE Pledge
+        url: /pe-pledge/
+  - title: Professional Development
+    url: /continuing-professional-development/
+    sublinks:
+      - title: Continuing Professional Development
+        url: /continuing-professional-development/
+      - title: Calendar of PDU Events
+        url: /cpd_calendar/
+      - title: Directory of Course Organiser
+        url: /co_directory/
+  - title: Register
+    url: /requirements/
+    sublinks:
+      - title: PE Registration Examinations
+        url: /requirements/
+      - title: Professional Engineers
+        url: /pe-registration/
+      - title: Previously Registered or Experienced Applicants
+        url: /experiencedpe/
+      - title: Licensed Corporations
+        url: /LC-requirements/
+      - title: Course Organiser
+        url: /course-organiser/
+  - title: Resources
+    collection: resources
+  - title: Find a Professional Engineer
+    url: /findaPE/
+    sublinks:
+      - title: Finding a PE
+        url: /findaPE/
+      - title: Directory of PE
+        url: /PEdirectory/
+      - title: Directory of Specialist PE
+        url: /SPEdirectory/
+      - title: Directory of ASEAN Chartered PE
+        url: https://www.acpecc.org/acpe-register
+      - title: Directory of Registered Foreign PE
+        url: /RFPEdirectory/
+      - title: Directory of Licensed Corporations & Partnerships
+        url: /LCdirectory/
+      - title: List of Suspended & Recently Deregistered PE
+        url: /suspendedPE/
+  - title: Contact Us
+    url: /contact-us
