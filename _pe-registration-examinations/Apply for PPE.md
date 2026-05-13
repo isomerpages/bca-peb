@@ -25,4 +25,3 @@ of the application process.
 </p>
 <p><a href="/files/PPE_Verification_Form.pdf" rel="noopener nofollow" target="_blank">PPE Verification Form</a>
 </p>
-<p></p>
