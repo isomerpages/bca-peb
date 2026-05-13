@@ -23,3 +23,6 @@ of the application process.
 <br><a href="https://go.gov.sg/summary-of-prof-experience" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
 <br><a href="https://www2.peb.gov.sg/Layouts/authentication.html#login" rel="noopener noreferrer nofollow" target="_blank">Click here to submit PPE application</a>
 </p>
+<p><a href="/files/PPE_Verification_Form.pdf" rel="noopener nofollow" target="_blank">PPE Verification Form</a>
+</p>
+<p></p>
