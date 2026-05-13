@@ -18,6 +18,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<blockquote>
 <p>The following form is required to be downloaded for submission as part
 of the application process.
 <br><a href="https://go.gov.sg/summary-of-prof-experience" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
@@ -25,3 +26,5 @@ of the application process.
 </p>
 <p><a href="/files/PPE_Verification_Form.pdf" rel="noopener nofollow" target="_blank">PPE Verification Form</a>
 </p>
+</blockquote>
+<p></p>
