@@ -31,7 +31,7 @@ To apply, download and submit the following documents with your payment at PEB.
 
 * [Application Form for Oral exam / PE registration](https://go.gov.sg/7jpb8w){:target="_blank"}
 * [Summary of Education](https://go.gov.sg/4erfoi){:target="_blank"}
-* [Annex A - Summary of post-graduate professional experience](https://go.gov.sg/3nz5js){:target="_blank"}
+* [Annex A - Summary of post-graduate professional experience](https://go.gov.sg/4q5q45){:target="_blank"}
 * [Verification of academic record](https://go.gov.sg/hqxp98){:target="_blank"}
 * [Confirmation of modular/academic credit units](https://go.gov.sg/r9h1au){:target="_blank"}
 * [Certificate of good conduct](https://go.gov.sg/z8t8y9){:target="_blank"}
