@@ -14,8 +14,10 @@ variant: markdown
 *   [Guidelines For Registration As A Specialist Professional Engineer – Lift and Escalator Engineering](/files/Downloads/Guidelines/spe_le_reg.pdf)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Crane Engineering](/files/Downloads/Guidelines/spe_ce_reg.pdf)
+*   [Summary of experience for Crane Engineering](https://go.gov.sg/0mhr09)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Access Platform Engineering](/files/Downloads/Guidelines/spe_ap_reg.pdf)
+*   [Summary of experience for Access Platform Engineering](https://go.gov.sg/yb3gzk)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Pressure Vessel Engineering](/files/Downloads/Guidelines/spe_pv_reg.pdf)
 *   [Summary of experience for Pressure Vessel Engineering](https://go.gov.sg/mmrnoq)
@@ -24,6 +26,7 @@ variant: markdown
 *   [Summary of experience for Protective Security Engineering](https://go.gov.sg/534ihh)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Tunnelling Engineering](/files/Downloads/Guidelines/spe_tn_reg.pdf)
+*   [Summary of experience for Tunnelling Engineering](https://go.gov.sg/49kak8)
     
 *   [Guidelines For Application For Licensed Corporation and Partnerships](/files/Downloads/Guidelines/LicensedCorporationsOrPartnerships.pdf)
     
