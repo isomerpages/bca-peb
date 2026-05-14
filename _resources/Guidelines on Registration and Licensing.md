@@ -11,8 +11,10 @@ variant: markdown
 *   [Summary of experience for SPE Geotechnical Engineering](https://go.gov.sg/khr5oq)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Amusement Ride Engineering](/files/Downloads/Guidelines/spe_amr_reg.pdf) 
+*   [Summary of experience for Amusement Ride Engineering](https://go.gov.sg/r6a0p6)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Lift and Escalator Engineering](/files/Downloads/Guidelines/spe_le_reg.pdf)
+*   [Summary of experience for Crane Engineering](https://go.gov.sg/0mhr09)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Crane Engineering](/files/Downloads/Guidelines/spe_ce_reg.pdf)
 *   [Summary of experience for Crane Engineering](https://go.gov.sg/0mhr09)
