@@ -7,6 +7,7 @@ variant: markdown
 *   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/RegistrationasPE.pdf)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Geotechnical Engineering](/files/Downloads/Guidelines/spe_geo_reg.pdf)
+*   [Summary of experience for SPE Geotechnical Engineering](https://go.gov.sg/khr5oq)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Amusement Ride Engineering](/files/Downloads/Guidelines/spe_amr_reg.pdf)
     
