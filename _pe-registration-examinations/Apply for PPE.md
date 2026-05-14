@@ -19,7 +19,19 @@ variant: tiptap
 </li>
 </ul>
 <p>The following form is required to be downloaded for submission as part
-of the application process.
-<br><a href="https://go.gov.sg/summary-of-prof-experience" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
-<br><a href="https://www2.peb.gov.sg/Layouts/authentication.html#login" rel="noopener noreferrer nofollow" target="_blank">Click here to submit PPE application</a>
+of the application process.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/4q5q45" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
 </p>
+</li>
+<li>
+<p><a href="https://www2.peb.gov.sg/Layouts/authentication.html#login" rel="noopener noreferrer nofollow" target="_blank">Click here to submit PPE application</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PPE_Verification_Form.pdf" rel="noopener nofollow" target="_blank">PPE Verification Form</a>
+</p>
+</li>
+</ul>
+<p></p>
