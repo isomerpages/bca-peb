@@ -6,6 +6,7 @@ variant: markdown
 ---
 *   [Guidelines For Registration As A Professional Engineer](/files/Downloads/Guidelines/RegistrationasPE.pdf)
 *   [Certificate of Conduct ](https://go.gov.sg/vihnjy)
+*   [Summary of Postgraduate Experience](https://go.gov.sg/4q5q45)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Geotechnical Engineering](/files/Downloads/Guidelines/spe_geo_reg.pdf)
 *   [Summary of experience for SPE Geotechnical Engineering](https://go.gov.sg/khr5oq)
