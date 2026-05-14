@@ -9,7 +9,7 @@ variant: markdown
 *   [Guidelines For Registration As A Specialist Professional Engineer – Geotechnical Engineering](/files/Downloads/Guidelines/spe_geo_reg.pdf)
 *   [Summary of experience for SPE Geotechnical Engineering](https://go.gov.sg/khr5oq)
     
-*   [Guidelines For Registration As A Specialist Professional Engineer – Amusement Ride Engineering](/files/Downloads/Guidelines/spe_amr_reg.pdf)
+*   [Guidelines For Registration As A Specialist Professional Engineer – Amusement Ride Engineering](/files/Downloads/Guidelines/spe_amr_reg.pdf) 
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Lift and Escalator Engineering](/files/Downloads/Guidelines/spe_le_reg.pdf)
     
@@ -18,8 +18,10 @@ variant: markdown
 *   [Guidelines For Registration As A Specialist Professional Engineer – Access Platform Engineering](/files/Downloads/Guidelines/spe_ap_reg.pdf)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Pressure Vessel Engineering](/files/Downloads/Guidelines/spe_pv_reg.pdf)
+*   [Summary of experience for Pressure Vessel Engineering](https://go.gov.sg/mmrnoq)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Protective Security Engineering](/files/Downloads/Guidelines/spe_ps_reg.pdf)
+*   [Summary of experience for Protective Security Engineering](https://go.gov.sg/534ihh)
     
 *   [Guidelines For Registration As A Specialist Professional Engineer – Tunnelling Engineering](/files/Downloads/Guidelines/spe_tn_reg.pdf)
     
