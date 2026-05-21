@@ -22,7 +22,7 @@ variant: tiptap
 of the application process.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/4q5q45" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
+<p><a href="https://go.gov.sg/ppesummaryofexp" rel="noopener noreferrer nofollow" target="_blank">Summary of postgraduate professional experience</a>
 </p>
 </li>
 <li>
